@@ -1,0 +1,3230 @@
+Assembly File
+
+5.2.1
+
+Start1
+Date
+  7/11/2012 9:45:39 AM
+Dim Defaults Vert Spacing
+  1.36
+Dim Defaults Hor Spacing
+  1.36
+part_def_XY(0).Init_Values.Locater.X
+  0
+part_def_XY(0).Init_Values.Locater.Y
+  0
+part_def_XZ(0).Init_Values.Locater.X
+  0
+part_def_XZ(0).Init_Values.Locater.Y
+  0
+part_def_YZ(0).Init_Values.Locater.X
+  0
+part_def_YZ(0).Init_Values.Locater.Y
+  0
+dim_r1(1)
+  1.358
+dim_r1(2)
+  1.358
+DimMinMax.Point1.X
+  -0.432000000000007
+DimMinMax.Point1.Y
+  -5.17016090212811
+DimMinMax.Point1.Z
+  0
+DimMinMax.Point2.X
+  4.07897116410239
+DimMinMax.Point2.Y
+  1.10630406012336
+DimMinMax.Point2.Z
+  4.25700000000002
+NumberOfPorts
+  0
+CPickPointColor
+  65280
+DefaultSettings(1)
+  1.75 DOM
+DefaultSettings(2)
+  
+DefaultSettings(3)
+  10461087
+sNotes
+  
+rev01
+  
+description01
+  
+name01
+  GD_rear_cage_foot
+End1
+Start2
+Row
+  1
+type
+  Pickp
+sub_type
+  X
+part
+  0
+bend_num
+  0
+feature
+  X
+value
+  0
+Row
+  2
+type
+  Pickp
+sub_type
+  Y
+part
+  0
+bend_num
+  0
+feature
+  Y
+value
+  0
+Row
+  3
+type
+  Pickp
+sub_type
+  Z
+part
+  0
+bend_num
+  0
+feature
+  Z
+value
+  0
+Row
+  4
+type
+  Pickp
+sub_type
+  Display
+part
+  0
+bend_num
+  0
+feature
+  Display
+value
+  False
+Row
+  5
+type
+  Pickp
+sub_type
+  Color
+part
+  0
+bend_num
+  0
+feature
+  Color
+value
+  0
+Row
+  6
+type
+  Pickp
+sub_type
+  X
+part
+  1
+bend_num
+  0
+feature
+  X
+value
+  0
+Row
+  7
+type
+  Pickp
+sub_type
+  Y
+part
+  1
+bend_num
+  0
+feature
+  Y
+value
+  0
+Row
+  8
+type
+  Pickp
+sub_type
+  Z
+part
+  1
+bend_num
+  0
+feature
+  Z
+value
+  0
+Row
+  9
+type
+  Pickp
+sub_type
+  Display
+part
+  1
+bend_num
+  0
+feature
+  Display
+value
+  False
+Row
+  10
+type
+  Pickp
+sub_type
+  Color
+part
+  1
+bend_num
+  0
+feature
+  Color
+value
+  65280
+Row
+  11
+type
+  Pickp
+sub_type
+  X
+part
+  2
+bend_num
+  0
+feature
+  X
+value
+  4
+Row
+  12
+type
+  Pickp
+sub_type
+  Y
+part
+  2
+bend_num
+  0
+feature
+  Y
+value
+  0
+Row
+  13
+type
+  Pickp
+sub_type
+  Z
+part
+  2
+bend_num
+  0
+feature
+  Z
+value
+  0
+Row
+  14
+type
+  Pickp
+sub_type
+  Display
+part
+  2
+bend_num
+  0
+feature
+  Display
+value
+  False
+Row
+  15
+type
+  Pickp
+sub_type
+  Color
+part
+  2
+bend_num
+  0
+feature
+  Color
+value
+  65280
+Row
+  16
+type
+  Pickp
+sub_type
+  X
+part
+  3
+bend_num
+  0
+feature
+  X
+value
+  0
+Row
+  17
+type
+  Pickp
+sub_type
+  Y
+part
+  3
+bend_num
+  0
+feature
+  Y
+value
+  -5
+Row
+  18
+type
+  Pickp
+sub_type
+  Z
+part
+  3
+bend_num
+  0
+feature
+  Z
+value
+  0
+Row
+  19
+type
+  Pickp
+sub_type
+  Display
+part
+  3
+bend_num
+  0
+feature
+  Display
+value
+  False
+Row
+  20
+type
+  Pickp
+sub_type
+  Color
+part
+  3
+bend_num
+  0
+feature
+  Color
+value
+  65280
+Row
+  21
+type
+  Pickp
+sub_type
+  X
+part
+  4
+bend_num
+  0
+feature
+  X
+value
+  4
+Row
+  22
+type
+  Pickp
+sub_type
+  Y
+part
+  4
+bend_num
+  0
+feature
+  Y
+value
+  0.25
+Row
+  23
+type
+  Pickp
+sub_type
+  Z
+part
+  4
+bend_num
+  0
+feature
+  Z
+value
+  4.125
+Row
+  24
+type
+  Pickp
+sub_type
+  Display
+part
+  4
+bend_num
+  0
+feature
+  Display
+value
+  False
+Row
+  25
+type
+  Pickp
+sub_type
+  Color
+part
+  4
+bend_num
+  0
+feature
+  Color
+value
+  65280
+Row
+  26
+type
+  Pickp
+sub_type
+  X
+part
+  5
+bend_num
+  0
+feature
+  X
+value
+  -0.25
+Row
+  27
+type
+  Pickp
+sub_type
+  Y
+part
+  5
+bend_num
+  0
+feature
+  Y
+value
+  -5
+Row
+  28
+type
+  Pickp
+sub_type
+  Z
+part
+  5
+bend_num
+  0
+feature
+  Z
+value
+  4.125
+Row
+  29
+type
+  Pickp
+sub_type
+  Display
+part
+  5
+bend_num
+  0
+feature
+  Display
+value
+  False
+Row
+  30
+type
+  Pickp
+sub_type
+  Color
+part
+  5
+bend_num
+  0
+feature
+  Color
+value
+  65280
+Row
+  31
+type
+  Pickp
+sub_type
+  X
+part
+  6
+bend_num
+  0
+feature
+  X
+value
+  -0.25
+Row
+  32
+type
+  Pickp
+sub_type
+  Y
+part
+  6
+bend_num
+  0
+feature
+  Y
+value
+  0.25
+Row
+  33
+type
+  Pickp
+sub_type
+  Z
+part
+  6
+bend_num
+  0
+feature
+  Z
+value
+  4.125
+Row
+  34
+type
+  Pickp
+sub_type
+  Display
+part
+  6
+bend_num
+  0
+feature
+  Display
+value
+  False
+Row
+  35
+type
+  Pickp
+sub_type
+  Color
+part
+  6
+bend_num
+  0
+feature
+  Color
+value
+  65280
+Row
+  36
+type
+  Dimension
+sub_type
+  arrow_length
+part
+  1
+bend_num
+  0
+feature
+  arrow_length
+value
+  0.25
+Row
+  37
+type
+  Dimension
+sub_type
+  arrow_width
+part
+  1
+bend_num
+  0
+feature
+  arrow_width
+value
+  0.06
+Row
+  38
+type
+  Dimension
+sub_type
+  arrow_type
+part
+  1
+bend_num
+  0
+feature
+  arrow_type
+value
+  2
+Row
+  39
+type
+  Dimension
+sub_type
+  color_ext
+part
+  1
+bend_num
+  0
+feature
+  color_ext
+value
+  0
+Row
+  40
+type
+  Dimension
+sub_type
+  color_dim
+part
+  1
+bend_num
+  0
+feature
+  color_dim
+value
+  0
+Row
+  41
+type
+  Dimension
+sub_type
+  dim_line_angle
+part
+  1
+bend_num
+  0
+feature
+  dim_line_angle
+value
+  0
+Row
+  42
+type
+  Dimension
+sub_type
+  dim_loc
+part
+  1
+bend_num
+  0
+feature
+  X
+value
+  1.96767758486528
+Row
+  43
+type
+  Dimension
+sub_type
+  dim_loc
+part
+  1
+bend_num
+  0
+feature
+  Y
+value
+  11.7448112078183
+Row
+  44
+type
+  Dimension
+sub_type
+  dim_loc
+part
+  1
+bend_num
+  0
+feature
+  Z
+value
+  2.716
+Row
+  45
+type
+  Dimension
+sub_type
+  dim_type
+part
+  1
+bend_num
+  0
+feature
+  dim_type
+value
+  9
+Row
+  46
+type
+  Dimension
+sub_type
+  dim_value
+part
+  1
+bend_num
+  0
+feature
+  dim_value
+value
+  4.25
+Row
+  47
+type
+  Dimension
+sub_type
+  display_arrow1
+part
+  1
+bend_num
+  0
+feature
+  display_arrow1
+value
+  False
+Row
+  48
+type
+  Dimension
+sub_type
+  display_arrow2
+part
+  1
+bend_num
+  0
+feature
+  display_arrow2
+value
+  False
+Row
+  49
+type
+  Dimension
+sub_type
+  ext_offset
+part
+  1
+bend_num
+  0
+feature
+  ext_offset
+value
+  0.125
+Row
+  50
+type
+  Dimension
+sub_type
+  Point1.location1
+part
+  1
+bend_num
+  0
+feature
+  X
+value
+  0.182000000000007
+Row
+  51
+type
+  Dimension
+sub_type
+  Point1.location1
+part
+  1
+bend_num
+  0
+feature
+  Y
+value
+  10.79
+Row
+  52
+type
+  Dimension
+sub_type
+  Point1.location
+part
+  1
+bend_num
+  0
+feature
+  Z
+value
+  4.125
+Row
+  53
+type
+  Dimension
+sub_type
+  Point2.location1
+part
+  1
+bend_num
+  0
+feature
+  X
+value
+  4.43200000000001
+Row
+  54
+type
+  Dimension
+sub_type
+  Point2.location1
+part
+  1
+bend_num
+  0
+feature
+  Y
+value
+  10.79
+Row
+  55
+type
+  Dimension
+sub_type
+  Point2.location
+part
+  1
+bend_num
+  0
+feature
+  Z
+value
+  4.125
+Row
+  56
+type
+  Dimension
+sub_type
+  Point3.location1
+part
+  1
+bend_num
+  0
+feature
+  X
+value
+  0
+Row
+  57
+type
+  Dimension
+sub_type
+  Point3.location1
+part
+  1
+bend_num
+  0
+feature
+  Y
+value
+  0
+Row
+  58
+type
+  Dimension
+sub_type
+  Point3.location
+part
+  1
+bend_num
+  0
+feature
+  Z
+value
+  0
+Row
+  59
+type
+  Dimension
+sub_type
+  Point4.location1
+part
+  1
+bend_num
+  0
+feature
+  X
+value
+  0
+Row
+  60
+type
+  Dimension
+sub_type
+  Point4.location1
+part
+  1
+bend_num
+  0
+feature
+  Y
+value
+  0
+Row
+  61
+type
+  Dimension
+sub_type
+  Point4.location
+part
+  1
+bend_num
+  0
+feature
+  Z
+value
+  0
+Row
+  62
+type
+  Dimension
+sub_type
+  Point1
+part
+  1
+bend_num
+  0
+feature
+  Point_Main_Num
+value
+  6
+Row
+  63
+type
+  Dimension
+sub_type
+  Point2
+part
+  1
+bend_num
+  0
+feature
+  Point_Main_Num
+value
+  4
+Row
+  64
+type
+  Dimension
+sub_type
+  Point3
+part
+  1
+bend_num
+  0
+feature
+  Point_Main_Num
+value
+  0
+Row
+  65
+type
+  Dimension
+sub_type
+  Point4
+part
+  1
+bend_num
+  0
+feature
+  Point_Main_Num
+value
+  0
+Row
+  66
+type
+  Dimension
+sub_type
+  Point1
+part
+  1
+bend_num
+  0
+feature
+  Point_Sub_Num
+value
+  
+Row
+  67
+type
+  Dimension
+sub_type
+  Point2
+part
+  1
+bend_num
+  0
+feature
+  Point_Sub_Num
+value
+  
+Row
+  68
+type
+  Dimension
+sub_type
+  Point3
+part
+  1
+bend_num
+  0
+feature
+  Point_Sub_Num
+value
+  
+Row
+  69
+type
+  Dimension
+sub_type
+  Point4
+part
+  1
+bend_num
+  0
+feature
+  Point_Sub_Num
+value
+  
+Row
+  70
+type
+  Dimension
+sub_type
+  Point1
+part
+  1
+bend_num
+  0
+feature
+  Point_Type
+value
+  Point
+Row
+  71
+type
+  Dimension
+sub_type
+  Point2
+part
+  1
+bend_num
+  0
+feature
+  Point_Type
+value
+  Point
+Row
+  72
+type
+  Dimension
+sub_type
+  Point3
+part
+  1
+bend_num
+  0
+feature
+  Point_Type
+value
+  
+Row
+  73
+type
+  Dimension
+sub_type
+  Point4
+part
+  1
+bend_num
+  0
+feature
+  Point_Type
+value
+  
+Row
+  74
+type
+  Dimension
+sub_type
+  Point1
+part
+  1
+bend_num
+  0
+feature
+  view
+value
+  1
+Row
+  75
+type
+  Dimension
+sub_type
+  Point2
+part
+  1
+bend_num
+  0
+feature
+  view
+value
+  1
+Row
+  76
+type
+  Dimension
+sub_type
+  Point3
+part
+  1
+bend_num
+  0
+feature
+  view
+value
+  0
+Row
+  77
+type
+  Dimension
+sub_type
+  Point4
+part
+  1
+bend_num
+  0
+feature
+  view
+value
+  0
+Row
+  78
+type
+  Dimension
+sub_type
+  Text_Angle
+part
+  1
+bend_num
+  0
+feature
+  Text_Angle
+value
+  0
+Row
+  79
+type
+  Dimension
+sub_type
+  text_color
+part
+  1
+bend_num
+  0
+feature
+  text_color
+value
+  0
+Row
+  80
+type
+  Dimension
+sub_type
+  text_font
+part
+  1
+bend_num
+  0
+feature
+  text_font
+value
+  
+Row
+  81
+type
+  Dimension
+sub_type
+  text_size
+part
+  1
+bend_num
+  0
+feature
+  text_size
+value
+  16
+Row
+  82
+type
+  Dimension
+sub_type
+  Text1
+part
+  1
+bend_num
+  0
+feature
+  Text1
+value
+  4.25
+Row
+  83
+type
+  Dimension
+sub_type
+  arrow_length
+part
+  2
+bend_num
+  0
+feature
+  arrow_length
+value
+  0.25
+Row
+  84
+type
+  Dimension
+sub_type
+  arrow_width
+part
+  2
+bend_num
+  0
+feature
+  arrow_width
+value
+  0.06
+Row
+  85
+type
+  Dimension
+sub_type
+  arrow_type
+part
+  2
+bend_num
+  0
+feature
+  arrow_type
+value
+  2
+Row
+  86
+type
+  Dimension
+sub_type
+  color_ext
+part
+  2
+bend_num
+  0
+feature
+  color_ext
+value
+  0
+Row
+  87
+type
+  Dimension
+sub_type
+  color_dim
+part
+  2
+bend_num
+  0
+feature
+  color_dim
+value
+  0
+Row
+  88
+type
+  Dimension
+sub_type
+  dim_line_angle
+part
+  2
+bend_num
+  0
+feature
+  dim_line_angle
+value
+  270
+Row
+  89
+type
+  Dimension
+sub_type
+  dim_loc
+part
+  2
+bend_num
+  0
+feature
+  X
+value
+  -1.79790469132384
+Row
+  90
+type
+  Dimension
+sub_type
+  dim_loc
+part
+  2
+bend_num
+  0
+feature
+  Y
+value
+  7.8391822817907
+Row
+  91
+type
+  Dimension
+sub_type
+  dim_loc
+part
+  2
+bend_num
+  0
+feature
+  Z
+value
+  2.716
+Row
+  92
+type
+  Dimension
+sub_type
+  dim_type
+part
+  2
+bend_num
+  0
+feature
+  dim_type
+value
+  10
+Row
+  93
+type
+  Dimension
+sub_type
+  dim_value
+part
+  2
+bend_num
+  0
+feature
+  dim_value
+value
+  5.25
+Row
+  94
+type
+  Dimension
+sub_type
+  display_arrow1
+part
+  2
+bend_num
+  0
+feature
+  display_arrow1
+value
+  False
+Row
+  95
+type
+  Dimension
+sub_type
+  display_arrow2
+part
+  2
+bend_num
+  0
+feature
+  display_arrow2
+value
+  False
+Row
+  96
+type
+  Dimension
+sub_type
+  ext_offset
+part
+  2
+bend_num
+  0
+feature
+  ext_offset
+value
+  0.125
+Row
+  97
+type
+  Dimension
+sub_type
+  Point1.location1
+part
+  2
+bend_num
+  0
+feature
+  X
+value
+  0.182000000000007
+Row
+  98
+type
+  Dimension
+sub_type
+  Point1.location1
+part
+  2
+bend_num
+  0
+feature
+  Y
+value
+  10.79
+Row
+  99
+type
+  Dimension
+sub_type
+  Point1.location
+part
+  2
+bend_num
+  0
+feature
+  Z
+value
+  4.125
+Row
+  100
+type
+  Dimension
+sub_type
+  Point2.location1
+part
+  2
+bend_num
+  0
+feature
+  X
+value
+  0.182000000000007
+Row
+  101
+type
+  Dimension
+sub_type
+  Point2.location1
+part
+  2
+bend_num
+  0
+feature
+  Y
+value
+  5.54
+Row
+  102
+type
+  Dimension
+sub_type
+  Point2.location
+part
+  2
+bend_num
+  0
+feature
+  Z
+value
+  4.125
+Row
+  103
+type
+  Dimension
+sub_type
+  Point3.location1
+part
+  2
+bend_num
+  0
+feature
+  X
+value
+  0
+Row
+  104
+type
+  Dimension
+sub_type
+  Point3.location1
+part
+  2
+bend_num
+  0
+feature
+  Y
+value
+  0
+Row
+  105
+type
+  Dimension
+sub_type
+  Point3.location
+part
+  2
+bend_num
+  0
+feature
+  Z
+value
+  0
+Row
+  106
+type
+  Dimension
+sub_type
+  Point4.location1
+part
+  2
+bend_num
+  0
+feature
+  X
+value
+  0
+Row
+  107
+type
+  Dimension
+sub_type
+  Point4.location1
+part
+  2
+bend_num
+  0
+feature
+  Y
+value
+  0
+Row
+  108
+type
+  Dimension
+sub_type
+  Point4.location
+part
+  2
+bend_num
+  0
+feature
+  Z
+value
+  0
+Row
+  109
+type
+  Dimension
+sub_type
+  Point1
+part
+  2
+bend_num
+  0
+feature
+  Point_Main_Num
+value
+  6
+Row
+  110
+type
+  Dimension
+sub_type
+  Point2
+part
+  2
+bend_num
+  0
+feature
+  Point_Main_Num
+value
+  5
+Row
+  111
+type
+  Dimension
+sub_type
+  Point3
+part
+  2
+bend_num
+  0
+feature
+  Point_Main_Num
+value
+  0
+Row
+  112
+type
+  Dimension
+sub_type
+  Point4
+part
+  2
+bend_num
+  0
+feature
+  Point_Main_Num
+value
+  0
+Row
+  113
+type
+  Dimension
+sub_type
+  Point1
+part
+  2
+bend_num
+  0
+feature
+  Point_Sub_Num
+value
+  
+Row
+  114
+type
+  Dimension
+sub_type
+  Point2
+part
+  2
+bend_num
+  0
+feature
+  Point_Sub_Num
+value
+  
+Row
+  115
+type
+  Dimension
+sub_type
+  Point3
+part
+  2
+bend_num
+  0
+feature
+  Point_Sub_Num
+value
+  
+Row
+  116
+type
+  Dimension
+sub_type
+  Point4
+part
+  2
+bend_num
+  0
+feature
+  Point_Sub_Num
+value
+  
+Row
+  117
+type
+  Dimension
+sub_type
+  Point1
+part
+  2
+bend_num
+  0
+feature
+  Point_Type
+value
+  Point
+Row
+  118
+type
+  Dimension
+sub_type
+  Point2
+part
+  2
+bend_num
+  0
+feature
+  Point_Type
+value
+  Point
+Row
+  119
+type
+  Dimension
+sub_type
+  Point3
+part
+  2
+bend_num
+  0
+feature
+  Point_Type
+value
+  
+Row
+  120
+type
+  Dimension
+sub_type
+  Point4
+part
+  2
+bend_num
+  0
+feature
+  Point_Type
+value
+  
+Row
+  121
+type
+  Dimension
+sub_type
+  Point1
+part
+  2
+bend_num
+  0
+feature
+  view
+value
+  1
+Row
+  122
+type
+  Dimension
+sub_type
+  Point2
+part
+  2
+bend_num
+  0
+feature
+  view
+value
+  1
+Row
+  123
+type
+  Dimension
+sub_type
+  Point3
+part
+  2
+bend_num
+  0
+feature
+  view
+value
+  0
+Row
+  124
+type
+  Dimension
+sub_type
+  Point4
+part
+  2
+bend_num
+  0
+feature
+  view
+value
+  0
+Row
+  125
+type
+  Dimension
+sub_type
+  Text_Angle
+part
+  2
+bend_num
+  0
+feature
+  Text_Angle
+value
+  0
+Row
+  126
+type
+  Dimension
+sub_type
+  text_color
+part
+  2
+bend_num
+  0
+feature
+  text_color
+value
+  0
+Row
+  127
+type
+  Dimension
+sub_type
+  text_font
+part
+  2
+bend_num
+  0
+feature
+  text_font
+value
+  
+Row
+  128
+type
+  Dimension
+sub_type
+  text_size
+part
+  2
+bend_num
+  0
+feature
+  text_size
+value
+  16
+Row
+  129
+type
+  Dimension
+sub_type
+  Text1
+part
+  2
+bend_num
+  0
+feature
+  Text1
+value
+  5.25
+Row
+  130
+type
+  Dimension
+sub_type
+  arrow_length
+part
+  3
+bend_num
+  0
+feature
+  arrow_length
+value
+  0.25
+Row
+  131
+type
+  Dimension
+sub_type
+  arrow_width
+part
+  3
+bend_num
+  0
+feature
+  arrow_width
+value
+  0.06
+Row
+  132
+type
+  Dimension
+sub_type
+  arrow_type
+part
+  3
+bend_num
+  0
+feature
+  arrow_type
+value
+  2
+Row
+  133
+type
+  Dimension
+sub_type
+  color_ext
+part
+  3
+bend_num
+  0
+feature
+  color_ext
+value
+  0
+Row
+  134
+type
+  Dimension
+sub_type
+  color_dim
+part
+  3
+bend_num
+  0
+feature
+  color_dim
+value
+  0
+Row
+  135
+type
+  Dimension
+sub_type
+  dim_line_angle
+part
+  3
+bend_num
+  0
+feature
+  dim_line_angle
+value
+  270
+Row
+  136
+type
+  Dimension
+sub_type
+  dim_loc
+part
+  3
+bend_num
+  0
+feature
+  X
+value
+  5.08121042722506
+Row
+  137
+type
+  Dimension
+sub_type
+  dim_loc
+part
+  3
+bend_num
+  0
+feature
+  Y
+value
+  2.28305744978489
+Row
+  138
+type
+  Dimension
+sub_type
+  dim_loc
+part
+  3
+bend_num
+  0
+feature
+  Z
+value
+  2.716
+Row
+  139
+type
+  Dimension
+sub_type
+  dim_type
+part
+  3
+bend_num
+  0
+feature
+  dim_type
+value
+  10
+Row
+  140
+type
+  Dimension
+sub_type
+  dim_value
+part
+  3
+bend_num
+  0
+feature
+  dim_value
+value
+  4.125
+Row
+  141
+type
+  Dimension
+sub_type
+  display_arrow1
+part
+  3
+bend_num
+  0
+feature
+  display_arrow1
+value
+  False
+Row
+  142
+type
+  Dimension
+sub_type
+  display_arrow2
+part
+  3
+bend_num
+  0
+feature
+  display_arrow2
+value
+  False
+Row
+  143
+type
+  Dimension
+sub_type
+  ext_offset
+part
+  3
+bend_num
+  0
+feature
+  ext_offset
+value
+  0.125
+Row
+  144
+type
+  Dimension
+sub_type
+  Point1.location1
+part
+  3
+bend_num
+  0
+feature
+  X
+value
+  5.79
+Row
+  145
+type
+  Dimension
+sub_type
+  Point1.location1
+part
+  3
+bend_num
+  0
+feature
+  Y
+value
+  4.125
+Row
+  146
+type
+  Dimension
+sub_type
+  Point1.location
+part
+  3
+bend_num
+  0
+feature
+  Z
+value
+  0.182000000000007
+Row
+  147
+type
+  Dimension
+sub_type
+  Point2.location1
+part
+  3
+bend_num
+  0
+feature
+  X
+value
+  5.79
+Row
+  148
+type
+  Dimension
+sub_type
+  Point2.location1
+part
+  3
+bend_num
+  0
+feature
+  Y
+value
+  0
+Row
+  149
+type
+  Dimension
+sub_type
+  Point2.location
+part
+  3
+bend_num
+  0
+feature
+  Z
+value
+  0.432000000000007
+Row
+  150
+type
+  Dimension
+sub_type
+  Point3.location1
+part
+  3
+bend_num
+  0
+feature
+  X
+value
+  0
+Row
+  151
+type
+  Dimension
+sub_type
+  Point3.location1
+part
+  3
+bend_num
+  0
+feature
+  Y
+value
+  0
+Row
+  152
+type
+  Dimension
+sub_type
+  Point3.location
+part
+  3
+bend_num
+  0
+feature
+  Z
+value
+  0
+Row
+  153
+type
+  Dimension
+sub_type
+  Point4.location1
+part
+  3
+bend_num
+  0
+feature
+  X
+value
+  0
+Row
+  154
+type
+  Dimension
+sub_type
+  Point4.location1
+part
+  3
+bend_num
+  0
+feature
+  Y
+value
+  0
+Row
+  155
+type
+  Dimension
+sub_type
+  Point4.location
+part
+  3
+bend_num
+  0
+feature
+  Z
+value
+  0
+Row
+  156
+type
+  Dimension
+sub_type
+  Point1
+part
+  3
+bend_num
+  0
+feature
+  Point_Main_Num
+value
+  5
+Row
+  157
+type
+  Dimension
+sub_type
+  Point2
+part
+  3
+bend_num
+  0
+feature
+  Point_Main_Num
+value
+  3
+Row
+  158
+type
+  Dimension
+sub_type
+  Point3
+part
+  3
+bend_num
+  0
+feature
+  Point_Main_Num
+value
+  0
+Row
+  159
+type
+  Dimension
+sub_type
+  Point4
+part
+  3
+bend_num
+  0
+feature
+  Point_Main_Num
+value
+  0
+Row
+  160
+type
+  Dimension
+sub_type
+  Point1
+part
+  3
+bend_num
+  0
+feature
+  Point_Sub_Num
+value
+  
+Row
+  161
+type
+  Dimension
+sub_type
+  Point2
+part
+  3
+bend_num
+  0
+feature
+  Point_Sub_Num
+value
+  
+Row
+  162
+type
+  Dimension
+sub_type
+  Point3
+part
+  3
+bend_num
+  0
+feature
+  Point_Sub_Num
+value
+  
+Row
+  163
+type
+  Dimension
+sub_type
+  Point4
+part
+  3
+bend_num
+  0
+feature
+  Point_Sub_Num
+value
+  
+Row
+  164
+type
+  Dimension
+sub_type
+  Point1
+part
+  3
+bend_num
+  0
+feature
+  Point_Type
+value
+  Point
+Row
+  165
+type
+  Dimension
+sub_type
+  Point2
+part
+  3
+bend_num
+  0
+feature
+  Point_Type
+value
+  Point
+Row
+  166
+type
+  Dimension
+sub_type
+  Point3
+part
+  3
+bend_num
+  0
+feature
+  Point_Type
+value
+  
+Row
+  167
+type
+  Dimension
+sub_type
+  Point4
+part
+  3
+bend_num
+  0
+feature
+  Point_Type
+value
+  
+Row
+  168
+type
+  Dimension
+sub_type
+  Point1
+part
+  3
+bend_num
+  0
+feature
+  view
+value
+  3
+Row
+  169
+type
+  Dimension
+sub_type
+  Point2
+part
+  3
+bend_num
+  0
+feature
+  view
+value
+  3
+Row
+  170
+type
+  Dimension
+sub_type
+  Point3
+part
+  3
+bend_num
+  0
+feature
+  view
+value
+  0
+Row
+  171
+type
+  Dimension
+sub_type
+  Point4
+part
+  3
+bend_num
+  0
+feature
+  view
+value
+  0
+Row
+  172
+type
+  Dimension
+sub_type
+  Text_Angle
+part
+  3
+bend_num
+  0
+feature
+  Text_Angle
+value
+  0
+Row
+  173
+type
+  Dimension
+sub_type
+  text_color
+part
+  3
+bend_num
+  0
+feature
+  text_color
+value
+  0
+Row
+  174
+type
+  Dimension
+sub_type
+  text_font
+part
+  3
+bend_num
+  0
+feature
+  text_font
+value
+  
+Row
+  175
+type
+  Dimension
+sub_type
+  text_size
+part
+  3
+bend_num
+  0
+feature
+  text_size
+value
+  16
+Row
+  176
+type
+  Dimension
+sub_type
+  Text1
+part
+  3
+bend_num
+  0
+feature
+  Text1
+value
+  4.12
+End2
+<Assembly Starting Key>05</Assembly Starting Key>
+<Assembly Unique Key>2</Assembly Unique Key>
+
+<Start Assembly Plate Information><Start Assembly Master Plate>
+<Start Text>
+</End Text>
+
+<Start Parts>
+<Row>Type:1	Loc1X:0	Loc1Y:0	Loc1Z:0	Loc2X:5	Loc2Y:-3.16985478664156E-14	Loc2Z:-1.02420705840152E-28	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:0	Loc1Y:4.26503233771913E-16	Loc1Z:-0.132	Loc2X:5	Loc2Y:-3.12720446326437E-14	Loc2Z:-0.132	Loc3X:0	Loc3Y:0	Loc3Z:0.132	Loc4X:0	Loc4Y:0	Loc4Z:0.132	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:0	Loc1Y:0	Loc1Z:0	Loc2X:0	Loc2Y:4.26503233771913E-16	Loc2Z:-0.132	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-3.16985478664156E-14	Loc1Z:-1.02420705840152E-28	Loc2X:5.00000000000003	Loc2Y:3.99999999999997	Loc2Z:1.29243404173306E-14	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-3.12720446326437E-14	Loc1Z:-0.132	Loc2X:5.00000000000003	Loc2Y:3.99999999999997	Loc2Z:-0.131999999999987	Loc3X:0	Loc3Y:0	Loc3Z:0.132	Loc4X:0	Loc4Y:0	Loc4Z:0.132	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-3.16985478664156E-14	Loc1Z:-1.02420705840152E-28	Loc2X:5	Loc2Y:-3.12720446326437E-14	Loc2Z:-0.132	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.00000000000003	Loc1Y:3.99999999999997	Loc1Z:1.29243404173306E-14	Loc2X:0	Loc2Y:0	Loc2Z:0	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.00000000000003	Loc1Y:3.99999999999997	Loc1Z:-0.131999999999987	Loc2X:0	Loc2Y:4.26503233771913E-16	Loc2Z:-0.132	Loc3X:0	Loc3Y:0	Loc3Z:0.132	Loc4X:0	Loc4Y:0	Loc4Z:0.132	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.00000000000003	Loc1Y:3.99999999999997	Loc1Z:1.29243404173306E-14	Loc2X:5.00000000000003	Loc2Y:3.99999999999997	Loc2Z:-0.131999999999987	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-4.69303395120858E-02	Loc1Z:-0.135693497821459	Loc2X:5	Loc2Y:-1.51166191109803E-14	Loc2Z:-0.132	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-6.75796888973972E-02	Loc1Z:-5.31863686290099E-03	Loc2X:5	Loc2Y:-1.55431223447522E-14	Loc2Z:-5.02211510829492E-29	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:0	Loc1Y:4.26503233771913E-16	Loc1Z:-0.132	Loc2X:-2.97505076130022E-16	Loc2Y:-4.69303395120702E-02	Loc2Z:-0.135693497821459	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:0	Loc1Y:0	Loc1Z:0	Loc2X:-4.28476698566271E-16	Loc2Y:-6.75796888973817E-02	Loc2Z:-5.31863686290099E-03	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-9.27050983125016E-02	Loc1Z:-0.146683045111455	Loc2X:5	Loc2Y:-4.69303395120853E-02	Loc2Z:-0.135693497821459	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-0.133495341569996	Loc1Z:-0.021143584960495	Loc2X:5	Loc2Y:-6.75796888973966E-02	Loc2Z:-5.31863686290094E-03	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-2.97505076130022E-16	Loc1Y:-4.69303395120698E-02	Loc1Z:-0.135693497821459	Loc2X:-5.87637577487143E-16	Loc2Y:-0.092705098312486	Loc2Z:-0.146683045111455	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-4.28476698566271E-16	Loc1Y:-6.75796888973811E-02	Loc1Z:-5.31863686290094E-03	Loc2X:-8.46111375407688E-16	Loc2Y:-0.13349534156998	Loc2Z:-0.021143584960495	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-0.136197149921881	Loc1Z:-0.164698042743491	Loc2X:5	Loc2Y:-9.27050983125001E-02	Loc2Z:-0.146683045111454	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-0.196123895887502	Loc1Z:-0.047085181550627	Loc2X:5	Loc2Y:-0.133495341569994	Loc2Z:-2.11435849604944E-02	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-5.87637577487143E-16	Loc1Y:-9.27050983124845E-02	Loc1Z:-0.146683045111454	Loc2X:-8.63458610167456E-16	Loc2Y:-0.136197149921866	Loc2Z:-0.164698042743491	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-8.46111375407688E-16	Loc1Y:-0.133495341569978	Loc1Z:-2.11435849604944E-02	Loc2X:-1.24336305140638E-15	Loc2Y:-0.196123895887487	Loc2Z:-0.047085181550627	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-0.176335575687759	Loc1Z:-0.189294901687518	Loc2X:5	Loc2Y:-0.13619714992188	Loc2Z:-0.16469804274349	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-0.253923228990366	Loc1Z:-8.25046584300253E-02	Loc2X:5	Loc2Y:-0.196123895887501	Loc2Z:-4.70851815506263E-02	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-8.63458610167456E-16	Loc1Y:-0.136197149921864	Loc1Z:-0.16469804274349	Loc2X:-1.11802928026705E-15	Loc2Y:-0.176335575687743	Loc2Z:-0.189294901687518	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-3.55184631706251E-16	Loc1Y:-0.196123895887485	Loc1Z:-4.70851815506263E-02	Loc2X:-7.21644966006352E-16	Loc2Y:-0.253923228990351	Loc2Z:-8.25046584300253E-02	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-0.212132034355981	Loc1Z:-0.219867965644038	Loc2X:5	Loc2Y:-0.176335575687758	Loc2Z:-0.189294901687517	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-0.305470129472606	Loc1Z:-0.126529870527415	Loc2X:5	Loc2Y:-0.253923228990365	Loc2Z:-8.25046584300242E-02	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-2.29850860566927E-16	Loc1Y:-0.176335575687742	Loc1Z:-0.189294901687517	Loc2X:-4.56665955050894E-16	Loc2Y:-0.212132034355965	Loc2Z:-0.219867965644038	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-7.21644966006352E-16	Loc1Y:-0.253923228990349	Loc1Z:-8.25046584300242E-02	Loc2X:-1.04820666035899E-15	Loc2Y:-0.305470129472591	Loc2Z:-0.126529870527415	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-0.2427050983125	Loc1Z:-0.25566442431226	Loc2X:5	Loc2Y:-0.21213203435598	Loc2Z:-0.219867965644037	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-0.349495341569994	Loc1Z:-0.178076771009655	Loc2X:5	Loc2Y:-0.305470129472604	Loc2Z:-0.126529870527413	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-4.56665955050894E-16	Loc1Y:-0.212132034355964	Loc1Z:-0.219867965644037	Loc2X:-6.50521303491303E-16	Loc2Y:-0.242705098312485	Loc2Z:-0.25566442431226	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-1.04820666035899E-15	Loc1Y:-0.305470129472589	Loc1Z:-0.126529870527413	Loc2X:-1.32749713999125E-15	Loc2Y:-0.349495341569979	Loc2Z:-0.178076771009655	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-0.267301957256526	Loc1Z:-0.295802850078139	Loc2X:5	Loc2Y:-0.242705098312499	Loc2Z:-0.255664424312259	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-0.384914818449391	Loc1Z:-0.23587610411252	Loc2X:5	Loc2Y:-0.349495341569993	Loc2Z:-0.178076771009654	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-6.50521303491303E-16	Loc1Y:-0.242705098312484	Loc1Z:-0.255664424312259	Loc2X:-8.06646416329215E-16	Loc2Y:-0.26730195725651	Loc2Z:-0.295802850078139	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-1.32749713999125E-15	Loc1Y:-0.349495341569977	Loc1Z:-0.178076771009654	Loc2X:-1.55214383013025E-15	Loc2Y:-0.384914818449376	Loc2Z:-0.23587610411252	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-0.285316954888561	Loc1Z:-0.339294901687519	Loc2X:5	Loc2Y:-0.267301957256525	Loc2Z:-0.295802850078137	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-0.410856415039522	Loc1Z:-0.298504658430027	Loc2X:5	Loc2Y:-0.38491481844939	Loc2Z:-0.235876104112518	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-8.06646416329215E-16	Loc1Y:-0.26730195725651	Loc1Z:-0.295802850078137	Loc2X:-9.2070448487469E-16	Loc2Y:-0.285316954888546	Loc2Z:-0.339294901687519	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-1.55214383013025E-15	Loc1Y:-0.384914818449375	Loc1Z:-0.235876104112518	Loc2X:-1.71650887947905E-15	Loc2Y:-0.410856415039506	Loc2Z:-0.298504658430027	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-0.296306502178556	Loc1Z:-0.385069660487934	Loc2X:5	Loc2Y:-0.285316954888561	Loc2Z:-0.339294901687517	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-0.426681363137114	Loc1Z:-0.364420311102624	Loc2X:5	Loc2Y:-0.410856415039521	Loc2Z:-0.298504658430025	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-9.2070448487469E-16	Loc1Y:-0.285316954888545	Loc1Z:-0.339294901687517	Loc2X:-9.90527104782757E-16	Loc2Y:-0.29630650217854	Loc2Z:-0.385069660487934	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-1.71650887947905E-15	Loc1Y:-0.410856415039506	Loc1Z:-0.298504658430025	Loc2X:-1.81668916021671E-15	Loc2Y:-0.426681363137099	Loc2Z:-0.364420311102624	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-1.01177746736347E-15	Loc1Y:-0.299706865252264	Loc1Z:-0.428275369879997	Loc2X:5	Loc2Y:-0.299706865252279	Loc2Z:-0.428275369879997	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-9.59735763084169E-16	Loc1Y:-0.431577885963261	Loc1Z:-0.426636532627196	Loc2X:5	Loc2Y:-0.431577885963276	Loc2Z:-0.426636532627196	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-1.01177746736347E-15	Loc1Y:-0.299706865252264	Loc1Z:-0.428275369879997	Loc2X:-9.59735763084169E-16	Loc2Y:-0.431577885963261	Loc2Z:-0.426636532627196	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-0.299706865252279	Loc1Z:-0.428275369879997	Loc2X:5	Loc2Y:-0.431577885963276	Loc2Z:-0.426636532627196	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-0.299706865252279	Loc1Z:-0.428275369879997	Loc2X:5	Loc2Y:-0.296306502178556	Loc2Z:-0.385069660487932	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-0.431577885963276	Loc1Z:-0.426636532627196	Loc2X:5	Loc2Y:-0.426681363137114	Loc2Z:-0.364420311102622	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-0.299706865252279	Loc1Z:-0.428275369879997	Loc2X:5	Loc2Y:-0.431577885963276	Loc2Z:-0.426636532627196	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-9.90527104782757E-16	Loc1Y:-0.29630650217854	Loc1Z:-0.385069660487932	Loc2X:-1.01177746736347E-15	Loc2Y:-0.299706865252264	Loc2Z:-0.428275369879997	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-9.28510740516586E-16	Loc1Y:-0.426681363137098	Loc1Z:-0.364420311102622	Loc2X:-9.59735763084169E-16	Loc2Y:-0.431577885963261	Loc2Z:-0.426636532627196	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-1.01177746736347E-15	Loc1Y:-0.299706865252264	Loc1Z:-0.428275369879997	Loc2X:-9.59735763084169E-16	Loc2Y:-0.431577885963261	Loc2Z:-0.426636532627196	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-0.432000000000014	Loc1Z:-0.432000000000001	Loc2X:-2.73869468769838E-15	Loc2Y:-0.431999999999999	Loc2Z:-0.432000000000001	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-0.300000000000014	Loc1Z:-0.432	Loc2X:-2.32835625779693E-15	Loc2Y:-0.299999999999999	Loc2Z:-0.432	Loc3X:0	Loc3Y:0	Loc3Z:0.132	Loc4X:0	Loc4Y:0	Loc4Z:0.132	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-0.432000000000014	Loc1Z:-0.432000000000001	Loc2X:5	Loc2Y:-0.300000000000014	Loc2Z:-0.432	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-2.73869468769838E-15	Loc1Y:-0.431999999999999	Loc1Z:-0.432000000000001	Loc2X:-2.7386946876984E-15	Loc2Y:-0.431999999999993	Loc2Z:-4.182	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-2.32835625779693E-15	Loc1Y:-0.299999999999999	Loc1Z:-0.432	Loc2X:-2.32835625779695E-15	Loc2Y:-0.299999999999993	Loc2Z:-4.182	Loc3X:0	Loc3Y:0	Loc3Z:0.132	Loc4X:0	Loc4Y:0	Loc4Z:0.132	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-2.73869468769838E-15	Loc1Y:-0.431999999999999	Loc1Z:-0.432000000000001	Loc2X:-2.32835625779693E-15	Loc2Y:-0.299999999999999	Loc2Z:-0.432	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-2.7386946876984E-15	Loc1Y:-0.431999999999993	Loc1Z:-4.182	Loc2X:5	Loc2Y:-0.432000000000008	Loc2Z:-4.182	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-2.32835625779695E-15	Loc1Y:-0.299999999999993	Loc1Z:-4.182	Loc2X:5	Loc2Y:-0.300000000000008	Loc2Z:-4.182	Loc3X:0	Loc3Y:0	Loc3Z:0.132	Loc4X:0	Loc4Y:0	Loc4Z:0.132	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-2.7386946876984E-15	Loc1Y:-0.431999999999993	Loc1Z:-4.182	Loc2X:-2.32835625779695E-15	Loc2Y:-0.299999999999993	Loc2Z:-4.182	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-0.432000000000008	Loc1Z:-4.182	Loc2X:5	Loc2Y:-0.432000000000014	Loc2Z:-0.432000000000001	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-0.300000000000008	Loc1Z:-4.182	Loc2X:5	Loc2Y:-0.300000000000014	Loc2Z:-0.432	Loc3X:0	Loc3Y:0	Loc3Z:0.132	Loc4X:0	Loc4Y:0	Loc4Z:0.132	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-0.432000000000008	Loc1Z:-4.182	Loc2X:5	Loc2Y:-0.300000000000008	Loc2Z:-4.182	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.04693033951209	Loc1Y:3.99999999999997	Loc1Z:-0.135693497821446	Loc2X:5.00000000000002	Loc2Y:3.99999999999997	Loc2Z:-0.131999999999987	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.0675796888974	Loc1Y:3.99999999999997	Loc1Z:-5.31863686288785E-03	Loc2X:5.00000000000002	Loc2Y:3.99999999999997	Loc2Z:1.29243404173306E-14	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-3.12720446326437E-14	Loc1Z:-0.132	Loc2X:5.04693033951207	Loc2Y:-3.14818173890626E-14	Loc2Z:-0.135693497821459	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5	Loc1Y:-3.16985478664156E-14	Loc1Z:-1.02420705840152E-28	Loc2X:5.06757968889738	Loc2Y:-3.20006206356588E-14	Loc2Z:-5.31863686290077E-03	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.09270509831251	Loc1Y:3.99999999999997	Loc1Z:-0.146683045111442	Loc2X:5.04693033951209	Loc2Y:3.99999999999997	Loc2Z:-0.135693497821446	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.13349534157	Loc1Y:3.99999999999997	Loc1Z:-2.11435849604816E-02	Loc2X:5.0675796888974	Loc2Y:3.99999999999997	Loc2Z:-5.3186368628878E-03	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.04693033951207	Loc1Y:-3.14818173890626E-14	Loc1Z:-0.135693497821459	Loc2X:5.09270509831249	Loc2Y:-3.1662556832435E-14	Loc2Z:-0.146683045111455	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.06757968889738	Loc1Y:-3.20006206356588E-14	Loc1Z:-5.31863686290072E-03	Loc2X:5.13349534156998	Loc2Y:-3.22608854341151E-14	Loc2Z:-2.11435849604945E-02	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.13619714992188	Loc1Y:3.99999999999997	Loc1Z:-0.164698042743478	Loc2X:5.0927050983125	Loc2Y:3.99999999999997	Loc2Z:-0.146683045111441	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.19612389588751	Loc1Y:3.99999999999997	Loc1Z:-4.70851815506135E-02	Loc2X:5.13349534157	Loc2Y:3.99999999999997	Loc2Z:-2.11435849604811E-02	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.09270509831248	Loc1Y:-3.1662556832435E-14	Loc1Z:-0.146683045111454	Loc2X:5.13619714992187	Loc2Y:-3.18098125578253E-14	Loc2Z:-0.164698042743491	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.13349534156998	Loc1Y:-3.22608854341151E-14	Loc1Z:-0.021143584960494	Loc2X:5.19612389588749	Loc2Y:-3.24729336786772E-14	Loc2Z:-4.70851815506264E-02	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.17633557568776	Loc1Y:3.99999999999997	Loc1Z:-0.189294901687504	Loc2X:5.13619714992188	Loc2Y:3.99999999999997	Loc2Z:-0.164698042743477	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.25392322899037	Loc1Y:3.99999999999997	Loc1Z:-8.25046584300115E-02	Loc2X:5.1961238958875	Loc2Y:3.99999999999997	Loc2Z:-4.70851815506127E-02	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.13619714992186	Loc1Y:-3.18098125578253E-14	Loc1Z:-0.16469804274349	Loc2X:5.17633557568774	Loc2Y:-3.19199586405606E-14	Loc2Z:-0.189294901687517	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.19612389588749	Loc1Y:-3.24729336786771E-14	Loc1Z:-4.70851815506256E-02	Loc2X:5.25392322899035	Loc2Y:-3.2631544037816E-14	Loc2Z:-8.25046584300245E-02	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.21213203435599	Loc1Y:3.99999999999997	Loc1Z:-0.219867965644024	Loc2X:5.17633557568776	Loc2Y:3.99999999999997	Loc2Z:-0.189294901687503	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.30547012947261	Loc1Y:3.99999999999997	Loc1Z:-0.126529870527401	Loc2X:5.25392322899037	Loc2Y:3.99999999999997	Loc2Z:-8.25046584300105E-02	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.17633557568774	Loc1Y:-3.19199586405606E-14	Loc1Z:-0.189294901687516	Loc2X:5.21213203435597	Loc2Y:-3.19902829185301E-14	Loc2Z:-0.219867965644037	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.25392322899035	Loc1Y:-3.2631544037816E-14	Loc1Z:-8.25046584300234E-02	Loc2X:5.30547012947259	Loc2Y:-3.2732810998092E-14	Loc2Z:-0.126529870527414	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.2427050983125	Loc1Y:3.99999999999997	Loc1Z:-0.255664424312247	Loc2X:5.21213203435598	Loc2Y:3.99999999999997	Loc2Z:-0.219867965644023	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.34949534157	Loc1Y:3.99999999999997	Loc1Z:-0.178076771009641	Loc2X:5.30547012947261	Loc2Y:3.99999999999997	Loc2Z:-0.126529870527399	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.21213203435596	Loc1Y:-3.19902829185301E-14	Loc1Z:-0.219867965644036	Loc2X:5.24270509831249	Loc2Y:-3.20190537746172E-14	Loc2Z:-0.25566442431226	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.30547012947259	Loc1Y:-3.2732810998092E-14	Loc1Z:-0.126529870527412	Loc2X:5.34949534156998	Loc2Y:-3.27742410308575E-14	Loc2Z:-0.178076771009654	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.26730195725653	Loc1Y:3.99999999999997	Loc1Z:-0.295802850078125	Loc2X:5.2427050983125	Loc2Y:3.99999999999997	Loc2Z:-0.255664424312246	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.3849148184494	Loc1Y:3.99999999999997	Loc1Z:-0.235876104112505	Loc2X:5.34949534157	Loc2Y:3.99999999999997	Loc2Z:-0.178076771009639	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.24270509831248	Loc1Y:-3.20190537746172E-14	Loc1Z:-0.255664424312259	Loc2X:5.26730195725651	Loc2Y:-3.20055627748601E-14	Loc2Z:-0.295802850078138	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.34949534156998	Loc1Y:-3.27742410308575E-14	Loc1Z:-0.178076771009652	Loc2X:5.38491481844938	Loc2Y:-3.27548139912073E-14	Loc2Z:-0.235876104112518	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.28531695488857	Loc1Y:3.99999999999997	Loc1Z:-0.339294901687505	Loc2X:5.26730195725653	Loc2Y:3.99999999999997	Loc2Z:-0.295802850078124	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.41085641503953	Loc1Y:3.99999999999997	Loc1Z:-0.298504658430013	Loc2X:5.38491481844939	Loc2Y:3.99999999999997	Loc2Z:-0.235876104112504	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.26730195725651	Loc1Y:-3.20055627748601E-14	Loc1Z:-0.295802850078137	Loc2X:5.28531695488855	Loc2Y:-3.1950142112447E-14	Loc2Z:-0.339294901687518	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.38491481844938	Loc1Y:-3.27548139912073E-14	Loc1Z:-0.235876104112517	Loc2X:5.41085641503951	Loc2Y:-3.26750082373323E-14	Loc2Z:-0.298504658430025	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.29630650217856	Loc1Y:3.99999999999997	Loc1Z:-0.38506966048792	Loc2X:5.28531695488857	Loc2Y:3.99999999999997	Loc2Z:-0.339294901687503	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.42668136313712	Loc1Y:3.99999999999997	Loc1Z:-0.36442031110261	Loc2X:5.41085641503953	Loc2Y:3.99999999999997	Loc2Z:-0.298504658430011	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.28531695488855	Loc1Y:-3.1950142112447E-14	Loc1Z:-0.339294901687516	Loc2X:5.29630650217854	Loc2Y:-3.18541564280169E-14	Loc2Z:-0.385069660487933	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.41085641503951	Loc1Y:-3.26750082373323E-14	Loc1Z:-0.298504658430023	Loc2X:5.4266813631371	Loc2Y:-3.2536788851753E-14	Loc2Z:-0.364420311102623	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.29970686525227	Loc1Y:-3.17306189870708E-14	Loc1Z:-0.428275369879996	Loc2X:5.29970686525228	Loc2Y:3.99999999999997	Loc2Z:-0.428275369879983	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.43157788596326	Loc1Y:-3.23588949367906E-14	Loc1Z:-0.426636532627195	Loc2X:5.43157788596328	Loc2Y:3.99999999999997	Loc2Z:-0.426636532627182	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.29970686525227	Loc1Y:-3.17306189870708E-14	Loc1Z:-0.428275369879996	Loc2X:5.43157788596326	Loc2Y:-3.23588949367906E-14	Loc2Z:-0.426636532627195	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.29970686525228	Loc1Y:3.99999999999997	Loc1Z:-0.428275369879983	Loc2X:5.43157788596328	Loc2Y:3.99999999999997	Loc2Z:-0.426636532627182	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.29970686525228	Loc1Y:3.99999999999997	Loc1Z:-0.428275369879983	Loc2X:5.29630650217856	Loc2Y:3.99999999999997	Loc2Z:-0.385069660487918	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.43157788596328	Loc1Y:3.99999999999997	Loc1Z:-0.426636532627182	Loc2X:5.42668136313712	Loc2Y:3.99999999999997	Loc2Z:-0.364420311102608	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.29970686525228	Loc1Y:3.99999999999997	Loc1Z:-0.428275369879983	Loc2X:5.43157788596328	Loc2Y:3.99999999999997	Loc2Z:-0.426636532627182	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.29630650217854	Loc1Y:-3.18541564280169E-14	Loc1Z:-0.385069660487931	Loc2X:5.29970686525227	Loc2Y:-3.17306189870708E-14	Loc2Z:-0.428275369879996	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.4266813631371	Loc1Y:-3.25367888517531E-14	Loc1Z:-0.364420311102621	Loc2X:5.43157788596326	Loc2Y:-3.23588949367906E-14	Loc2Z:-0.426636532627195	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.29970686525227	Loc1Y:-3.17306189870708E-14	Loc1Z:-0.428275369879996	Loc2X:5.43157788596326	Loc2Y:-3.23588949367906E-14	Loc2Z:-0.426636532627195	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.43200000000002	Loc1Y:3.99999999999997	Loc1Z:-0.431999999999986	Loc2X:5.432	Loc2Y:-3.21532827296489E-14	Loc2Z:-0.431999999999999	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.30000000000002	Loc1Y:3.99999999999997	Loc1Z:-0.431999999999987	Loc2X:5.3	Loc2Y:-3.15296926828614E-14	Loc2Z:-0.432	Loc3X:0	Loc3Y:0	Loc3Z:0.132	Loc4X:0	Loc4Y:0	Loc4Z:0.132	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.43200000000002	Loc1Y:3.99999999999997	Loc1Z:-0.431999999999986	Loc2X:5.30000000000002	Loc2Y:3.99999999999997	Loc2Z:-0.431999999999987	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.432	Loc1Y:-3.21532827296489E-14	Loc1Z:-0.431999999999999	Loc2X:5.43200000000001	Loc2Y:-2.00367135884013E-14	Loc2Z:-4.182	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.3	Loc1Y:-3.15296926828614E-14	Loc1Z:-0.432	Loc2X:5.30000000000001	Loc2Y:-1.94131235416139E-14	Loc2Z:-4.182	Loc3X:0	Loc3Y:0	Loc3Z:0.132	Loc4X:0	Loc4Y:0	Loc4Z:0.132	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.432	Loc1Y:-3.21532827296489E-14	Loc1Z:-0.431999999999999	Loc2X:5.3	Loc2Y:-3.15296926828614E-14	Loc2Z:-0.432	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.43200000000001	Loc1Y:-2.00367135884013E-14	Loc1Z:-4.182	Loc2X:5.43200000000003	Loc2Y:3.99999999999998	Loc2Z:-4.18199999999999	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.30000000000001	Loc1Y:-1.94131235416139E-14	Loc1Z:-4.182	Loc2X:5.30000000000003	Loc2Y:3.99999999999998	Loc2Z:-4.18199999999999	Loc3X:0	Loc3Y:0	Loc3Z:0.132	Loc4X:0	Loc4Y:0	Loc4Z:0.132	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.43200000000001	Loc1Y:-2.00367135884013E-14	Loc1Z:-4.182	Loc2X:5.30000000000001	Loc2Y:-1.94131235416139E-14	Loc2Z:-4.182	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.43200000000003	Loc1Y:3.99999999999998	Loc1Z:-4.18199999999999	Loc2X:5.43200000000002	Loc2Y:3.99999999999997	Loc2Z:-0.431999999999986	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.30000000000003	Loc1Y:3.99999999999998	Loc1Z:-4.18199999999999	Loc2X:5.30000000000002	Loc2Y:3.99999999999997	Loc2Z:-0.431999999999987	Loc3X:0	Loc3Y:0	Loc3Z:0.132	Loc4X:0	Loc4Y:0	Loc4Z:0.132	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.43200000000003	Loc1Y:3.99999999999998	Loc1Z:-4.18199999999999	Loc2X:5.30000000000003	Loc2Y:3.99999999999998	Loc2Z:-4.18199999999999	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+</End Parts>
+
+<Start PickPoints>
+</End PickPoints>
+
+<Start Anchors>
+<Row>Location X:5.00000000000003	Location Y:3.99999999999997	Location Z:1.29243404173306E-14	Color:255	ID:3</Row>
+</End Anchors>
+
+<Start Triangles>
+<Row>5:::-3.16985478664156E-14:::-1.02420705840152E-28:::5.00000000000003:::3.99999999999997:::1.29243404173306E-14:::0:::0:::0:::0:::0:::0</Row>
+<Row>5:::-3.12720446326437E-14:::-0.132:::0:::4.26503233771913E-16:::-0.132:::5.00000000000003:::3.99999999999997:::-0.131999999999987:::0:::0:::0</Row>
+<Row>5:::-1.55431223447522E-14:::-5.02211510829492E-29:::0:::0:::0:::5:::-6.75810260537843E-02:::-5.31874209939094E-03:::0:::0:::0</Row>
+<Row>0:::0:::0:::-4.28476698566271E-16:::-6.75810260537687E-02:::-5.31874209939094E-03:::5:::-6.75810260537843E-02:::-5.31874209939094E-03:::0:::0:::0</Row>
+<Row>5:::-1.51166191109803E-14:::-0.132:::5:::-4.69348680721708E-02:::-0.135693854226867:::0:::4.26503233771913E-16:::-0.132:::0:::0:::0</Row>
+<Row>0:::4.26503233771913E-16:::-0.132:::5:::-4.69348680721708E-02:::-0.135693854226867:::-2.97505076130022E-16:::-4.69348680721552E-02:::-0.135693854226867:::0:::0:::0</Row>
+<Row>5:::-6.75796888973966E-02:::-5.31863686290094E-03:::-4.28476698566271E-16:::-6.75796888973811E-02:::-5.31863686290094E-03:::5:::-0.133496645801155:::-2.11438980786932E-02:::0:::0:::0</Row>
+<Row>-4.28476698566271E-16:::-6.75796888973811E-02:::-5.31863686290094E-03:::-8.46545056276682E-16:::-0.13349664580114:::-2.11438980786932E-02:::5:::-0.133496645801155:::-2.11438980786932E-02:::0:::0:::0</Row>
+<Row>5:::-4.69303395120853E-02:::-0.135693497821459:::5:::-9.27095153644079E-02:::-0.146684105551795:::-2.97505076130022E-16:::-4.69303395120698E-02:::-0.135693497821459:::0:::0:::0</Row>
+<Row>-2.97505076130022E-16:::-4.69303395120698E-02:::-0.135693497821459:::5:::-9.27095153644079E-02:::-0.146684105551795:::-5.87637577487143E-16:::-9.27095153643923E-02:::-0.146684105551795:::0:::0:::0</Row>
+<Row>5:::-0.133495341569994:::-2.11435849604944E-02:::-8.46111375407688E-16:::-0.133495341569978:::-2.11435849604944E-02:::5:::-0.196125135078934:::-4.70856948405243E-02:::0:::0:::0</Row>
+<Row>-8.46111375407688E-16:::-0.133495341569978:::-2.11435849604944E-02:::-1.24336305140638E-15:::-0.196125135078918:::-4.70856948405243E-02:::5:::-0.196125135078934:::-4.70856948405243E-02:::0:::0:::0</Row>
+<Row>5:::-9.27050983125001E-02:::-0.146683045111454:::5:::-0.136201346703131:::-0.164699781107203:::-5.87637577487143E-16:::-9.27050983124845E-02:::-0.146683045111454:::0:::0:::0</Row>
+<Row>-5.87637577487143E-16:::-9.27050983124845E-02:::-0.146683045111454:::5:::-0.136201346703131:::-0.164699781107203:::-8.63458610167456E-16:::-0.136201346703116:::-0.164699781107203:::0:::0:::0</Row>
+<Row>5:::-0.196123895887501:::-4.70851815506263E-02:::-3.55184631706251E-16:::-0.196123895887485:::-4.70851815506263E-02:::5:::-0.253924372629064:::-8.25053592527208E-02:::0:::0:::0</Row>
+<Row>-3.55184631706251E-16:::-0.196123895887485:::-4.70851815506263E-02:::-7.21644966006352E-16:::-0.253924372629049:::-8.25053592527208E-02:::5:::-0.253924372629064:::-8.25053592527208E-02:::0:::0:::0</Row>
+<Row>5:::-0.13619714992188:::-0.16469804274349:::5:::-0.17633944885967:::-0.189297275170318:::-8.63458610167456E-16:::-0.136197149921864:::-0.16469804274349:::0:::0:::0</Row>
+<Row>-8.63458610167456E-16:::-0.136197149921864:::-0.16469804274349:::5:::-0.17633944885967:::-0.189297275170318:::-1.11802928026705E-15:::-0.176339448859655:::-0.189297275170318:::0:::0:::0</Row>
+<Row>5:::-0.253923228990365:::-8.25046584300242E-02:::-7.21644966006352E-16:::-0.253923228990349:::-8.25046584300242E-02:::5:::-0.30547114939839:::-0.126530741626328:::0:::0:::0</Row>
+<Row>-7.21644966006352E-16:::-0.253923228990349:::-8.25046584300242E-02:::-1.04820666035899E-15:::-0.305471149398375:::-0.126530741626328:::5:::-0.30547114939839:::-0.126530741626328:::0:::0:::0</Row>
+<Row>5:::-0.176335575687758:::-0.189294901687517:::5:::-0.212135488548207:::-0.219870915802902:::-2.29850860566927E-16:::-0.176335575687742:::-0.189294901687517:::0:::0:::0</Row>
+<Row>-2.29850860566927E-16:::-0.176335575687742:::-0.189294901687517:::5:::-0.212135488548207:::-0.219870915802902:::-4.56665955050894E-16:::-0.212135488548191:::-0.219870915802902:::0:::0:::0</Row>
+<Row>5:::-0.305470129472604:::-0.126529870527413:::-1.04820666035899E-15:::-0.305470129472589:::-0.126529870527413:::5:::-0.349496212668907:::-0.17807779093544:::0:::0:::0</Row>
+<Row>-1.04820666035899E-15:::-0.305470129472589:::-0.126529870527413:::-1.32749713999125E-15:::-0.349496212668892:::-0.17807779093544:::5:::-0.349496212668907:::-0.17807779093544:::0:::0:::0</Row>
+<Row>5:::-0.21213203435598:::-0.219867965644037:::5:::-0.242708048471364:::-0.255667878504487:::-4.56665955050894E-16:::-0.212132034355964:::-0.219867965644037:::0:::0:::0</Row>
+<Row>-4.56665955050894E-16:::-0.212132034355964:::-0.219867965644037:::5:::-0.242708048471364:::-0.255667878504487:::-6.50521303491303E-16:::-0.242708048471349:::-0.255667878504487:::0:::0:::0</Row>
+<Row>5:::-0.349495341569993:::-0.178076771009654:::-1.32749713999125E-15:::-0.349495341569977:::-0.178076771009654:::5:::-0.384915519272087:::-0.235877247751218:::0:::0:::0</Row>
+<Row>-1.32749713999125E-15:::-0.349495341569977:::-0.178076771009654:::-1.55214383013025E-15:::-0.384915519272071:::-0.235877247751218:::5:::-0.384915519272087:::-0.235877247751218:::0:::0:::0</Row>
+<Row>5:::-0.242705098312499:::-0.255664424312259:::5:::-0.267304330739326:::-0.29580672325005:::-6.50521303491303E-16:::-0.242705098312484:::-0.255664424312259:::0:::0:::0</Row>
+<Row>-6.50521303491303E-16:::-0.242705098312484:::-0.255664424312259:::5:::-0.267304330739326:::-0.29580672325005:::-8.06646416329215E-16:::-0.26730433073931:::-0.29580672325005:::0:::0:::0</Row>
+<Row>5:::-0.38491481844939:::-0.235876104112518:::-1.55214383013025E-15:::-0.384914818449375:::-0.235876104112518:::5:::-0.410856928329419:::-0.298505897621458:::0:::0:::0</Row>
+<Row>-1.55214383013025E-15:::-0.384914818449375:::-0.235876104112518:::-1.71650887947905E-15:::-0.410856928329404:::-0.298505897621458:::5:::-0.410856928329419:::-0.298505897621458:::0:::0:::0</Row>
+<Row>5:::-0.267301957256525:::-0.295802850078137:::5:::-0.285318693252273:::-0.339299098468769:::-8.06646416329215E-16:::-0.26730195725651:::-0.295802850078137:::0:::0:::0</Row>
+<Row>-8.06646416329215E-16:::-0.26730195725651:::-0.295802850078137:::5:::-0.285318693252273:::-0.339299098468769:::-9.2070448487469E-16:::-0.285318693252258:::-0.339299098468769:::0:::0:::0</Row>
+<Row>5:::-0.410856415039521:::-0.298504658430025:::-1.71650887947905E-15:::-0.410856415039506:::-0.298504658430025:::5:::-0.426681676255313:::-0.364421615333783:::0:::0:::0</Row>
+<Row>-1.71650887947905E-15:::-0.410856415039506:::-0.298504658430025:::-1.81668916021671E-15:::-0.426681676255297:::-0.364421615333783:::5:::-0.426681676255313:::-0.364421615333783:::0:::0:::0</Row>
+<Row>5:::-0.285316954888561:::-0.339294901687517:::5:::-0.296307562618896:::-0.38507407753984:::-9.2070448487469E-16:::-0.285316954888545:::-0.339294901687517:::0:::0:::0</Row>
+<Row>-9.2070448487469E-16:::-0.285316954888545:::-0.339294901687517:::5:::-0.296307562618896:::-0.38507407753984:::-9.90527104782757E-16:::-0.296307562618881:::-0.38507407753984:::0:::0:::0</Row>
+<Row>5:::-0.431577995301489:::-0.426637921900907:::5:::-0.426681363137114:::-0.364420311102622:::-9.59735763084169E-16:::-0.431577995301473:::-0.426637921900907:::0:::0:::0</Row>
+<Row>5:::-0.426681363137114:::-0.364420311102622:::-9.28510740516586E-16:::-0.426681363137098:::-0.364420311102622:::-9.59735763084169E-16:::-0.431577995301473:::-0.426637921900907:::0:::0:::0</Row>
+<Row>5:::-0.2997069193874:::-0.428276057731926:::-1.01177746736347E-15:::-0.299706919387385:::-0.428276057731926:::5:::-0.296306502178556:::-0.385069660487932:::0:::0:::0</Row>
+<Row>5:::-0.296306502178556:::-0.385069660487932:::-1.01177746736347E-15:::-0.299706919387385:::-0.428276057731926:::-9.90527104782757E-16:::-0.29630650217854:::-0.385069660487932:::0:::0:::0</Row>
+<Row>-4.51505152709863E-15:::-0.431999999999999:::-0.432000000000001:::-4.51505152709863E-15:::-0.431999999999993:::-4.182:::5:::-0.432000000000014:::-0.432000000000001:::0:::0:::0</Row>
+<Row>-3.67848113080882E-15:::-0.299999999999999:::-0.432:::5:::-0.300000000000014:::-0.432:::-3.67848113080882E-15:::-0.299999999999993:::-4.182:::0:::0:::0</Row>
+<Row>-4.51505152709863E-15:::-0.431999999999993:::-4.182:::5:::-0.432000000000008:::-4.182:::5:::-0.432000000000014:::-0.432000000000001:::0:::0:::0</Row>
+<Row>-3.67848113080882E-15:::-0.299999999999993:::-4.182:::5:::-0.300000000000014:::-0.432:::5:::-0.300000000000008:::-4.182:::0:::0:::0</Row>
+<Row>5.00000000000002:::3.99999999999997:::1.29243404173306E-14:::5:::-3.16985478664156E-14:::-1.02420705840152E-28:::5.06758102605379:::3.99999999999997:::-5.3187420993778E-03:::0:::0:::0</Row>
+<Row>5:::-3.16985478664156E-14:::-1.02420705840152E-28:::5.06758102605377:::-3.20006266125809E-14:::-5.31874209939072E-03:::5.06758102605379:::3.99999999999997:::-5.3187420993778E-03:::0:::0:::0</Row>
+<Row>5.00000000000002:::3.99999999999997:::-0.131999999999987:::5.04693486807217:::3.99999999999997:::-0.135693854226854:::5:::-3.12720446326437E-14:::-0.132:::0:::0:::0</Row>
+<Row>5:::-3.12720446326437E-14:::-0.132:::5.04693486807217:::3.99999999999997:::-0.135693854226854:::5.04693486807216:::-3.14818376311606E-14:::-0.135693854226867:::0:::0:::0</Row>
+<Row>5.0675796888974:::3.99999999999997:::-5.3186368628878E-03:::5.06757968889738:::-3.20006206356588E-14:::-5.31863686290072E-03:::5.13349664580116:::3.99999999999997:::-2.11438980786798E-02:::0:::0:::0</Row>
+<Row>5.06757968889738:::-3.20006206356588E-14:::-5.31863686290072E-03:::5.13349664580114:::-3.22608905838094E-14:::-2.11438980786927E-02:::5.13349664580116:::3.99999999999997:::-2.11438980786798E-02:::0:::0:::0</Row>
+<Row>5.04693033951209:::3.99999999999997:::-0.135693497821446:::5.09270951536441:::3.99999999999997:::-0.146684105551782:::5.04693033951207:::-3.14818173890626E-14:::-0.135693497821459:::0:::0:::0</Row>
+<Row>5.04693033951207:::-3.14818173890626E-14:::-0.135693497821459:::5.09270951536441:::3.99999999999997:::-0.146684105551782:::5.09270951536439:::-3.1662574272953E-14:::-0.146684105551795:::0:::0:::0</Row>
+<Row>5.13349534157:::3.99999999999997:::-2.11435849604811E-02:::5.13349534156998:::-3.22608854341151E-14:::-0.021143584960494:::5.19612513507894:::3.99999999999997:::-4.70856948405107E-02:::0:::0:::0</Row>
+<Row>5.13349534156998:::-3.22608854341151E-14:::-0.021143584960494:::5.19612513507892:::-3.24729378743411E-14:::-4.70856948405236E-02:::5.19612513507894:::3.99999999999997:::-4.70856948405107E-02:::0:::0:::0</Row>
+<Row>5.0927050983125:::3.99999999999997:::-0.146683045111441:::5.13620134670314:::3.99999999999997:::-0.16469978110719:::5.09270509831248:::-3.1662556832435E-14:::-0.146683045111454:::0:::0:::0</Row>
+<Row>5.09270509831248:::-3.1662556832435E-14:::-0.146683045111454:::5.13620134670314:::3.99999999999997:::-0.16469978110719:::5.13620134670312:::-3.18098267673198E-14:::-0.164699781107203:::0:::0:::0</Row>
+<Row>5.1961238958875:::3.99999999999997:::-4.70851815506127E-02:::5.19612389588749:::-3.24729336786771E-14:::-4.70851815506256E-02:::5.25392437262907:::3.99999999999997:::-0.082505359252707:::0:::0:::0</Row>
+<Row>5.19612389588749:::-3.24729336786771E-14:::-4.70851815506256E-02:::5.25392437262905:::-3.26315471761384E-14:::-0.08250535925272:::5.25392437262907:::3.99999999999997:::-0.082505359252707:::0:::0:::0</Row>
+<Row>5.13619714992188:::3.99999999999997:::-0.164698042743477:::5.17633944885967:::3.99999999999997:::-0.189297275170304:::5.13619714992186:::-3.18098125578253E-14:::-0.16469804274349:::0:::0:::0</Row>
+<Row>5.13619714992186:::-3.18098125578253E-14:::-0.16469804274349:::5.17633944885967:::3.99999999999997:::-0.189297275170304:::5.17633944885966:::-3.19199692691467E-14:::-0.189297275170317:::0:::0:::0</Row>
+<Row>5.25392322899037:::3.99999999999997:::-8.25046584300105E-02:::5.25392322899035:::-3.2631544037816E-14:::-8.25046584300234E-02:::5.30547114939839:::3.99999999999997:::-0.126530741626314:::0:::0:::0</Row>
+<Row>5.25392322899035:::-3.2631544037816E-14:::-8.25046584300234E-02:::5.30547114939838:::-3.2732813001797E-14:::-0.126530741626327:::5.30547114939839:::3.99999999999997:::-0.126530741626314:::0:::0:::0</Row>
+<Row>5.17633557568776:::3.99999999999997:::-0.189294901687503:::5.21213548854821:::3.99999999999997:::-0.219870915802888:::5.17633557568774:::-3.19199586405606E-14:::-0.189294901687516:::0:::0:::0</Row>
+<Row>5.17633557568774:::-3.19199586405606E-14:::-0.189294901687516:::5.21213548854821:::3.99999999999997:::-0.219870915802888:::5.21213548854819:::-3.19902897044967E-14:::-0.219870915802901:::0:::0:::0</Row>
+<Row>5.30547012947261:::3.99999999999997:::-0.126529870527399:::5.30547012947259:::-3.2732810998092E-14:::-0.126529870527412:::5.34949621266891:::3.99999999999997:::-0.178077790935425:::0:::0:::0</Row>
+<Row>5.30547012947259:::-3.2732810998092E-14:::-0.126529870527412:::5.34949621266889:::-3.27742418506072E-14:::-0.178077790935438:::5.34949621266891:::3.99999999999997:::-0.178077790935425:::0:::0:::0</Row>
+<Row>5.21213203435598:::3.99999999999997:::-0.219867965644023:::5.24270804847137:::3.99999999999997:::-0.255667878504473:::5.21213203435596:::-3.19902829185301E-14:::-0.219867965644036:::0:::0:::0</Row>
+<Row>5.21213203435596:::-3.19902829185301E-14:::-0.219867965644036:::5.24270804847137:::3.99999999999997:::-0.255667878504473:::5.24270804847135:::-3.20190565508714E-14:::-0.255667878504486:::0:::0:::0</Row>
+<Row>5.34949534157:::3.99999999999997:::-0.178076771009639:::5.34949534156998:::-3.27742410308575E-14:::-0.178076771009652:::5.38491551927209:::3.99999999999997:::-0.235877247751203:::0:::0:::0</Row>
+<Row>5.34949534156998:::-3.27742410308575E-14:::-0.178076771009652:::5.38491551927207:::-3.27548136068168E-14:::-0.235877247751216:::5.38491551927209:::3.99999999999997:::-0.235877247751203:::0:::0:::0</Row>
+<Row>5.2427050983125:::3.99999999999997:::-0.255664424312246:::5.26730433073933:::3.99999999999997:::-0.295806723250036:::5.24270509831248:::-3.20190537746172E-14:::-0.255664424312259:::0:::0:::0</Row>
+<Row>5.24270509831248:::-3.20190537746172E-14:::-0.255664424312259:::5.26730433073933:::3.99999999999997:::-0.295806723250036:::5.26730433073931:::-3.20055614730412E-14:::-0.295806723250049:::0:::0:::0</Row>
+<Row>5.38491481844939:::3.99999999999997:::-0.235876104112504:::5.38491481844938:::-3.27548139912073E-14:::-0.235876104112517:::5.41085692832942:::3.99999999999997:::-0.298505897621444:::0:::0:::0</Row>
+<Row>5.38491481844938:::-3.27548139912073E-14:::-0.235876104112517:::5.4108569283294:::-3.26750066582665E-14:::-0.298505897621457:::5.41085692832942:::3.99999999999997:::-0.298505897621444:::0:::0:::0</Row>
+<Row>5.26730195725653:::3.99999999999997:::-0.295802850078124:::5.28531869325228:::3.99999999999997:::-0.339299098468755:::5.26730195725651:::-3.20055627748601E-14:::-0.295802850078137:::0:::0:::0</Row>
+<Row>5.26730195725651:::-3.20055627748601E-14:::-0.295802850078137:::5.28531869325228:::3.99999999999997:::-0.339299098468755:::5.28531869325226:::-3.19501367646101E-14:::-0.339299098468768:::0:::0:::0</Row>
+<Row>5.41085641503953:::3.99999999999997:::-0.298504658430011:::5.41085641503951:::-3.26750082373323E-14:::-0.298504658430023:::5.42668167625532:::3.99999999999997:::-0.364421615333769:::0:::0:::0</Row>
+<Row>5.41085641503951:::-3.26750082373323E-14:::-0.298504658430023:::5.4266816762553:::-3.25367861168938E-14:::-0.364421615333782:::5.42668167625532:::3.99999999999997:::-0.364421615333769:::0:::0:::0</Row>
+<Row>5.28531695488857:::3.99999999999997:::-0.339294901687503:::5.2963075626189:::3.99999999999997:::-0.385074077539826:::5.28531695488855:::-3.1950142112447E-14:::-0.339294901687516:::0:::0:::0</Row>
+<Row>5.28531695488855:::-3.1950142112447E-14:::-0.339294901687516:::5.2963075626189:::3.99999999999997:::-0.385074077539826:::5.29630756261888:::-3.18541471658436E-14:::-0.385074077539839:::0:::0:::0</Row>
+<Row>5.43157799530149:::3.99999999999997:::-0.426637921900893:::5.42668136313712:::3.99999999999997:::-0.364420311102608:::5.43157799530147:::-3.2358890964461E-14:::-0.426637921900906:::0:::0:::0</Row>
+<Row>5.42668136313712:::3.99999999999997:::-0.364420311102608:::5.4266813631371:::-3.25367888517531E-14:::-0.364420311102621:::5.43157799530147:::-3.2358890964461E-14:::-0.426637921900906:::0:::0:::0</Row>
+<Row>5.2997069193874:::3.99999999999997:::-0.428276057731912:::5.29970691938739:::-3.1730617020306E-14:::-0.428276057731925:::5.29630650217856:::3.99999999999997:::-0.385069660487918:::0:::0:::0</Row>
+<Row>5.29630650217856:::3.99999999999997:::-0.385069660487918:::5.29970691938739:::-3.1730617020306E-14:::-0.428276057731925:::5.29630650217854:::-3.18541564280169E-14:::-0.385069660487931:::0:::0:::0</Row>
+<Row>5.432:::-3.30414736370022E-14:::-0.431999999999999:::5.43200000000001:::-2.09249044957547E-14:::-4.182:::5.43200000000002:::3.99999999999997:::-0.431999999999986:::0:::0:::0</Row>
+<Row>5.3:::-3.24178835902147E-14:::-0.432:::5.30000000000002:::3.99999999999997:::-0.431999999999987:::5.30000000000001:::-2.03013144489672E-14:::-4.182:::0:::0:::0</Row>
+<Row>5.43200000000001:::-2.09249044957547E-14:::-4.182:::5.43200000000003:::3.99999999999998:::-4.18199999999999:::5.43200000000002:::3.99999999999997:::-0.431999999999986:::0:::0:::0</Row>
+<Row>5.30000000000001:::-2.03013144489672E-14:::-4.182:::5.30000000000002:::3.99999999999997:::-0.431999999999987:::5.30000000000002:::3.99999999999998:::-4.18199999999999:::0:::0:::0</Row>
+</End Triangles>
+
+<Start Quads>
+<Row>5.00000000000003:::3.99999999999997:::1.29243404173306E-14:::5.00000000000003:::3.99999999999997:::-0.131999999999987:::0:::4.26503233771913E-16:::-0.132:::0:::0:::0:::0:::0:::0</Row>
+<Row>0:::0:::0:::0:::4.26503233771913E-16:::-0.132:::5:::-3.12720446326437E-14:::-0.132:::5:::-3.16985478664156E-14:::-1.02420705840152E-28:::0:::0:::0</Row>
+<Row>5:::-3.16985478664156E-14:::-1.02420705840152E-28:::5:::-3.12720446326437E-14:::-0.132:::5.00000000000003:::3.99999999999997:::-0.131999999999987:::5.00000000000003:::3.99999999999997:::1.29243404173306E-14:::0:::0:::0</Row>
+<Row>5:::-4.69303395120858E-02:::-0.135693497821459:::5:::-1.51166191109803E-14:::-0.132:::5:::-1.55431223447522E-14:::-5.02211510829492E-29:::5:::-6.75796888973972E-02:::-5.31863686290099E-03:::0:::0:::0</Row>
+<Row>0:::4.26503233771913E-16:::-0.132:::-2.97505076130022E-16:::-4.69303395120702E-02:::-0.135693497821459:::-4.28476698566271E-16:::-6.75796888973817E-02:::-5.31863686290099E-03:::0:::0:::0:::0:::0:::0</Row>
+<Row>5:::-9.27050983125016E-02:::-0.146683045111455:::5:::-4.69303395120853E-02:::-0.135693497821459:::5:::-6.75796888973966E-02:::-5.31863686290094E-03:::5:::-0.133495341569996:::-0.021143584960495:::0:::0:::0</Row>
+<Row>-2.97505076130022E-16:::-4.69303395120698E-02:::-0.135693497821459:::-5.87637577487143E-16:::-0.092705098312486:::-0.146683045111455:::-8.46111375407688E-16:::-0.13349534156998:::-0.021143584960495:::-4.28476698566271E-16:::-6.75796888973811E-02:::-5.31863686290094E-03:::0:::0:::0</Row>
+<Row>5:::-0.136197149921881:::-0.164698042743491:::5:::-9.27050983125001E-02:::-0.146683045111454:::5:::-0.133495341569994:::-2.11435849604944E-02:::5:::-0.196123895887502:::-0.047085181550627:::0:::0:::0</Row>
+<Row>-5.87637577487143E-16:::-9.27050983124845E-02:::-0.146683045111454:::-8.63458610167456E-16:::-0.136197149921866:::-0.164698042743491:::-1.24336305140638E-15:::-0.196123895887487:::-0.047085181550627:::-8.46111375407688E-16:::-0.133495341569978:::-2.11435849604944E-02:::0:::0:::0</Row>
+<Row>5:::-0.176335575687759:::-0.189294901687518:::5:::-0.13619714992188:::-0.16469804274349:::5:::-0.196123895887501:::-4.70851815506263E-02:::5:::-0.253923228990366:::-8.25046584300253E-02:::0:::0:::0</Row>
+<Row>-8.63458610167456E-16:::-0.136197149921864:::-0.16469804274349:::-1.11802928026705E-15:::-0.176335575687743:::-0.189294901687518:::-7.21644966006352E-16:::-0.253923228990351:::-8.25046584300253E-02:::-3.55184631706251E-16:::-0.196123895887485:::-4.70851815506263E-02:::0:::0:::0</Row>
+<Row>5:::-0.212132034355981:::-0.219867965644038:::5:::-0.176335575687758:::-0.189294901687517:::5:::-0.253923228990365:::-8.25046584300242E-02:::5:::-0.305470129472606:::-0.126529870527415:::0:::0:::0</Row>
+<Row>-2.29850860566927E-16:::-0.176335575687742:::-0.189294901687517:::-4.56665955050894E-16:::-0.212132034355965:::-0.219867965644038:::-1.04820666035899E-15:::-0.305470129472591:::-0.126529870527415:::-7.21644966006352E-16:::-0.253923228990349:::-8.25046584300242E-02:::0:::0:::0</Row>
+<Row>5:::-0.2427050983125:::-0.25566442431226:::5:::-0.21213203435598:::-0.219867965644037:::5:::-0.305470129472604:::-0.126529870527413:::5:::-0.349495341569994:::-0.178076771009655:::0:::0:::0</Row>
+<Row>-4.56665955050894E-16:::-0.212132034355964:::-0.219867965644037:::-6.50521303491303E-16:::-0.242705098312485:::-0.25566442431226:::-1.32749713999125E-15:::-0.349495341569979:::-0.178076771009655:::-1.04820666035899E-15:::-0.305470129472589:::-0.126529870527413:::0:::0:::0</Row>
+<Row>5:::-0.267301957256526:::-0.295802850078139:::5:::-0.242705098312499:::-0.255664424312259:::5:::-0.349495341569993:::-0.178076771009654:::5:::-0.384914818449391:::-0.23587610411252:::0:::0:::0</Row>
+<Row>-6.50521303491303E-16:::-0.242705098312484:::-0.255664424312259:::-8.06646416329215E-16:::-0.26730195725651:::-0.295802850078139:::-1.55214383013025E-15:::-0.384914818449376:::-0.23587610411252:::-1.32749713999125E-15:::-0.349495341569977:::-0.178076771009654:::0:::0:::0</Row>
+<Row>5:::-0.285316954888561:::-0.339294901687519:::5:::-0.267301957256525:::-0.295802850078137:::5:::-0.38491481844939:::-0.235876104112518:::5:::-0.410856415039522:::-0.298504658430027:::0:::0:::0</Row>
+<Row>-8.06646416329215E-16:::-0.26730195725651:::-0.295802850078137:::-9.2070448487469E-16:::-0.285316954888546:::-0.339294901687519:::-1.71650887947905E-15:::-0.410856415039506:::-0.298504658430027:::-1.55214383013025E-15:::-0.384914818449375:::-0.235876104112518:::0:::0:::0</Row>
+<Row>5:::-0.296306502178556:::-0.385069660487934:::5:::-0.285316954888561:::-0.339294901687517:::5:::-0.410856415039521:::-0.298504658430025:::5:::-0.426681363137114:::-0.364420311102624:::0:::0:::0</Row>
+<Row>-9.2070448487469E-16:::-0.285316954888545:::-0.339294901687517:::-9.90527104782757E-16:::-0.29630650217854:::-0.385069660487934:::-1.81668916021671E-15:::-0.426681363137099:::-0.364420311102624:::-1.71650887947905E-15:::-0.410856415039506:::-0.298504658430025:::0:::0:::0</Row>
+<Row>-1.01177746736347E-15:::-0.299706865252264:::-0.428275369879997:::5:::-0.299706865252279:::-0.428275369879997:::5:::-0.431577885963276:::-0.426636532627196:::-9.59735763084169E-16:::-0.431577885963261:::-0.426636532627196:::0:::0:::0</Row>
+<Row>5:::-0.299706865252279:::-0.428275369879997:::5:::-0.296306502178556:::-0.385069660487932:::5:::-0.426681363137114:::-0.364420311102622:::5:::-0.431577885963276:::-0.426636532627196:::0:::0:::0</Row>
+<Row>-9.90527104782757E-16:::-0.29630650217854:::-0.385069660487932:::-1.01177746736347E-15:::-0.299706865252264:::-0.428275369879997:::-9.59735763084169E-16:::-0.431577885963261:::-0.426636532627196:::-9.28510740516586E-16:::-0.426681363137098:::-0.364420311102622:::0:::0:::0</Row>
+<Row>5:::-0.432000000000008:::-4.182:::5:::-0.300000000000008:::-4.182:::5:::-0.300000000000014:::-0.432:::5:::-0.432000000000014:::-0.432000000000001:::0:::0:::0</Row>
+<Row>5:::-0.432000000000014:::-0.432000000000001:::5:::-0.300000000000014:::-0.432:::-1.90212429140857E-15:::-0.299999999999999:::-0.432:::-2.73869468769838E-15:::-0.431999999999999:::-0.432000000000001:::0:::0:::0</Row>
+<Row>-2.73869468769838E-15:::-0.431999999999999:::-0.432000000000001:::-1.90212429140857E-15:::-0.299999999999999:::-0.432:::-1.90212429140857E-15:::-0.299999999999993:::-4.182:::-2.73869468769838E-15:::-0.431999999999993:::-4.182:::0:::0:::0</Row>
+<Row>-2.73869468769838E-15:::-0.431999999999993:::-4.182:::-1.90212429140857E-15:::-0.299999999999993:::-4.182:::5:::-0.300000000000008:::-4.182:::5:::-0.432000000000008:::-4.182:::0:::0:::0</Row>
+<Row>5.04693033951209:::3.99999999999997:::-0.135693497821446:::5.00000000000002:::3.99999999999997:::-0.131999999999987:::5.00000000000002:::3.99999999999997:::1.29243404173306E-14:::5.0675796888974:::3.99999999999997:::-5.31863686288785E-03:::0:::0:::0</Row>
+<Row>5:::-3.12720446326437E-14:::-0.132:::5.04693033951207:::-3.14818173890626E-14:::-0.135693497821459:::5.06757968889738:::-3.20006206356588E-14:::-5.31863686290077E-03:::5:::-3.16985478664156E-14:::-1.02420705840152E-28:::0:::0:::0</Row>
+<Row>5.09270509831251:::3.99999999999997:::-0.146683045111442:::5.04693033951209:::3.99999999999997:::-0.135693497821446:::5.0675796888974:::3.99999999999997:::-5.3186368628878E-03:::5.13349534157:::3.99999999999997:::-2.11435849604816E-02:::0:::0:::0</Row>
+<Row>5.04693033951207:::-3.14818173890626E-14:::-0.135693497821459:::5.09270509831249:::-3.1662556832435E-14:::-0.146683045111455:::5.13349534156998:::-3.22608854341151E-14:::-2.11435849604945E-02:::5.06757968889738:::-3.20006206356588E-14:::-5.31863686290072E-03:::0:::0:::0</Row>
+<Row>5.13619714992188:::3.99999999999997:::-0.164698042743478:::5.0927050983125:::3.99999999999997:::-0.146683045111441:::5.13349534157:::3.99999999999997:::-2.11435849604811E-02:::5.19612389588751:::3.99999999999997:::-4.70851815506135E-02:::0:::0:::0</Row>
+<Row>5.09270509831248:::-3.1662556832435E-14:::-0.146683045111454:::5.13619714992187:::-3.18098125578253E-14:::-0.164698042743491:::5.19612389588749:::-3.24729336786772E-14:::-4.70851815506264E-02:::5.13349534156998:::-3.22608854341151E-14:::-0.021143584960494:::0:::0:::0</Row>
+<Row>5.17633557568776:::3.99999999999997:::-0.189294901687504:::5.13619714992188:::3.99999999999997:::-0.164698042743477:::5.1961238958875:::3.99999999999997:::-4.70851815506127E-02:::5.25392322899037:::3.99999999999997:::-8.25046584300115E-02:::0:::0:::0</Row>
+<Row>5.13619714992186:::-3.18098125578253E-14:::-0.16469804274349:::5.17633557568774:::-3.19199586405606E-14:::-0.189294901687517:::5.25392322899035:::-3.2631544037816E-14:::-8.25046584300245E-02:::5.19612389588749:::-3.24729336786771E-14:::-4.70851815506256E-02:::0:::0:::0</Row>
+<Row>5.21213203435599:::3.99999999999997:::-0.219867965644024:::5.17633557568776:::3.99999999999997:::-0.189294901687503:::5.25392322899037:::3.99999999999997:::-8.25046584300105E-02:::5.30547012947261:::3.99999999999997:::-0.126529870527401:::0:::0:::0</Row>
+<Row>5.17633557568774:::-3.19199586405606E-14:::-0.189294901687516:::5.21213203435597:::-3.19902829185301E-14:::-0.219867965644037:::5.30547012947259:::-3.2732810998092E-14:::-0.126529870527414:::5.25392322899035:::-3.2631544037816E-14:::-8.25046584300234E-02:::0:::0:::0</Row>
+<Row>5.2427050983125:::3.99999999999997:::-0.255664424312247:::5.21213203435598:::3.99999999999997:::-0.219867965644023:::5.30547012947261:::3.99999999999997:::-0.126529870527399:::5.34949534157:::3.99999999999997:::-0.178076771009641:::0:::0:::0</Row>
+<Row>5.21213203435596:::-3.19902829185301E-14:::-0.219867965644036:::5.24270509831249:::-3.20190537746172E-14:::-0.25566442431226:::5.34949534156998:::-3.27742410308575E-14:::-0.178076771009654:::5.30547012947259:::-3.2732810998092E-14:::-0.126529870527412:::0:::0:::0</Row>
+<Row>5.26730195725653:::3.99999999999997:::-0.295802850078125:::5.2427050983125:::3.99999999999997:::-0.255664424312246:::5.34949534157:::3.99999999999997:::-0.178076771009639:::5.3849148184494:::3.99999999999997:::-0.235876104112505:::0:::0:::0</Row>
+<Row>5.24270509831248:::-3.20190537746172E-14:::-0.255664424312259:::5.26730195725651:::-3.20055627748601E-14:::-0.295802850078138:::5.38491481844938:::-3.27548139912073E-14:::-0.235876104112518:::5.34949534156998:::-3.27742410308575E-14:::-0.178076771009652:::0:::0:::0</Row>
+<Row>5.28531695488857:::3.99999999999997:::-0.339294901687505:::5.26730195725653:::3.99999999999997:::-0.295802850078124:::5.38491481844939:::3.99999999999997:::-0.235876104112504:::5.41085641503953:::3.99999999999997:::-0.298504658430013:::0:::0:::0</Row>
+<Row>5.26730195725651:::-3.20055627748601E-14:::-0.295802850078137:::5.28531695488855:::-3.1950142112447E-14:::-0.339294901687518:::5.41085641503951:::-3.26750082373323E-14:::-0.298504658430025:::5.38491481844938:::-3.27548139912073E-14:::-0.235876104112517:::0:::0:::0</Row>
+<Row>5.29630650217856:::3.99999999999997:::-0.38506966048792:::5.28531695488857:::3.99999999999997:::-0.339294901687503:::5.41085641503953:::3.99999999999997:::-0.298504658430011:::5.42668136313712:::3.99999999999997:::-0.36442031110261:::0:::0:::0</Row>
+<Row>5.28531695488855:::-3.1950142112447E-14:::-0.339294901687516:::5.29630650217854:::-3.18541564280169E-14:::-0.385069660487933:::5.4266813631371:::-3.2536788851753E-14:::-0.364420311102623:::5.41085641503951:::-3.26750082373323E-14:::-0.298504658430023:::0:::0:::0</Row>
+<Row>5.29970686525227:::-3.17306189870708E-14:::-0.428275369879996:::5.29970686525228:::3.99999999999997:::-0.428275369879983:::5.43157788596328:::3.99999999999997:::-0.426636532627182:::5.43157788596326:::-3.23588949367906E-14:::-0.426636532627195:::0:::0:::0</Row>
+<Row>5.29970686525228:::3.99999999999997:::-0.428275369879983:::5.29630650217856:::3.99999999999997:::-0.385069660487918:::5.42668136313712:::3.99999999999997:::-0.364420311102608:::5.43157788596328:::3.99999999999997:::-0.426636532627182:::0:::0:::0</Row>
+<Row>5.29630650217854:::-3.18541564280169E-14:::-0.385069660487931:::5.29970686525227:::-3.17306189870708E-14:::-0.428275369879996:::5.43157788596326:::-3.23588949367906E-14:::-0.426636532627195:::5.4266813631371:::-3.25367888517531E-14:::-0.364420311102621:::0:::0:::0</Row>
+<Row>5.43200000000003:::3.99999999999998:::-4.18199999999999:::5.30000000000002:::3.99999999999998:::-4.18199999999999:::5.30000000000002:::3.99999999999997:::-0.431999999999987:::5.43200000000002:::3.99999999999997:::-0.431999999999986:::0:::0:::0</Row>
+<Row>5.43200000000002:::3.99999999999997:::-0.431999999999986:::5.30000000000002:::3.99999999999997:::-0.431999999999987:::5.3:::-3.15296926828614E-14:::-0.432:::5.432:::-3.21532827296489E-14:::-0.431999999999999:::0:::0:::0</Row>
+<Row>5.432:::-3.21532827296489E-14:::-0.431999999999999:::5.3:::-3.15296926828614E-14:::-0.432:::5.30000000000001:::-1.94131235416139E-14:::-4.182:::5.43200000000001:::-2.00367135884013E-14:::-4.182:::0:::0:::0</Row>
+<Row>5.43200000000001:::-2.00367135884013E-14:::-4.182:::5.30000000000001:::-1.94131235416139E-14:::-4.182:::5.30000000000002:::3.99999999999998:::-4.18199999999999:::5.43200000000003:::3.99999999999998:::-4.18199999999999:::0:::0:::0</Row>
+</End Quads>
+
+<Plate Name>rear_foot_bottom</Plate Name>
+<Plate Key>1</Plate Key>
+<Plate Material>10g plate</Plate Material>
+<Plate Color>10461087</Plate Color>
+<Plate Weight>0</Plate Weight>
+
+
+</End Assembly Master Plate>
+
+<Start Assembly Master Plate>
+<Start Text>
+</End Text>
+
+<Start Parts>
+<Row>Type:1	Loc1X:5.00387680294505	Loc1Y:3.99867989978548	Loc1Z:-5.9657605957339E-30	Loc2X:0.108284210445157	Loc2Y:-0.12844660278991	Loc2Z:1.26804946680656E-14	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.00387680294505	Loc1Y:3.99867989978548	Loc1Z:-0.132	Loc2X:0.108284210445156	Loc2Y:-0.12844660278991	Loc2Z:-0.131999999999987	Loc3X:0	Loc3Y:0	Loc3Z:0.132	Loc4X:0	Loc4Y:0	Loc4Z:0.132	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.00387680294505	Loc1Y:3.99867989978548	Loc1Z:-5.9657605957339E-30	Loc2X:5.00387680294505	Loc2Y:3.99867989978548	Loc2Z:-0.132	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:0.108284210445157	Loc1Y:-0.12844660278991	Loc1Z:1.26804946680656E-14	Loc2X:5.10663408517699	Loc2Y:1.74435390177391E-14	Loc2Z:4.14877630876264E-16	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:0.108284210445156	Loc1Y:-0.12844660278991	Loc1Z:-0.131999999999987	Loc2X:5.10663408517699	Loc2Y:1.74215340565678E-14	Loc2Z:-0.132	Loc3X:0	Loc3Y:0	Loc3Z:0.132	Loc4X:0	Loc4Y:0	Loc4Z:0.132	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:0.108284210445157	Loc1Y:-0.12844660278991	Loc1Z:1.26804946680656E-14	Loc2X:0.108284210445156	Loc2Y:-0.12844660278991	Loc2Z:-0.131999999999987	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.10663408517699	Loc1Y:1.74435390177391E-14	Loc1Z:4.14877630876264E-16	Loc2X:6.10630406012336	Loc2Y:2.56893205580028E-02	Loc2Z:-2.03824577656161E-15	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.10663408517699	Loc1Y:1.74215340565678E-14	Loc1Z:-0.132	Loc2X:6.10630406012336	Loc2Y:2.56893205580028E-02	Loc2Z:-0.132000000000002	Loc3X:0	Loc3Y:0	Loc3Z:0.132	Loc4X:0	Loc4Y:0	Loc4Z:0.132	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.10663408517699	Loc1Y:1.74435390177391E-14	Loc1Z:4.14877630876264E-16	Loc2X:5.10663408517699	Loc2Y:1.74215340565678E-14	Loc2Z:-0.132	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:6.10630406012336	Loc1Y:2.56893205580028E-02	Loc1Z:-2.03824577656161E-15	Loc2X:6.00354677789141	Loc2Y:4.02436922034347	Loc2Z:-2.45312340743788E-15	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:6.10630406012336	Loc1Y:2.56893205580028E-02	Loc1Z:-0.132000000000002	Loc2X:6.00354677789141	Loc2Y:4.02436922034347	Loc2Z:-0.132000000000002	Loc3X:0	Loc3Y:0	Loc3Z:0.132	Loc4X:0	Loc4Y:0	Loc4Z:0.132	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:6.10630406012336	Loc1Y:2.56893205580028E-02	Loc1Z:-2.03824577656161E-15	Loc2X:6.10630406012336	Loc2Y:2.56893205580028E-02	Loc2Z:-0.132000000000002	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:6.00354677789141	Loc1Y:4.02436922034347	Loc1Z:-2.45312340743788E-15	Loc2X:5.00387680294505	Loc2Y:3.99867989978548	Loc2Z:-5.9657605957339E-30	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:6.00354677789141	Loc1Y:4.02436922034347	Loc1Z:-0.132000000000002	Loc2X:5.00387680294505	Loc2Y:3.99867989978548	Loc2Z:-0.132	Loc3X:0	Loc3Y:0	Loc3Z:0.132	Loc4X:0	Loc4Y:0	Loc4Z:0.132	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:6.00354677789141	Loc1Y:4.02436922034347	Loc1Z:-2.45312340743788E-15	Loc2X:6.00354677789141	Loc2Y:4.02436922034347	Loc2Z:-0.132000000000002	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:7.80353130642766E-02	Loc1Y:-0.092565396372633	Loc1Z:3.69349782145823E-03	Loc2X:0.108284210445156	Loc2Y:-0.12844660278991	Loc2Z:-7.62899124473842E-16	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:6.47257982166899E-02	Loc1Y:-7.67776655490306E-02	Loc1Z:-0.1266813631371	Loc2X:0.108284210445156	Loc2Y:-0.12844660278991	Loc2Z:-0.132000000000001	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.00387680294505	Loc1Y:3.99867989978548	Loc1Z:-5.19053375208765E-16	Loc2X:4.97362790556417	Loc2Y:4.03456110620276	Loc2Z:3.69349782145848E-03	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:5.00387680294505	Loc1Y:3.99867989978548	Loc1Z:-0.132000000000001	Loc2X:4.96031839071658	Loc2Y:4.05034883702636	Loc2Z:-0.1266813631371	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:4.85312439272501E-02	Loc1Y:-5.75677043402471E-02	Loc1Z:1.46830451114539E-02	Loc2X:7.80353130642775E-02	Loc2Y:-0.092565396372634	Loc2Z:3.69349782145812E-03	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:2.22399386593718E-02	Loc1Y:-2.63809890223954E-02	Loc1Z:-0.110856415039506	Loc2X:6.47257982166909E-02	Loc2Y:-7.67776655490326E-02	Loc2Z:-0.1266813631371	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:4.97362790556417	Loc1Y:4.03456110620276	Loc1Z:3.69349782145836E-03	Loc2X:4.94412383642714	Loc2Y:4.06955879823515	Loc2Z:1.46830451114541E-02	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:4.96031839071658	Loc1Y:4.05034883702636	Loc1Z:-0.1266813631371	Loc2X:4.91783253115926	Loc2Y:4.100745513553	Loc2Z:-0.110856415039506	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:2.04984911346215E-02	Loc1Y:-2.43152860212694E-02	Loc1Z:0.03269804274349	Loc2X:0.048531243927251	Loc2Y:-5.75677043402482E-02	Loc2Z:1.46830451114536E-02	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-1.81272253620143E-02	Loc1Y:2.15024933569323E-02	Loc1Z:-8.49148184493741E-02	Loc2X:2.22399386593728E-02	Loc2Y:-2.63809890223971E-02	Loc2Z:-0.110856415039507	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:4.94412383642714	Loc1Y:4.06955879823515	Loc1Z:1.46830451114538E-02	Loc2X:4.91609108363451	Loc2Y:4.10281121655412	Loc2Z:3.26980427434902E-02	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:4.91783253115926	Loc1Y:4.100745513553	Loc1Z:-0.110856415039506	Loc2X:4.87746536713788	Loc2Y:4.14862899593233	Loc2Z:-8.49148184493739E-02	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-5.3726859044841E-03	Loc1Y:6.37307368683695E-03	Loc1Z:5.72949016875165E-02	Loc2X:2.04984911346225E-02	Loc2Y:-0.024315286021271	Loc2Z:3.26980427434894E-02	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-5.53817202983255E-02	Loc1Y:6.56937313366062E-02	Loc1Z:-0.049495341569976	Loc2X:-1.81272253620134E-02	Loc2Y:2.15024933569308E-02	Loc2Z:-8.49148184493749E-02	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:4.91609108363451	Loc1Y:4.10281121655412	Loc1Z:3.26980427434897E-02	Loc2X:4.89021990659541	Loc2Y:4.13349957626223	Loc2Z:5.72949016875167E-02	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:4.87746536713788	Loc1Y:4.14862899593232	Loc1Z:-8.49148184493747E-02	Loc2X:4.84021087220157	Loc2Y:4.192820233912	Loc2Z:-4.94953415699757E-02	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-0.028445252949848	Loc1Y:3.37417255192333E-02	Loc1Z:8.78679656440367E-02	Loc2X:-5.37268590448319E-03	Loc2Y:6.37307368683628E-03	Loc2Z:5.72949016875157E-02	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-0.08860621684365	Loc1Y:0.105104589975257	Loc1Z:-5.47012947258682E-03	Loc2X:-5.53817202983246E-02	Loc2Y:6.56937313366057E-02	Loc2Z:-4.94953415699771E-02	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:4.89021990659541	Loc1Y:4.13349957626223	Loc1Z:5.72949016875159E-02	Loc2X:4.86714733955004	Loc2Y:4.16086822809463	Loc2Z:0.087867965644037	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:4.84021087220157	Loc1Y:4.192820233912	Loc1Z:-4.94953415699768E-02	Loc2X:4.80698637565624	Loc2Y:4.23223109255065	Loc2Z:-5.47012947258658E-03	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-4.81510868273533E-02	Loc1Y:5.71167624364575E-02	Loc1Z:0.123664424312259	Loc2X:-2.84452529498471E-02	Loc2Y:3.37417255192329E-02	Loc2Z:8.78679656440358E-02	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-0.116982617627258	Loc1Y:0.13876464313606	Loc1Z:4.60767710096536E-02	Loc2X:-8.86062168436482E-02	Loc2Y:0.105104589975256	Loc2Z:-5.47012947258817E-03	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:4.86714733955004	Loc1Y:4.16086822809463	Loc1Z:0.087867965644036	Loc2X:4.84744150567254	Loc2Y:4.18424326501185	Loc2Z:0.123664424312259	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:4.80698637565624	Loc1Y:4.23223109255065	Loc1Z:-5.47012947258793E-03	Loc2X:4.77860997487263	Loc2Y:4.26589114571145	Loc2Z:4.60767710096538E-02	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-6.40049645070246E-02	Loc1Y:7.59226134523066E-02	Loc1Z:0.163802850078137	Loc2X:-4.81510868273533E-02	Loc2Y:5.71167624364564E-02	Loc2Z:0.123664424312258	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-0.139812201485984	Loc1Y:0.165845068598883	Loc1Z:0.103876104112518	Loc2X:-0.116982617627258	Loc2Y:0.138764643136058	Loc2Z:4.60767710096521E-02	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:4.84744150567254	Loc1Y:4.18424326501185	Loc1Z:0.123664424312258	Loc2X:4.83158762799287	Loc2Y:4.2030491160277	Loc2Z:0.163802850078138	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:4.77860997487263	Loc1Y:4.26589114571145	Loc1Z:4.60767710096523E-02	Loc2X:4.75578039101391	Loc2Y:4.29297157117428	Loc2Z:0.103876104112518	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-7.56165109043836E-02	Loc1Y:8.96962161017309E-02	Loc1Z:0.207294901687517	Loc2X:-6.40049645070246E-02	Loc2Y:7.59226134523064E-02	Loc2Z:0.163802850078136	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-0.156532828298182	Loc1Y:0.185679056414053	Loc1Z:0.166504658430025	Loc2X:-0.139812201485984	Loc2Y:0.165845068598882	Loc2Z:0.103876104112516	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:4.83158762799287	Loc1Y:4.2030491160277	Loc1Z:0.163802850078136	Loc2X:4.81997608159551	Loc2Y:4.21682271867712	Loc2Z:0.207294901687518	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:4.75578039101391	Loc1Y:4.29297157117428	Loc1Z:0.103876104112517	Loc2X:4.73905976420171	Loc2Y:4.31280555898945	Loc2Z:0.166504658430025	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-8.26998112106148E-02	Loc1Y:9.80984185755332E-02	Loc1Z:0.253069660487932	Loc2X:-7.56165109043835E-02	Loc2Y:8.96962161017298E-02	Loc2Z:0.207294901687516	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-0.166732780739154	Loc1Y:0.197778227976329	Loc1Z:0.232420311102623	Loc2X:-0.156532828298181	Loc2Y:0.185679056414052	Loc2Z:0.166504658430023	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:4.81997608159551	Loc1Y:4.21682271867712	Loc1Z:0.207294901687516	Loc2X:4.81289278128928	Loc2Y:4.22522492115093	Loc2Z:0.253069660487933	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:4.73905976420171	Loc1Y:4.31280555898945	Loc1Z:0.166504658430023	Loc2X:4.72885981176074	Loc2Y:4.32490473055172	Loc2Z:0.232420311102623	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-8.50804510640524E-02	Loc1Y:0.100922330763499	Loc1Z:0.300000000000002	Loc2X:-8.26998112106148E-02	Loc2Y:0.098098418575533	Loc2Z:0.253069660487931	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-0.170160902128105	Loc1Y:0.201844661527	Loc1Z:0.300000000000003	Loc2X:-0.166732780739154	Loc2Y:0.197778227976328	Loc2Z:0.232420311102621	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:4.81289278128928	Loc1Y:4.22522492115093	Loc1Z:0.253069660487931	Loc2X:4.81051214143584	Loc2Y:4.22804883333889	Loc2Z:0.300000000000002	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:4.72885981176074	Loc1Y:4.32490473055172	Loc1Z:0.232420311102621	Loc2X:4.72543169037179	Loc2Y:4.32897116410239	Loc2Z:0.300000000000003	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:4.81051214143585	Loc1Y:4.22804883333888	Loc1Z:4	Loc2X:-8.50804510640436E-02	Loc2Y:0.100922330763488	Loc2Z:4	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:4.72543169037179	Loc1Y:4.32897116410238	Loc1Z:4	Loc2X:-0.170160902128096	Loc2Y:0.201844661526989	Loc2Z:4	Loc3X:0	Loc3Y:0	Loc3Z:0.132	Loc4X:0	Loc4Y:0	Loc4Z:0.132	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:4.81051214143585	Loc1Y:4.22804883333888	Loc1Z:4	Loc2X:4.72543169037179	Loc2Y:4.32897116410238	Loc2Z:4	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-8.50804510640436E-02	Loc1Y:0.100922330763488	Loc1Z:4	Loc2X:-8.50804510640656E-02	Loc2Y:0.100922330763505	Loc2Z:0.300000000000001	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-0.170160902128096	Loc1Y:0.201844661526989	Loc1Z:4	Loc2X:-0.17016090212811	Loc2Y:0.201844661526996	Loc2Z:0.300000000000001	Loc3X:0	Loc3Y:0	Loc3Z:0.132	Loc4X:0	Loc4Y:0	Loc4Z:0.132	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-8.50804510640436E-02	Loc1Y:0.100922330763488	Loc1Z:4	Loc2X:-0.170160902128096	Loc2Y:0.201844661526989	Loc2Z:4	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-8.50804510640532E-02	Loc1Y:0.1009223307635	Loc1Z:0.300000000000001	Loc2X:4.81051214143584	Loc2Y:4.22804883333889	Loc2Z:0.300000000000001	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-0.170160902128105	Loc1Y:0.201844661527	Loc1Z:0.300000000000001	Loc2X:4.72543169037179	Loc2Y:4.32897116410239	Loc2Z:0.300000000000002	Loc3X:0	Loc3Y:0	Loc3Z:0.132	Loc4X:0	Loc4Y:0	Loc4Z:0.132	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:-8.50804510640532E-02	Loc1Y:0.1009223307635	Loc1Z:0.300000000000001	Loc2X:-0.170160902128105	Loc2Y:0.201844661527	Loc2Z:0.300000000000001	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:4.81051214143584	Loc1Y:4.22804883333889	Loc1Z:0.300000000000001	Loc2X:4.81051214143585	Loc2Y:4.22804883333888	Loc2Z:4	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:4.72543169037179	Loc1Y:4.32897116410239	Loc1Z:0.300000000000002	Loc2X:4.72543169037179	Loc2Y:4.32897116410238	Loc2Z:4	Loc3X:0	Loc3Y:0	Loc3Z:0.132	Loc4X:0	Loc4Y:0	Loc4Z:0.132	Radius:0	Angle:0</Row>
+
+<Row>Type:1	Loc1X:4.81051214143584	Loc1Y:4.22804883333889	Loc1Z:0.300000000000001	Loc2X:4.72543169037179	Loc2Y:4.32897116410239	Loc2Z:0.300000000000002	Loc3X:0	Loc3Y:0	Loc3Z:0	Loc4X:0	Loc4Y:0	Loc4Z:0	Radius:0	Angle:0</Row>
+
+</End Parts>
+
+<Start PickPoints>
+</End PickPoints>
+
+<Start Anchors>
+<Row>Location X:5.00387680294505	Location Y:3.99867989978548	Location Z:-1.42734520038427E-29	Color:255	ID:3</Row>
+</End Anchors>
+
+<Start Triangles>
+<Row>0.108284210445157:::-0.12844660278991:::1.26804946680656E-14:::5.10663408517699:::1.74435390177391E-14:::4.14877630876264E-16:::5.00387680294505:::3.99867989978548:::-5.9657605957339E-30:::0:::0:::0</Row>
+<Row>0.108284210445156:::-0.12844660278991:::-0.131999999999987:::5.00387680294505:::3.99867989978548:::-0.132:::5.10663408517699:::1.74215340565678E-14:::-0.132:::0:::0:::0</Row>
+<Row>5.10663408517699:::1.74435390177391E-14:::4.14877630876264E-16:::6.10630406012336:::2.56893205580028E-02:::-2.03824577656161E-15:::5.00387680294505:::3.99867989978548:::-5.9657605957339E-30:::0:::0:::0</Row>
+<Row>5.10663408517699:::1.74215340565678E-14:::-0.132:::5.00387680294505:::3.99867989978548:::-0.132:::6.10630406012336:::2.56893205580028E-02:::-0.132000000000002:::0:::0:::0</Row>
+<Row>6.10630406012336:::2.56893205580028E-02:::-2.03824577656161E-15:::6.00354677789141:::4.02436922034347:::-2.45312340743788E-15:::5.00387680294505:::3.99867989978548:::-5.9657605957339E-30:::0:::0:::0</Row>
+<Row>6.10630406012336:::2.56893205580028E-02:::-0.132000000000002:::5.00387680294505:::3.99867989978548:::-0.132:::6.00354677789141:::4.02436922034347:::-0.132000000000002:::0:::0:::0</Row>
+<Row>4.96031752885394:::4.05034985936681:::-0.12668125790061:::0.10828745023:::-0.128443871557348:::-0.132000000000001:::6.47281761388939E-02:::-7.67739119760212E-02:::-0.12668125790061:::0:::0:::0</Row>
+<Row>5.00387680294505:::3.99867989978548:::-0.132000000000001:::0.10828745023:::-0.128443871557348:::-0.132000000000001:::4.96031752885394:::4.05034985936681:::-0.12668125790061:::0:::0:::0</Row>
+<Row>4.97362498668588:::4.03456456857275:::3.69385422686663E-03:::7.80356339708284E-02:::-0.092559202770081:::3.69385422686638E-03:::0.10828745023:::-0.128443871557349:::-7.62898963102619E-16:::0:::0:::0</Row>
+<Row>5.00387680294505:::3.99867989978548:::-5.19053375208765E-16:::4.97362498668588:::4.03456456857275:::3.69385422686663E-03:::0.10828745023:::-0.128443871557349:::-7.62898963102619E-16:::0:::0:::0</Row>
+<Row>4.91783169051854:::4.10074651072003:::-0.110856101921308:::6.47290380015354E-02:::-7.67749343164714E-02:::-0.1266813631371:::2.22423378034938E-02:::-2.63772606228007E-02:::-0.110856101921308:::0:::0:::0</Row>
+<Row>4.96031839071658:::4.05034883702636:::-0.1266813631371:::6.47290380015354E-02:::-7.67749343164714E-02:::-0.1266813631371:::4.91783169051854:::4.10074651072003:::-0.110856101921308:::0:::0:::0</Row>
+<Row>4.94412098942132:::4.0695621753501:::1.46841055517946E-02:::4.85316367062725E-02:::-5.75615959927352E-02:::1.46841055517944E-02:::0.078038552849122:::-9.25626651400728E-02:::3.69349782145812E-03:::0:::0:::0</Row>
+<Row>4.97362790556417:::4.03456110620276:::3.69349782145836E-03:::4.94412098942132:::4.0695621753501:::1.46841055517946E-02:::0.078038552849122:::-9.25626651400728E-02:::3.69349782145812E-03:::0:::0:::0</Row>
+<Row>4.87746456841844:::4.14862994337238:::-8.49143051594766E-02:::2.22431784442173E-02:::-2.63782577898359E-02:::-0.110856415039507:::-1.81247842966088E-02:::2.15061720295504E-02:::-8.49143051594769E-02:::0:::0:::0</Row>
+<Row>4.91783253115926:::4.100745513553:::-0.110856415039506:::2.22431784442173E-02:::-2.63782577898359E-02:::-0.110856415039507:::4.87746456841844:::4.14862994337238:::-8.49143051594766E-02:::0:::0:::0</Row>
+<Row>4.91608837860389:::4.10281442525826:::3.26997811072024E-02:::2.04990258888464E-02:::-2.43093460845758E-02:::3.26997811072022E-02:::4.85344837120955E-02:::-0.057564973107687:::1.46830451114536E-02:::0:::0:::0</Row>
+<Row>4.94412383642714:::4.06955879823515:::1.46830451114538E-02:::4.91608837860389:::4.10281442525826:::3.26997811072024E-02:::4.85344837120955E-02:::-0.057564973107687:::1.46830451114536E-02:::0:::0:::0</Row>
+<Row>4.84021013507053:::4.19282110829596:::-4.94946407472802E-02:::-1.81239855771689E-02:::2.15052245894919E-02:::-8.49148184493749E-02:::-5.53792176445134E-02:::6.56973369531292E-02:::-4.94946407472805E-02:::0:::0:::0</Row>
+<Row>4.87746536713788:::4.14862899593232:::-8.49148184493747E-02:::-1.81239855771689E-02:::2.15052245894919E-02:::-8.49148184493749E-02:::4.84021013507053:::4.19282110829596:::-4.94946407472802E-02:::0:::0:::0</Row>
+<Row>4.89021741014682:::4.1335025375466:::5.72972751703167E-02:::-5.3719425682249E-03:::6.37876620376752E-03:::5.72972751703165E-02:::0.020501730919467:::-2.43125547887099E-02:::3.26980427434894E-02:::0:::0:::0</Row>
+<Row>4.91609108363451:::4.10281121655412:::3.26980427434897E-02:::4.89021741014682:::4.1335025375466:::5.72972751703167E-02:::0.020501730919467:::-2.43125547887099E-02:::3.26980427434894E-02:::0:::0:::0</Row>
+<Row>4.80698571826423:::4.23223187234828:::-5.46925837367348E-03:::-5.53784805134801E-02:::6.56964625691669E-02:::-4.94953415699771E-02:::-8.86036344508185E-02:::0.10510810100545:::-5.46925837367372E-03:::0:::0:::0</Row>
+<Row>4.84021087220157:::4.192820233912:::-4.94953415699768E-02:::-5.53784805134801E-02:::6.56964625691669E-02:::-4.94953415699771E-02:::4.80698571826423:::4.23223187234828:::-5.46925837367348E-03:::0:::0:::0</Row>
+<Row>4.86714511315434:::4.16087086904258:::8.78709158029011E-02:::-2.84442395607053E-02:::3.37470976997518E-02:::8.78709158029009E-02:::-5.36944611963868E-03:::6.37580491939743E-03:::5.72949016875157E-02:::0:::0:::0</Row>
+<Row>4.89021990659541:::4.13349957626223:::5.72949016875159E-02:::4.86714511315434:::4.16087086904258:::8.78709158029011E-02:::-5.36944611963868E-03:::6.37580491939743E-03:::5.72949016875157E-02:::0:::0:::0</Row>
+<Row>4.77860941340681:::4.26589181172155:::4.60777909354383E-02:::-8.86029770588037E-02:::0.105107321207817:::-5.47012947258817E-03:::-0.116979939308235:::0.138768040378717:::4.60777909354381E-02:::0:::0:::0</Row>
+<Row>4.80698637565624:::4.23223109255065:::-5.47012947258793E-03:::-8.86029770588037E-02:::0.105107321207817:::-5.47012947258817E-03:::4.77860941340681:::4.26589181172155:::4.60777909354383E-02:::0:::0:::0</Row>
+<Row>4.84743960415097:::4.18424552059449:::0.123667878504486:::-4.81497485640761E-02:::5.71217492516603E-02:::0.123667878504485:::-2.84420131650026E-02:::3.37444567517941E-02:::8.78679656440358E-02:::0:::0:::0</Row>
+<Row>4.86714733955004:::4.16086822809463:::0.087867965644036:::4.84743960415097:::4.18424552059449:::0.123667878504486:::-2.84420131650026E-02:::3.37444567517941E-02:::8.78679656440358E-02:::0:::0:::0</Row>
+<Row>4.75577993929943:::4.29297210699746:::0.103877247751216:::-0.116979377842413:::0.13876737436862:::4.60767710096521E-02:::-0.139809413415617:::0.165848335654625:::0.103877247751216:::0:::0:::0</Row>
+<Row>4.77860997487263:::4.26589114571145:::4.60767710096523E-02:::-0.116979377842413:::0.13876737436862:::4.60767710096521E-02:::4.75577993929943:::4.29297210699746:::0.103877247751216:::0:::0:::0</Row>
+<Row>4.83158609816721:::4.2030509307051:::0.163806723250049:::-6.40032545478409E-02:::7.59271593622633E-02:::0.163806723250049:::-4.81478470425088E-02:::5.71194936690176E-02:::0.123664424312258:::0:::0:::0</Row>
+<Row>4.84744150567254:::4.18424326501185:::0.123664424312258:::4.83158609816721:::4.2030509307051:::0.163806723250049:::-4.81478470425088E-02:::5.71194936690176E-02:::0.123664424312258:::0:::0:::0</Row>
+<Row>4.73905943336129:::4.31280595143197:::0.166505897621457:::-0.139808961701139:::0.165847799831443:::0.103876104112516:::-0.156529919353761:::0.185682180089135:::0.166505897621457:::0:::0:::0</Row>
+<Row>4.75578039101391:::4.29297157117428:::0.103876104112517:::-0.139808961701139:::0.165847799831443:::0.103876104112516:::4.73905943336129:::4.31280595143197:::0.166505897621457:::0:::0:::0</Row>
+<Row>4.81997496113514:::4.21682404776589:::0.207299098468768:::-7.56143915799089E-02:::8.97002764230614E-02:::0.207299098468768:::-6.40017247221792E-02:::7.59253446848676E-02:::0.163802850078136:::0:::0:::0</Row>
+<Row>4.83158762799287:::4.2030491160277:::0.163802850078136:::4.81997496113514:::4.21682404776589:::0.207299098468768:::-6.40017247221792E-02:::7.59253446848676E-02:::0.163802850078136:::0:::0:::0</Row>
+<Row>4.72885960994076:::4.32490496995035:::0.232421615333782:::-0.156529588513337:::0.185681787646614:::0.166504658430023:::-0.166729742774291:::0.197781198607515:::0.232421615333782:::0:::0:::0</Row>
+<Row>4.73905976420171:::4.31280555898945:::0.166504658430023:::-0.156529588513337:::0.185681787646614:::0.166504658430023:::4.72885960994076:::4.32490496995035:::0.232421615333782:::0:::0:::0</Row>
+<Row>4.81289209778365:::4.22522573192449:::0.253074077539839:::-8.26972549313948E-02:::0.098101960581661:::0.253074077539839:::-0.075613271119539:::8.96989473342909E-02:::0.207294901687516:::0:::0:::0</Row>
+<Row>4.81997608159551:::4.21682271867712:::0.207294901687516:::4.81289209778365:::4.22522573192449:::0.253074077539839:::-0.075613271119539:::8.96989473342909E-02:::0.207294901687516:::0:::0:::0</Row>
+<Row>4.72543162254173:::4.32897124456233:::0.30000133715639:::-0.16672954095431:::0.19778095920889:::0.232420311102621:::-0.170157730173321:::0.201847473219499:::0.30000133715639:::0:::0:::0</Row>
+<Row>4.72885981176074:::4.32490473055172:::0.232420311102621:::-0.16672954095431:::0.19778095920889:::0.232420311102621:::4.72543162254173:::4.32897124456233:::0.30000133715639:::0:::0:::0</Row>
+<Row>4.81051191171514:::4.22804910583332:::0.300004528560087:::-8.50774409999111E-02:::0.100925334490488:::0.300004528560087:::-8.26965714257703E-02:::9.81011498080941E-02:::0.253069660487931:::0:::0:::0</Row>
+<Row>4.81289278128928:::4.22522492115093:::0.253069660487931:::4.81051191171514:::4.22804910583332:::0.300004528560087:::-8.26965714257703E-02:::9.81011498080941E-02:::0.253069660487931:::0:::0:::0</Row>
+<Row>-8.50772112791986E-02:::0.10092506199605:::4:::-8.50772112792079E-02:::0.100925061996062:::0.300000000000001:::4.81051214143585:::4.22804883333888:::4:::0:::0:::0</Row>
+<Row>-0.170157662343251:::0.201847392759551:::4:::4.7254316903718:::4.32897116410238:::4:::-0.17015766234326:::0.201847392759562:::0.300000000000001:::0:::0:::0</Row>
+<Row>-8.50772112792079E-02:::0.100925061996062:::0.300000000000001:::4.81051214143584:::4.22804883333889:::0.300000000000001:::4.81051214143585:::4.22804883333888:::4:::0:::0:::0</Row>
+<Row>-0.17015766234326:::0.201847392759562:::0.300000000000001:::4.7254316903718:::4.32897116410238:::4:::4.72543169037179:::4.32897116410239:::0.300000000000002:::0:::0:::0</Row>
+</End Triangles>
+
+<Start Quads>
+<Row>6.00354677789141:::4.02436922034347:::-2.45312340743788E-15:::6.00354677789141:::4.02436922034347:::-0.132000000000002:::5.00387680294505:::3.99867989978548:::-0.132:::5.00387680294505:::3.99867989978548:::-5.9657605957339E-30:::0:::0:::0</Row>
+<Row>5.00387680294505:::3.99867989978548:::-5.9657605957339E-30:::5.00387680294505:::3.99867989978548:::-0.132:::0.108284210445156:::-0.12844660278991:::-0.131999999999987:::0.108284210445157:::-0.12844660278991:::1.26804946680656E-14:::0:::0:::0</Row>
+<Row>0.108284210445157:::-0.12844660278991:::1.26804946680656E-14:::0.108284210445156:::-0.12844660278991:::-0.131999999999987:::5.10663408517699:::1.74215340565678E-14:::-0.132:::5.10663408517699:::1.74435390177391E-14:::4.14877630876264E-16:::0:::0:::0</Row>
+<Row>5.10663408517699:::1.74435390177391E-14:::4.14877630876264E-16:::5.10663408517699:::1.74215340565678E-14:::-0.132:::6.10630406012336:::2.56893205580028E-02:::-0.132000000000002:::6.10630406012336:::2.56893205580028E-02:::-2.03824577656161E-15:::0:::0:::0</Row>
+<Row>6.10630406012336:::2.56893205580028E-02:::-2.03824577656161E-15:::6.10630406012336:::2.56893205580028E-02:::-0.132000000000002:::6.00354677789141:::4.02436922034347:::-0.132000000000002:::6.00354677789141:::4.02436922034347:::-2.45312340743788E-15:::0:::0:::0</Row>
+<Row>7.80353130642766E-02:::-0.092565396372633:::3.69349782145823E-03:::0.108284210445156:::-0.12844660278991:::-7.62899124473842E-16:::0.108284210445156:::-0.12844660278991:::-0.132000000000001:::6.47257982166899E-02:::-7.67776655490306E-02:::-0.1266813631371:::0:::0:::0</Row>
+<Row>5.00387680294505:::3.99867989978548:::-5.19053375208765E-16:::4.97362790556417:::4.03456110620276:::3.69349782145848E-03:::4.96031839071658:::4.05034883702636:::-0.1266813631371:::5.00387680294505:::3.99867989978548:::-0.132000000000001:::0:::0:::0</Row>
+<Row>4.85312439272501E-02:::-5.75677043402471E-02:::1.46830451114539E-02:::7.80353130642775E-02:::-0.092565396372634:::3.69349782145812E-03:::6.47257982166909E-02:::-7.67776655490326E-02:::-0.1266813631371:::2.22399386593718E-02:::-2.63809890223954E-02:::-0.110856415039506:::0:::0:::0</Row>
+<Row>4.97362790556417:::4.03456110620276:::3.69349782145836E-03:::4.94412383642714:::4.06955879823515:::1.46830451114541E-02:::4.91783253115926:::4.100745513553:::-0.110856415039506:::4.96031839071658:::4.05034883702636:::-0.1266813631371:::0:::0:::0</Row>
+<Row>2.04984911346215E-02:::-2.43152860212694E-02:::0.03269804274349:::0.048531243927251:::-5.75677043402482E-02:::1.46830451114536E-02:::2.22399386593728E-02:::-2.63809890223971E-02:::-0.110856415039507:::-1.81272253620143E-02:::2.15024933569323E-02:::-8.49148184493741E-02:::0:::0:::0</Row>
+<Row>4.94412383642714:::4.06955879823515:::1.46830451114538E-02:::4.91609108363451:::4.10281121655412:::3.26980427434902E-02:::4.87746536713788:::4.14862899593233:::-8.49148184493739E-02:::4.91783253115926:::4.100745513553:::-0.110856415039506:::0:::0:::0</Row>
+<Row>-5.3726859044841E-03:::6.37307368683695E-03:::5.72949016875165E-02:::2.04984911346225E-02:::-0.024315286021271:::3.26980427434894E-02:::-1.81272253620134E-02:::2.15024933569308E-02:::-8.49148184493749E-02:::-5.53817202983255E-02:::6.56937313366062E-02:::-0.049495341569976:::0:::0:::0</Row>
+<Row>4.91609108363451:::4.10281121655412:::3.26980427434897E-02:::4.89021990659541:::4.13349957626223:::5.72949016875167E-02:::4.84021087220157:::4.192820233912:::-4.94953415699757E-02:::4.87746536713788:::4.14862899593232:::-8.49148184493747E-02:::0:::0:::0</Row>
+<Row>-0.028445252949848:::3.37417255192333E-02:::8.78679656440367E-02:::-5.37268590448319E-03:::6.37307368683628E-03:::5.72949016875157E-02:::-5.53817202983246E-02:::6.56937313366057E-02:::-4.94953415699771E-02:::-0.08860621684365:::0.105104589975257:::-5.47012947258682E-03:::0:::0:::0</Row>
+<Row>4.89021990659541:::4.13349957626223:::5.72949016875159E-02:::4.86714733955004:::4.16086822809463:::0.087867965644037:::4.80698637565624:::4.23223109255065:::-5.47012947258658E-03:::4.84021087220157:::4.192820233912:::-4.94953415699768E-02:::0:::0:::0</Row>
+<Row>-4.81510868273533E-02:::5.71167624364575E-02:::0.123664424312259:::-2.84452529498471E-02:::3.37417255192329E-02:::8.78679656440358E-02:::-8.86062168436482E-02:::0.105104589975256:::-5.47012947258817E-03:::-0.116982617627258:::0.13876464313606:::4.60767710096536E-02:::0:::0:::0</Row>
+<Row>4.86714733955004:::4.16086822809463:::0.087867965644036:::4.84744150567254:::4.18424326501185:::0.123664424312259:::4.77860997487263:::4.26589114571145:::4.60767710096538E-02:::4.80698637565624:::4.23223109255065:::-5.47012947258793E-03:::0:::0:::0</Row>
+<Row>-6.40049645070246E-02:::7.59226134523066E-02:::0.163802850078137:::-4.81510868273533E-02:::5.71167624364564E-02:::0.123664424312258:::-0.116982617627258:::0.138764643136058:::4.60767710096521E-02:::-0.139812201485984:::0.165845068598883:::0.103876104112518:::0:::0:::0</Row>
+<Row>4.84744150567254:::4.18424326501185:::0.123664424312258:::4.83158762799287:::4.2030491160277:::0.163802850078138:::4.75578039101391:::4.29297157117428:::0.103876104112518:::4.77860997487263:::4.26589114571145:::4.60767710096523E-02:::0:::0:::0</Row>
+<Row>-7.56165109043836E-02:::8.96962161017309E-02:::0.207294901687517:::-6.40049645070246E-02:::7.59226134523064E-02:::0.163802850078136:::-0.139812201485984:::0.165845068598882:::0.103876104112516:::-0.156532828298182:::0.185679056414053:::0.166504658430025:::0:::0:::0</Row>
+<Row>4.83158762799287:::4.2030491160277:::0.163802850078136:::4.81997608159551:::4.21682271867712:::0.207294901687518:::4.73905976420171:::4.31280555898945:::0.166504658430025:::4.75578039101391:::4.29297157117428:::0.103876104112517:::0:::0:::0</Row>
+<Row>-8.26998112106148E-02:::9.80984185755332E-02:::0.253069660487932:::-7.56165109043835E-02:::8.96962161017298E-02:::0.207294901687516:::-0.156532828298181:::0.185679056414052:::0.166504658430023:::-0.166732780739154:::0.197778227976329:::0.232420311102623:::0:::0:::0</Row>
+<Row>4.81997608159551:::4.21682271867712:::0.207294901687516:::4.81289278128928:::4.22522492115093:::0.253069660487933:::4.72885981176074:::4.32490473055172:::0.232420311102623:::4.73905976420171:::4.31280555898945:::0.166504658430023:::0:::0:::0</Row>
+<Row>-8.50804510640524E-02:::0.100922330763499:::0.300000000000002:::-8.26998112106148E-02:::0.098098418575533:::0.253069660487931:::-0.166732780739154:::0.197778227976328:::0.232420311102621:::-0.170160902128105:::0.201844661527:::0.300000000000003:::0:::0:::0</Row>
+<Row>4.81289278128928:::4.22522492115093:::0.253069660487931:::4.81051214143584:::4.22804883333889:::0.300000000000002:::4.72543169037179:::4.32897116410239:::0.300000000000003:::4.72885981176074:::4.32490473055172:::0.232420311102621:::0:::0:::0</Row>
+<Row>4.81051214143584:::4.22804883333889:::0.300000000000001:::4.72543169037179:::4.32897116410239:::0.300000000000002:::4.72543169037179:::4.32897116410238:::4:::4.81051214143585:::4.22804883333888:::4:::0:::0:::0</Row>
+<Row>4.81051214143585:::4.22804883333888:::4:::4.72543169037179:::4.32897116410238:::4:::-0.170160902128096:::0.201844661526989:::4:::-8.50804510640439E-02:::0.100922330763488:::4:::0:::0:::0</Row>
+<Row>-8.50804510640439E-02:::0.100922330763488:::4:::-0.170160902128096:::0.201844661526989:::4:::-0.170160902128106:::0.201844661527:::0.300000000000001:::-8.50804510640533E-02:::0.1009223307635:::0.300000000000001:::0:::0:::0</Row>
+<Row>-8.50804510640533E-02:::0.1009223307635:::0.300000000000001:::-0.170160902128106:::0.201844661527:::0.300000000000001:::4.72543169037179:::4.32897116410239:::0.300000000000002:::4.81051214143584:::4.22804883333889:::0.300000000000001:::0:::0:::0</Row>
+</End Quads>
+
+<Plate Name>rear_foot_top</Plate Name>
+<Plate Key>2</Plate Key>
+<Plate Material>10g plate</Plate Material>
+<Plate Color>10461087</Plate Color>
+<Plate Weight>0</Plate Weight>
+
+
+</End Assembly Master Plate>
+
+<Start Assembly Plate>
+<Matrix><Matrix Row>4.72416702111678E-15:::1:::1.10440526730942E-29:::0:::1:::-4.72416702111678E-15:::3.43025304341826E-15:::0:::3.43025304341826E-15:::-5.16103562870785E-30:::-1:::0:::0:::-5:::0:::1</Matrix Row>
+</Matrix>
+
+<Start PickPoints>
+</End PickPoints>
+
+
+<Start Anchors>
+<Row>Location X:4	Location Y:0	Location Z:0	Color:0	ID:0</Row>
+</End Anchors>
+
+
+<Plate Name>rear_foot_bottom</Plate Name>
+<Plate Key>1</Plate Key>
+<Plate Color>10461087</Plate Color>
+
+</End Assembly Plate>
+
+<Start Assembly Plate>
+<Matrix><Matrix Row>-1.80031586392273E-15:::1:::8.12428742604592E-17:::0:::1:::1.80031586392273E-15:::3.13396769473229E-15:::0:::3.13396769473229E-15:::8.12428742604649E-17:::-1:::0:::-0.25:::-5:::4.125:::1</Matrix Row>
+</Matrix>
+
+<Start PickPoints>
+</End PickPoints>
+
+
+<Start Anchors>
+<Row>Location X:4	Location Y:0.25	Location Z:4.125	Color:0	ID:0</Row>
+</End Anchors>
+
+
+<Plate Name>rear_foot_top</Plate Name>
+<Plate Key>2</Plate Key>
+<Plate Color>10461087</Plate Color>
+
+</End Assembly Plate>
+
+

@@ -1,0 +1,158 @@
+Plate Feature File
+
+5.2.1
+
+<Flange>
+<Start Geom05>
+<Row>Type:0	Loc1X:0	Loc1Y:0	Loc2X:0	Loc2Y:0	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2333	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:1	Loc1X:3.75	Loc1Y:0	Loc2X:3.75	Loc2Y:2.90000009536743	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:1	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2336	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:1	Loc1X:3.75	Loc1Y:2.90000009536743	Loc2X:0	Loc2Y:5.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:1	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2337	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:1	Loc1X:0.147911995649338	Loc1Y:1	Loc2X:-0.102087996900082	Loc2Y:1	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:2	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2342	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:1	Loc1X:-0.102087996900082	Loc1Y:1	Loc2X:-0.102087996900082	Loc2Y:1.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:2	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2343	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:1	Loc1X:-0.102087996900082	Loc1Y:1.5	Loc2X:0.147911995649338	Loc2Y:1.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:2	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2344	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:1	Loc1X:0.147911995649338	Loc1Y:1.5	Loc2X:0.147911995649338	Loc2Y:1	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:2	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2345	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:1	Loc1X:0.147911995649338	Loc1Y:2.5	Loc2X:-0.102087996900082	Loc2Y:2.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:2	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2346	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:1	Loc1X:-0.102087996900082	Loc1Y:2.5	Loc2X:-0.102087996900082	Loc2Y:3	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:2	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2347	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:1	Loc1X:-0.102087996900082	Loc1Y:3	Loc2X:0.147911995649338	Loc2Y:3	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:2	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2348	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:1	Loc1X:0.147911995649338	Loc1Y:3	Loc2X:0.147911995649338	Loc2Y:2.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:2	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2349	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:1	Loc1X:0.147911995649338	Loc1Y:4	Loc2X:-0.102087996900082	Loc2Y:4	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:2	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2350	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:1	Loc1X:-0.102087996900082	Loc1Y:4	Loc2X:-0.102087996900082	Loc2Y:4.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:2	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2351	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:1	Loc1X:-0.102087996900082	Loc1Y:4.5	Loc2X:0.147911995649338	Loc2Y:4.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:2	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2352	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:1	Loc1X:0.147911995649338	Loc1Y:4.5	Loc2X:0.147911995649338	Loc2Y:4	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:2	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2353	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:1	Loc1X:4.58230003714561E-02	Loc1Y:0	Loc2X:-1.95417702198029	Loc2Y:0	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:1	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2355	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:1	Loc1X:-1.95417702198029	Loc1Y:0	Loc2X:-1.95417702198029	Loc2Y:5.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:1	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2356	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:1	Loc1X:-1.95417702198029	Loc1Y:6.25	Loc2X:-1.95417702198029	Loc2Y:5.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:1	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2357	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:1	Loc1X:-0.254177004098892	Loc1Y:6.5	Loc2X:-1.70417702198029	Loc2Y:6.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:1	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2358	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:1	Loc1X:-0.254177004098892	Loc1Y:5.5	Loc2X:-0.254177004098892	Loc2Y:6.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:1	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2359	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:1	Loc1X:0	Loc1Y:5.5	Loc2X:4.58230003714561E-02	Loc2Y:5.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2361	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:2	Loc1X:-1.70417818818972	Loc1Y:6.25000116620944	Loc2X:-1.95417702198029	Loc2Y:6.25	Loc3X:-1.70417702198029	Loc3Y:6.5	Loc4X:-1.70417935439916	Loc4Y:6.5	Color:0	Def_Part:1	Radius:0.249998833793284	Angle:90.000534553524	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2362	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:1	Loc1X:4.58230003714561E-02	Loc1Y:0	Loc2X:3.75	Loc2Y:0	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:1	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2363	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:1	Loc1X:-0.254177004098892	Loc1Y:5.5	Loc2X:0	Loc2Y:5.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:1	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2364	Break:False	Width:0	IsChild:False	Length:0</Row>
+</End Geom>
+
+<Start Text>
+</End Text>
+
+<Start Dimen>
+</End Dimen>
+
+<Start Parts>
+<Row>Type:1	Loc1X:4.58230003714561E-02	Loc1Y:0	Loc2X:-1.95417702198029	Loc2Y:0	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:2355	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:-1.95417702198029	Loc1Y:0	Loc2X:-1.95417702198029	Loc2Y:5.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:1	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:2356	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:-1.95417702198029	Loc1Y:5.5	Loc2X:-1.95417702198029	Loc2Y:6.25	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:1	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:2357	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:-1.70417818818972	Loc1Y:6.25000116620944	Loc2X:-1.95417702198029	Loc2Y:6.25	Loc3X:-1.70417702198029	Loc3Y:6.5	Loc4X:-1.70417935439916	Loc4Y:6.5	Def_Part:1	Radius:0.249998833793284	Angle:90.000534553524	Bend Num:0	Layer:1	Key:0	Unique:2362	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:-1.70417702198029	Loc1Y:6.5	Loc2X:-0.254177004098892	Loc2Y:6.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:1	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:2358	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:-0.254177004098892	Loc1Y:6.5	Loc2X:-0.254177004098892	Loc2Y:5.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:1	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:2359	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:-0.254177004098892	Loc1Y:5.5	Loc2X:0	Loc2Y:5.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:1	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:2364	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:0	Loc1Y:5.5	Loc2X:3.75	Loc2Y:2.90000009536743	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:1	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:2337	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:3.75	Loc1Y:2.90000009536743	Loc2X:3.75	Loc2Y:0	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:1	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:2336	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:3.75	Loc1Y:0	Loc2X:4.58230003714561E-02	Loc2Y:0	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:1	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:2363	Break:False	IsChild:False</Row>
+</End Parts>
+
+<Start Def_Holes>
+
+<H_Row>
+
+<H_Part>
+<Row>Type:1	Loc1X:-0.102087996900082	Loc1Y:1	Loc2X:0.147911995649338	Loc2Y:1	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:2342	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:0.147911995649338	Loc1Y:1	Loc2X:0.147911995649338	Loc2Y:1.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:2345	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:0.147911995649338	Loc1Y:1.5	Loc2X:-0.102087996900082	Loc2Y:1.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:2344	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:-0.102087996900082	Loc1Y:1.5	Loc2X:-0.102087996900082	Loc2Y:1	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:2343	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:1	Loc1X:-0.102087996900082	Loc1Y:2.5	Loc2X:0.147911995649338	Loc2Y:2.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:2346	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:0.147911995649338	Loc1Y:2.5	Loc2X:0.147911995649338	Loc2Y:3	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:2349	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:0.147911995649338	Loc1Y:3	Loc2X:-0.102087996900082	Loc2Y:3	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:2348	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:-0.102087996900082	Loc1Y:3	Loc2X:-0.102087996900082	Loc2Y:2.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:2347	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:1	Loc1X:-0.102087996900082	Loc1Y:4	Loc2X:0.147911995649338	Loc2Y:4	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:2350	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:0.147911995649338	Loc1Y:4	Loc2X:0.147911995649338	Loc2Y:4.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:2353	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:0.147911995649338	Loc1Y:4.5	Loc2X:-0.102087996900082	Loc2Y:4.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:2352	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:-0.102087996900082	Loc1Y:4.5	Loc2X:-0.102087996900082	Loc2Y:4	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:2351	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+</End Def_Holes>
+
+<Start Points>
+</End Points>
+
+<Defined>True</Defined>
+<Flange_Num>1</Flange_Num>
+<Flange_Type>0</Flange_Type>
+
+</Flange>
+
+
+
+<Start Color>
+0
+</End Color>
+
+<Material>Default</Material>
+<Part Color>12632256</Part Color>
+<Has Title>False</Has Title>
+<Part Notes></Part Notes>
+
+
+
+<Layer Names>Layer 1</Layer Names>
+<Layer ID>1</Layer ID>
+<Start Bend>
+<Bend Row>Radius:	0	InitH:	0	KFactor:	0	Angle:	0	Direction:	0	Side:	0	Conn_P:	0	Conn_C:	0	Bend Num:	1	Name:	Base Flange	Flange_Type:	0	Tool Name:		Flange_P:	0	Flange_C:	0
+
+<Bend Lines>
+
+</Bend Lines>
+
+<Matrices>
+<Matrix-Flat><Matrix Row>1:::0:::0:::0:::0:::1:::0:::0:::0:::0:::1:::0:::0:::0:::0:::1</Matrix Row>
+</Matrix-Flat>
+<Matrix-Form><Matrix Row>1:::0:::0:::0:::0:::1:::0:::0:::0:::0:::1:::0:::0:::0:::0:::1</Matrix Row>
+</Matrix-Form>
+<Matrix-FlatInv><Matrix Row>1:::0:::0:::0:::0:::1:::0:::0:::0:::0:::1:::0:::0:::0:::0:::1</Matrix Row>
+</Matrix-FlatInv>
+<Matrix-FormInv><Matrix Row>1:::0:::0:::0:::0:::1:::0:::0:::0:::0:::1:::0:::0:::0:::0:::1</Matrix Row>
+</Matrix-FormInv>
+
+</Matrices>
+
+<Matrix Pts>
+<Points-Flat1><Row>LocX:0	LocY:0	LocZ:0</Row>
+</Points-Flat1>
+<Points-Flat2><Row>LocX:1	LocY:0	LocZ:0</Row>
+</Points-Flat2>
+<Points-Flat3><Row>LocX:0	LocY:1	LocZ:0</Row>
+</Points-Flat3>
+<Points-Form1><Row>LocX:0	LocY:0	LocZ:0</Row>
+</Points-Form1>
+<Points-Form2><Row>LocX:1	LocY:0	LocZ:0</Row>
+</Points-Form2>
+<Points-Form3><Row>LocX:0	LocY:1	LocZ:0</Row>
+</Points-Form3>
+
+</Matrix Pts>
+</Bend Row></End Bend>
+
+<Start View>
+</End View>
+
+<Start Settings>
+0:::Arial:::0.5:::False:::False:::False:::0:::1:::0:::0:::0.25:::0:::0.25:::None:::0.5:::0.25:::Arial:::0.5:::Fraction n/8:::1.0:::1.0:::1.0:::1.0:::Blank:::1.0:::0:::0:::1.0:::Blank:::Blank:::Blank:::Blank:::Blank:::Arial:::False:::False:::False:::0.5:::False:::False:::False:::1.0:::1.0:::Blank:::0:::0:::0:::0:::0:::1.0:::1.0:::1:::1:::1
+</End Settings><Start Anchors>
+<Row>LocX:0	LocY:0	LocZ:0</Row>
+<Row>LocX:0	LocY:0	LocZ:0</Row>
+<Row>LocX:0	LocY:0	LocZ:0</Row>
+<Row>LocX:0	LocY:0	LocZ:0</Row>
+<Row>LocX:0	LocY:0	LocZ:0</Row>
+<Row>LocX:0	LocY:0	LocZ:0</Row>
+</End Anchors>

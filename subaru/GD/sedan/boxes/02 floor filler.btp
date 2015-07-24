@@ -1,0 +1,461 @@
+Plate Feature File
+
+5.2.1
+
+<Flange>
+<Start Geom05>
+<Row>Type:0	Loc1X:12	Loc1Y:0	Loc2X:0	Loc2Y:0	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:0	Loc1X:12	Loc1Y:24	Loc2X:0	Loc2Y:0	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:3	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:0	Loc1X:0	Loc1Y:24	Loc2X:0	Loc2Y:0	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:4	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:1	Loc1X:0	Loc1Y:24	Loc2X:0	Loc2Y:0	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:1	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:5	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:1	Loc1X:0	Loc1Y:0	Loc2X:12	Loc2Y:0	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:1	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:6	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:1	Loc1X:12	Loc1Y:0	Loc2X:12	Loc2Y:24	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:1	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:7	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:1	Loc1X:12	Loc1Y:24	Loc2X:0	Loc2Y:24	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:1	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:8	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:0	Loc1X:1.5	Loc1Y:22.5	Loc2X:0	Loc2Y:0	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:34	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:3	Loc1X:1.5	Loc1Y:22.5	Loc2X:2.5	Loc2Y:22.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:35	Break:False	Width:2.25	IsChild:False	Length:1</Row>
+<Row>Type:3	Loc1X:4	Loc1Y:22.5	Loc2X:5	Loc2Y:22.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:36	Break:False	Width:2.25	IsChild:False	Length:1</Row>
+<Row>Type:3	Loc1X:6.5	Loc1Y:22.5	Loc2X:7.5	Loc2Y:22.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:37	Break:False	Width:2.25	IsChild:False	Length:1</Row>
+<Row>Type:3	Loc1X:9	Loc1Y:22.5	Loc2X:10	Loc2Y:22.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:38	Break:False	Width:2.25	IsChild:False	Length:1</Row>
+<Row>Type:3	Loc1X:1.5	Loc1Y:20	Loc2X:2.5	Loc2Y:20	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:39	Break:False	Width:2.25	IsChild:False	Length:1</Row>
+<Row>Type:3	Loc1X:4	Loc1Y:20	Loc2X:5	Loc2Y:20	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:40	Break:False	Width:2.25	IsChild:False	Length:1</Row>
+<Row>Type:3	Loc1X:6.5	Loc1Y:20	Loc2X:7.5	Loc2Y:20	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:41	Break:False	Width:2.25	IsChild:False	Length:1</Row>
+<Row>Type:3	Loc1X:9	Loc1Y:20	Loc2X:10	Loc2Y:20	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:42	Break:False	Width:2.25	IsChild:False	Length:1</Row>
+<Row>Type:3	Loc1X:1.5	Loc1Y:17.5	Loc2X:2.5	Loc2Y:17.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:43	Break:False	Width:2.25	IsChild:False	Length:1</Row>
+<Row>Type:3	Loc1X:4	Loc1Y:17.5	Loc2X:5	Loc2Y:17.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:44	Break:False	Width:2.25	IsChild:False	Length:1</Row>
+<Row>Type:3	Loc1X:6.5	Loc1Y:17.5	Loc2X:7.5	Loc2Y:17.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:45	Break:False	Width:2.25	IsChild:False	Length:1</Row>
+<Row>Type:3	Loc1X:9	Loc1Y:17.5	Loc2X:10	Loc2Y:17.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:46	Break:False	Width:2.25	IsChild:False	Length:1</Row>
+<Row>Type:0	Loc1X:11	Loc1Y:22.5	Loc2X:0	Loc2Y:0	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:47	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:5	Loc1X:11	Loc1Y:22.5	Loc2X:12	Loc2Y:22.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0.25	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:48	Break:False	Width:1.5	IsChild:False	Length:1.25</Row>
+<Row>Type:5	Loc1X:11	Loc1Y:20.75	Loc2X:12	Loc2Y:20.75	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0.25	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:49	Break:False	Width:1.5	IsChild:False	Length:1.25</Row>
+<Row>Type:5	Loc1X:11	Loc1Y:19	Loc2X:12	Loc2Y:19	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0.25	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:50	Break:False	Width:1.5	IsChild:False	Length:1.25</Row>
+<Row>Type:5	Loc1X:11	Loc1Y:17.25	Loc2X:12	Loc2Y:17.25	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0.25	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:51	Break:False	Width:1.5	IsChild:False	Length:1.25</Row>
+<Row>Type:5	Loc1X:1.63164461559255	Loc1Y:15.4318833177274	Loc2X:2.63164461559255	Loc2Y:15.4318833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0.25	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:52	Break:False	Width:1.25	IsChild:False	Length:1.75</Row>
+<Row>Type:5	Loc1X:3.63164461559255	Loc1Y:15.4318833177274	Loc2X:4.63164461559255	Loc2Y:15.4318833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0.25	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:53	Break:False	Width:1.25	IsChild:False	Length:1.75</Row>
+<Row>Type:5	Loc1X:5.63164461559255	Loc1Y:15.4318833177274	Loc2X:6.63164461559255	Loc2Y:15.4318833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0.25	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:54	Break:False	Width:1.25	IsChild:False	Length:1.75</Row>
+<Row>Type:5	Loc1X:7.63164461559255	Loc1Y:15.4318833177274	Loc2X:8.63164461559255	Loc2Y:15.4318833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0.25	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:55	Break:False	Width:1.25	IsChild:False	Length:1.75</Row>
+<Row>Type:5	Loc1X:1.63164461559255	Loc1Y:13.6818833177274	Loc2X:2.63164461559255	Loc2Y:13.6818833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0.25	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:56	Break:False	Width:1.25	IsChild:False	Length:1.75</Row>
+<Row>Type:5	Loc1X:3.63164461559255	Loc1Y:13.6818833177274	Loc2X:4.63164461559255	Loc2Y:13.6818833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0.25	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:57	Break:False	Width:1.25	IsChild:False	Length:1.75</Row>
+<Row>Type:5	Loc1X:5.63164461559255	Loc1Y:13.6818833177274	Loc2X:6.63164461559255	Loc2Y:13.6818833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0.25	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:58	Break:False	Width:1.25	IsChild:False	Length:1.75</Row>
+<Row>Type:5	Loc1X:7.63164461559255	Loc1Y:13.6818833177274	Loc2X:8.63164461559255	Loc2Y:13.6818833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0.25	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:59	Break:False	Width:1.25	IsChild:False	Length:1.75</Row>
+<Row>Type:5	Loc1X:10.8628853846059	Loc1Y:14.4089180980202	Loc2X:11.8628853846059	Loc2Y:14.4089180980202	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0.25	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:60	Break:False	Width:3.25	IsChild:False	Length:1.25</Row>
+<Row>Type:5	Loc1X:10.8628853846059	Loc1Y:10.9089180980202	Loc2X:11.8628853846059	Loc2Y:10.9089180980202	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0.25	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:61	Break:False	Width:3.25	IsChild:False	Length:1.25</Row>
+<Row>Type:3	Loc1X:1.59867494186681	Loc1Y:12.0329988780551	Loc2X:2.59867494186681	Loc2Y:12.0329988780551	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0.25	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:62	Break:False	Width:1.25	IsChild:False	Length:1.25</Row>
+<Row>Type:3	Loc1X:3.09867494186681	Loc1Y:12.0329988780551	Loc2X:4.09867494186681	Loc2Y:12.0329988780551	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0.25	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:63	Break:False	Width:1.25	IsChild:False	Length:1.25</Row>
+<Row>Type:3	Loc1X:4.59867494186681	Loc1Y:12.0329988780551	Loc2X:5.59867494186681	Loc2Y:12.0329988780551	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0.25	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:64	Break:False	Width:1.25	IsChild:False	Length:1.25</Row>
+<Row>Type:3	Loc1X:1.59867494186681	Loc1Y:10.5329988780551	Loc2X:2.59867494186681	Loc2Y:10.5329988780551	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0.25	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:65	Break:False	Width:1.25	IsChild:False	Length:1.25</Row>
+<Row>Type:3	Loc1X:3.09867494186681	Loc1Y:10.5329988780551	Loc2X:4.09867494186681	Loc2Y:10.5329988780551	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0.25	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:66	Break:False	Width:1.25	IsChild:False	Length:1.25</Row>
+<Row>Type:3	Loc1X:4.59867494186681	Loc1Y:10.5329988780551	Loc2X:5.59867494186681	Loc2Y:10.5329988780551	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0.25	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:67	Break:False	Width:1.25	IsChild:False	Length:1.25</Row>
+</End Geom>
+
+<Start Text>
+</End Text>
+
+<Start Dimen>
+</End Dimen>
+
+<Start Parts>
+<Row>Type:1	Loc1X:12	Loc1Y:0	Loc2X:0	Loc2Y:0	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:6	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:0	Loc1Y:0	Loc2X:0	Loc2Y:24	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:1	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:5	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:0	Loc1Y:24	Loc2X:12	Loc2Y:24	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:1	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:8	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:12	Loc1Y:24	Loc2X:12	Loc2Y:0	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:1	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:7	Break:False	IsChild:False</Row>
+</End Parts>
+
+<Start Def_Holes>
+
+<H_Row>
+
+<H_Part>
+<Row>Type:2	Loc1X:1.5	Loc1Y:22.5	Loc2X:2.625	Loc2Y:22.5	Loc3X:2.625	Loc3Y:22.5	Loc4X:1.5	Loc4Y:23.625	Def_Part:0	Radius:1.125	Angle:360	Bend Num:0	Layer:1	Key:0	Unique:198	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:2	Loc1X:4	Loc1Y:22.5	Loc2X:5.125	Loc2Y:22.5	Loc3X:5.125	Loc3Y:22.5	Loc4X:4	Loc4Y:23.625	Def_Part:0	Radius:1.125	Angle:360	Bend Num:0	Layer:1	Key:0	Unique:199	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:2	Loc1X:6.5	Loc1Y:22.5	Loc2X:7.625	Loc2Y:22.5	Loc3X:7.625	Loc3Y:22.5	Loc4X:6.5	Loc4Y:23.625	Def_Part:0	Radius:1.125	Angle:360	Bend Num:0	Layer:1	Key:0	Unique:200	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:2	Loc1X:9	Loc1Y:22.5	Loc2X:10.125	Loc2Y:22.5	Loc3X:10.125	Loc3Y:22.5	Loc4X:9	Loc4Y:23.625	Def_Part:0	Radius:1.125	Angle:360	Bend Num:0	Layer:1	Key:0	Unique:201	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:2	Loc1X:1.5	Loc1Y:20	Loc2X:2.625	Loc2Y:20	Loc3X:2.625	Loc3Y:20	Loc4X:1.5	Loc4Y:21.125	Def_Part:0	Radius:1.125	Angle:360	Bend Num:0	Layer:1	Key:0	Unique:202	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:2	Loc1X:4	Loc1Y:20	Loc2X:5.125	Loc2Y:20	Loc3X:5.125	Loc3Y:20	Loc4X:4	Loc4Y:21.125	Def_Part:0	Radius:1.125	Angle:360	Bend Num:0	Layer:1	Key:0	Unique:203	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:2	Loc1X:6.5	Loc1Y:20	Loc2X:7.625	Loc2Y:20	Loc3X:7.625	Loc3Y:20	Loc4X:6.5	Loc4Y:21.125	Def_Part:0	Radius:1.125	Angle:360	Bend Num:0	Layer:1	Key:0	Unique:204	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:2	Loc1X:9	Loc1Y:20	Loc2X:10.125	Loc2Y:20	Loc3X:10.125	Loc3Y:20	Loc4X:9	Loc4Y:21.125	Def_Part:0	Radius:1.125	Angle:360	Bend Num:0	Layer:1	Key:0	Unique:205	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:2	Loc1X:1.5	Loc1Y:17.5	Loc2X:2.625	Loc2Y:17.5	Loc3X:2.625	Loc3Y:17.5	Loc4X:1.5	Loc4Y:18.625	Def_Part:0	Radius:1.125	Angle:360	Bend Num:0	Layer:1	Key:0	Unique:206	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:2	Loc1X:4	Loc1Y:17.5	Loc2X:5.125	Loc2Y:17.5	Loc3X:5.125	Loc3Y:17.5	Loc4X:4	Loc4Y:18.625	Def_Part:0	Radius:1.125	Angle:360	Bend Num:0	Layer:1	Key:0	Unique:207	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:2	Loc1X:6.5	Loc1Y:17.5	Loc2X:7.625	Loc2Y:17.5	Loc3X:7.625	Loc3Y:17.5	Loc4X:6.5	Loc4Y:18.625	Def_Part:0	Radius:1.125	Angle:360	Bend Num:0	Layer:1	Key:0	Unique:208	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:2	Loc1X:9	Loc1Y:17.5	Loc2X:10.125	Loc2Y:17.5	Loc3X:10.125	Loc3Y:17.5	Loc4X:9	Loc4Y:18.625	Def_Part:0	Radius:1.125	Angle:360	Bend Num:0	Layer:1	Key:0	Unique:209	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:1	Loc1X:10.375	Loc1Y:23	Loc2X:10.375	Loc2Y:22	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:210	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:10.625	Loc1Y:22	Loc2X:10.375	Loc2Y:22	Loc3X:10.625	Loc3Y:21.75	Loc4X:10.625	Loc4Y:21.75	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:217	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:10.625	Loc1Y:21.75	Loc2X:11.375	Loc2Y:21.75	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:213	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:11.375	Loc1Y:22	Loc2X:11.375	Loc2Y:21.75	Loc3X:11.625	Loc3Y:22	Loc4X:11.625	Loc4Y:22	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:216	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:11.625	Loc1Y:22	Loc2X:11.625	Loc2Y:23	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:212	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:11.375	Loc1Y:23	Loc2X:11.625	Loc2Y:23	Loc3X:11.375	Loc3Y:23.25	Loc4X:11.375	Loc4Y:23.25	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:214	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:11.375	Loc1Y:23.25	Loc2X:10.625	Loc2Y:23.25	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:211	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:10.625	Loc1Y:23	Loc2X:10.625	Loc2Y:23.25	Loc3X:10.375	Loc3Y:23	Loc4X:10.375	Loc4Y:23	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:215	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:1	Loc1X:10.375	Loc1Y:21.25	Loc2X:10.375	Loc2Y:20.25	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:218	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:10.625	Loc1Y:20.25	Loc2X:10.375	Loc2Y:20.25	Loc3X:10.625	Loc3Y:20	Loc4X:10.625	Loc4Y:20	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:225	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:10.625	Loc1Y:20	Loc2X:11.375	Loc2Y:20	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:221	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:11.375	Loc1Y:20.25	Loc2X:11.375	Loc2Y:20	Loc3X:11.625	Loc3Y:20.25	Loc4X:11.625	Loc4Y:20.25	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:224	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:11.625	Loc1Y:20.25	Loc2X:11.625	Loc2Y:21.25	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:220	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:11.375	Loc1Y:21.25	Loc2X:11.625	Loc2Y:21.25	Loc3X:11.375	Loc3Y:21.5	Loc4X:11.375	Loc4Y:21.5	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:222	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:11.375	Loc1Y:21.5	Loc2X:10.625	Loc2Y:21.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:219	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:10.625	Loc1Y:21.25	Loc2X:10.625	Loc2Y:21.5	Loc3X:10.375	Loc3Y:21.25	Loc4X:10.375	Loc4Y:21.25	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:223	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:1	Loc1X:10.375	Loc1Y:19.5	Loc2X:10.375	Loc2Y:18.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:226	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:10.625	Loc1Y:18.5	Loc2X:10.375	Loc2Y:18.5	Loc3X:10.625	Loc3Y:18.25	Loc4X:10.625	Loc4Y:18.25	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:233	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:10.625	Loc1Y:18.25	Loc2X:11.375	Loc2Y:18.25	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:229	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:11.375	Loc1Y:18.5	Loc2X:11.375	Loc2Y:18.25	Loc3X:11.625	Loc3Y:18.5	Loc4X:11.625	Loc4Y:18.5	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:232	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:11.625	Loc1Y:18.5	Loc2X:11.625	Loc2Y:19.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:228	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:11.375	Loc1Y:19.5	Loc2X:11.625	Loc2Y:19.5	Loc3X:11.375	Loc3Y:19.75	Loc4X:11.375	Loc4Y:19.75	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:230	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:11.375	Loc1Y:19.75	Loc2X:10.625	Loc2Y:19.75	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:227	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:10.625	Loc1Y:19.5	Loc2X:10.625	Loc2Y:19.75	Loc3X:10.375	Loc3Y:19.5	Loc4X:10.375	Loc4Y:19.5	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:231	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:1	Loc1X:10.375	Loc1Y:17.75	Loc2X:10.375	Loc2Y:16.75	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:234	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:10.625	Loc1Y:16.75	Loc2X:10.375	Loc2Y:16.75	Loc3X:10.625	Loc3Y:16.5	Loc4X:10.625	Loc4Y:16.5	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:241	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:10.625	Loc1Y:16.5	Loc2X:11.375	Loc2Y:16.5	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:237	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:11.375	Loc1Y:16.75	Loc2X:11.375	Loc2Y:16.5	Loc3X:11.625	Loc3Y:16.75	Loc4X:11.625	Loc4Y:16.75	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:240	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:11.625	Loc1Y:16.75	Loc2X:11.625	Loc2Y:17.75	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:236	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:11.375	Loc1Y:17.75	Loc2X:11.625	Loc2Y:17.75	Loc3X:11.375	Loc3Y:18	Loc4X:11.375	Loc4Y:18	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:238	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:11.375	Loc1Y:18	Loc2X:10.625	Loc2Y:18	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:235	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:10.625	Loc1Y:17.75	Loc2X:10.625	Loc2Y:18	Loc3X:10.375	Loc3Y:17.75	Loc4X:10.375	Loc4Y:17.75	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:239	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:1	Loc1X:0.756644615592549	Loc1Y:15.8068833177274	Loc2X:0.756644615592549	Loc2Y:15.0568833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:242	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:1.00664461559255	Loc1Y:15.0568833177274	Loc2X:0.756644615592549	Loc2Y:15.0568833177274	Loc3X:1.00664461559255	Loc3Y:14.8068833177274	Loc4X:1.00664461559255	Loc4Y:14.8068833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:249	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:1.00664461559255	Loc1Y:14.8068833177274	Loc2X:2.25664461559255	Loc2Y:14.8068833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:245	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:2.25664461559255	Loc1Y:15.0568833177274	Loc2X:2.25664461559255	Loc2Y:14.8068833177274	Loc3X:2.50664461559255	Loc3Y:15.0568833177274	Loc4X:2.50664461559255	Loc4Y:15.0568833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:248	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:2.50664461559255	Loc1Y:15.0568833177274	Loc2X:2.50664461559255	Loc2Y:15.8068833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:244	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:2.25664461559255	Loc1Y:15.8068833177274	Loc2X:2.50664461559255	Loc2Y:15.8068833177274	Loc3X:2.25664461559255	Loc3Y:16.0568833177274	Loc4X:2.25664461559255	Loc4Y:16.0568833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:246	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:2.25664461559255	Loc1Y:16.0568833177274	Loc2X:1.00664461559255	Loc2Y:16.0568833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:243	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:1.00664461559255	Loc1Y:15.8068833177274	Loc2X:1.00664461559255	Loc2Y:16.0568833177274	Loc3X:0.756644615592549	Loc3Y:15.8068833177274	Loc4X:0.756644615592549	Loc4Y:15.8068833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:247	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:1	Loc1X:2.75664461559255	Loc1Y:15.8068833177274	Loc2X:2.75664461559255	Loc2Y:15.0568833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:250	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:3.00664461559255	Loc1Y:15.0568833177274	Loc2X:2.75664461559255	Loc2Y:15.0568833177274	Loc3X:3.00664461559255	Loc3Y:14.8068833177274	Loc4X:3.00664461559255	Loc4Y:14.8068833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:257	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:3.00664461559255	Loc1Y:14.8068833177274	Loc2X:4.25664461559255	Loc2Y:14.8068833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:253	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:4.25664461559255	Loc1Y:15.0568833177274	Loc2X:4.25664461559255	Loc2Y:14.8068833177274	Loc3X:4.50664461559255	Loc3Y:15.0568833177274	Loc4X:4.50664461559255	Loc4Y:15.0568833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:256	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:4.50664461559255	Loc1Y:15.0568833177274	Loc2X:4.50664461559255	Loc2Y:15.8068833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:252	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:4.25664461559255	Loc1Y:15.8068833177274	Loc2X:4.50664461559255	Loc2Y:15.8068833177274	Loc3X:4.25664461559255	Loc3Y:16.0568833177274	Loc4X:4.25664461559255	Loc4Y:16.0568833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:254	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:4.25664461559255	Loc1Y:16.0568833177274	Loc2X:3.00664461559255	Loc2Y:16.0568833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:251	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:3.00664461559255	Loc1Y:15.8068833177274	Loc2X:3.00664461559255	Loc2Y:16.0568833177274	Loc3X:2.75664461559255	Loc3Y:15.8068833177274	Loc4X:2.75664461559255	Loc4Y:15.8068833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:255	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:1	Loc1X:4.75664461559255	Loc1Y:15.8068833177274	Loc2X:4.75664461559255	Loc2Y:15.0568833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:258	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:5.00664461559255	Loc1Y:15.0568833177274	Loc2X:4.75664461559255	Loc2Y:15.0568833177274	Loc3X:5.00664461559255	Loc3Y:14.8068833177274	Loc4X:5.00664461559255	Loc4Y:14.8068833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:265	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:5.00664461559255	Loc1Y:14.8068833177274	Loc2X:6.25664461559255	Loc2Y:14.8068833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:261	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:6.25664461559255	Loc1Y:15.0568833177274	Loc2X:6.25664461559255	Loc2Y:14.8068833177274	Loc3X:6.50664461559255	Loc3Y:15.0568833177274	Loc4X:6.50664461559255	Loc4Y:15.0568833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:264	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:6.50664461559255	Loc1Y:15.0568833177274	Loc2X:6.50664461559255	Loc2Y:15.8068833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:260	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:6.25664461559255	Loc1Y:15.8068833177274	Loc2X:6.50664461559255	Loc2Y:15.8068833177274	Loc3X:6.25664461559255	Loc3Y:16.0568833177274	Loc4X:6.25664461559255	Loc4Y:16.0568833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:262	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:6.25664461559255	Loc1Y:16.0568833177274	Loc2X:5.00664461559255	Loc2Y:16.0568833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:259	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:5.00664461559255	Loc1Y:15.8068833177274	Loc2X:5.00664461559255	Loc2Y:16.0568833177274	Loc3X:4.75664461559255	Loc3Y:15.8068833177274	Loc4X:4.75664461559255	Loc4Y:15.8068833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:263	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:1	Loc1X:6.75664461559255	Loc1Y:15.8068833177274	Loc2X:6.75664461559255	Loc2Y:15.0568833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:266	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:7.00664461559255	Loc1Y:15.0568833177274	Loc2X:6.75664461559255	Loc2Y:15.0568833177274	Loc3X:7.00664461559255	Loc3Y:14.8068833177274	Loc4X:7.00664461559255	Loc4Y:14.8068833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:273	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:7.00664461559255	Loc1Y:14.8068833177274	Loc2X:8.25664461559255	Loc2Y:14.8068833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:269	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:8.25664461559255	Loc1Y:15.0568833177274	Loc2X:8.25664461559255	Loc2Y:14.8068833177274	Loc3X:8.50664461559255	Loc3Y:15.0568833177274	Loc4X:8.50664461559255	Loc4Y:15.0568833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:272	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:8.50664461559255	Loc1Y:15.0568833177274	Loc2X:8.50664461559255	Loc2Y:15.8068833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:268	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:8.25664461559255	Loc1Y:15.8068833177274	Loc2X:8.50664461559255	Loc2Y:15.8068833177274	Loc3X:8.25664461559255	Loc3Y:16.0568833177274	Loc4X:8.25664461559255	Loc4Y:16.0568833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:270	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:8.25664461559255	Loc1Y:16.0568833177274	Loc2X:7.00664461559255	Loc2Y:16.0568833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:267	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:7.00664461559255	Loc1Y:15.8068833177274	Loc2X:7.00664461559255	Loc2Y:16.0568833177274	Loc3X:6.75664461559255	Loc3Y:15.8068833177274	Loc4X:6.75664461559255	Loc4Y:15.8068833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:271	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:1	Loc1X:0.756644615592549	Loc1Y:14.0568833177274	Loc2X:0.756644615592549	Loc2Y:13.3068833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:274	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:1.00664461559255	Loc1Y:13.3068833177274	Loc2X:0.756644615592549	Loc2Y:13.3068833177274	Loc3X:1.00664461559255	Loc3Y:13.0568833177274	Loc4X:1.00664461559255	Loc4Y:13.0568833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:281	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:1.00664461559255	Loc1Y:13.0568833177274	Loc2X:2.25664461559255	Loc2Y:13.0568833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:277	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:2.25664461559255	Loc1Y:13.3068833177274	Loc2X:2.25664461559255	Loc2Y:13.0568833177274	Loc3X:2.50664461559255	Loc3Y:13.3068833177274	Loc4X:2.50664461559255	Loc4Y:13.3068833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:280	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:2.50664461559255	Loc1Y:13.3068833177274	Loc2X:2.50664461559255	Loc2Y:14.0568833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:276	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:2.25664461559255	Loc1Y:14.0568833177274	Loc2X:2.50664461559255	Loc2Y:14.0568833177274	Loc3X:2.25664461559255	Loc3Y:14.3068833177274	Loc4X:2.25664461559255	Loc4Y:14.3068833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:278	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:2.25664461559255	Loc1Y:14.3068833177274	Loc2X:1.00664461559255	Loc2Y:14.3068833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:275	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:1.00664461559255	Loc1Y:14.0568833177274	Loc2X:1.00664461559255	Loc2Y:14.3068833177274	Loc3X:0.756644615592549	Loc3Y:14.0568833177274	Loc4X:0.756644615592549	Loc4Y:14.0568833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:279	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:1	Loc1X:2.75664461559255	Loc1Y:14.0568833177274	Loc2X:2.75664461559255	Loc2Y:13.3068833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:282	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:3.00664461559255	Loc1Y:13.3068833177274	Loc2X:2.75664461559255	Loc2Y:13.3068833177274	Loc3X:3.00664461559255	Loc3Y:13.0568833177274	Loc4X:3.00664461559255	Loc4Y:13.0568833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:289	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:3.00664461559255	Loc1Y:13.0568833177274	Loc2X:4.25664461559255	Loc2Y:13.0568833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:285	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:4.25664461559255	Loc1Y:13.3068833177274	Loc2X:4.25664461559255	Loc2Y:13.0568833177274	Loc3X:4.50664461559255	Loc3Y:13.3068833177274	Loc4X:4.50664461559255	Loc4Y:13.3068833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:288	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:4.50664461559255	Loc1Y:13.3068833177274	Loc2X:4.50664461559255	Loc2Y:14.0568833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:284	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:4.25664461559255	Loc1Y:14.0568833177274	Loc2X:4.50664461559255	Loc2Y:14.0568833177274	Loc3X:4.25664461559255	Loc3Y:14.3068833177274	Loc4X:4.25664461559255	Loc4Y:14.3068833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:286	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:4.25664461559255	Loc1Y:14.3068833177274	Loc2X:3.00664461559255	Loc2Y:14.3068833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:283	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:3.00664461559255	Loc1Y:14.0568833177274	Loc2X:3.00664461559255	Loc2Y:14.3068833177274	Loc3X:2.75664461559255	Loc3Y:14.0568833177274	Loc4X:2.75664461559255	Loc4Y:14.0568833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:287	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:1	Loc1X:4.75664461559255	Loc1Y:14.0568833177274	Loc2X:4.75664461559255	Loc2Y:13.3068833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:290	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:5.00664461559255	Loc1Y:13.3068833177274	Loc2X:4.75664461559255	Loc2Y:13.3068833177274	Loc3X:5.00664461559255	Loc3Y:13.0568833177274	Loc4X:5.00664461559255	Loc4Y:13.0568833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:297	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:5.00664461559255	Loc1Y:13.0568833177274	Loc2X:6.25664461559255	Loc2Y:13.0568833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:293	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:6.25664461559255	Loc1Y:13.3068833177274	Loc2X:6.25664461559255	Loc2Y:13.0568833177274	Loc3X:6.50664461559255	Loc3Y:13.3068833177274	Loc4X:6.50664461559255	Loc4Y:13.3068833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:296	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:6.50664461559255	Loc1Y:13.3068833177274	Loc2X:6.50664461559255	Loc2Y:14.0568833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:292	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:6.25664461559255	Loc1Y:14.0568833177274	Loc2X:6.50664461559255	Loc2Y:14.0568833177274	Loc3X:6.25664461559255	Loc3Y:14.3068833177274	Loc4X:6.25664461559255	Loc4Y:14.3068833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:294	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:6.25664461559255	Loc1Y:14.3068833177274	Loc2X:5.00664461559255	Loc2Y:14.3068833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:291	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:5.00664461559255	Loc1Y:14.0568833177274	Loc2X:5.00664461559255	Loc2Y:14.3068833177274	Loc3X:4.75664461559255	Loc3Y:14.0568833177274	Loc4X:4.75664461559255	Loc4Y:14.0568833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:295	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:1	Loc1X:6.75664461559255	Loc1Y:14.0568833177274	Loc2X:6.75664461559255	Loc2Y:13.3068833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:298	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:7.00664461559255	Loc1Y:13.3068833177274	Loc2X:6.75664461559255	Loc2Y:13.3068833177274	Loc3X:7.00664461559255	Loc3Y:13.0568833177274	Loc4X:7.00664461559255	Loc4Y:13.0568833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:305	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:7.00664461559255	Loc1Y:13.0568833177274	Loc2X:8.25664461559255	Loc2Y:13.0568833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:301	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:8.25664461559255	Loc1Y:13.3068833177274	Loc2X:8.25664461559255	Loc2Y:13.0568833177274	Loc3X:8.50664461559255	Loc3Y:13.3068833177274	Loc4X:8.50664461559255	Loc4Y:13.3068833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:304	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:8.50664461559255	Loc1Y:13.3068833177274	Loc2X:8.50664461559255	Loc2Y:14.0568833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:300	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:8.25664461559255	Loc1Y:14.0568833177274	Loc2X:8.50664461559255	Loc2Y:14.0568833177274	Loc3X:8.25664461559255	Loc3Y:14.3068833177274	Loc4X:8.25664461559255	Loc4Y:14.3068833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:302	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:8.25664461559255	Loc1Y:14.3068833177274	Loc2X:7.00664461559255	Loc2Y:14.3068833177274	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:299	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:7.00664461559255	Loc1Y:14.0568833177274	Loc2X:7.00664461559255	Loc2Y:14.3068833177274	Loc3X:6.75664461559255	Loc3Y:14.0568833177274	Loc4X:6.75664461559255	Loc4Y:14.0568833177274	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:303	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:1	Loc1X:10.2378853846059	Loc1Y:15.7839180980202	Loc2X:10.2378853846059	Loc2Y:13.0339180980202	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:306	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:10.4878853846059	Loc1Y:13.0339180980202	Loc2X:10.2378853846059	Loc2Y:13.0339180980202	Loc3X:10.4878853846059	Loc3Y:12.7839180980202	Loc4X:10.4878853846059	Loc4Y:12.7839180980202	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:313	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:10.4878853846059	Loc1Y:12.7839180980202	Loc2X:11.2378853846059	Loc2Y:12.7839180980202	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:309	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:11.2378853846059	Loc1Y:13.0339180980202	Loc2X:11.2378853846059	Loc2Y:12.7839180980202	Loc3X:11.4878853846059	Loc3Y:13.0339180980202	Loc4X:11.4878853846059	Loc4Y:13.0339180980202	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:312	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:11.4878853846059	Loc1Y:13.0339180980202	Loc2X:11.4878853846059	Loc2Y:15.7839180980202	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:308	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:11.2378853846059	Loc1Y:15.7839180980202	Loc2X:11.4878853846059	Loc2Y:15.7839180980202	Loc3X:11.2378853846059	Loc3Y:16.0339180980202	Loc4X:11.2378853846059	Loc4Y:16.0339180980202	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:310	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:11.2378853846059	Loc1Y:16.0339180980202	Loc2X:10.4878853846059	Loc2Y:16.0339180980202	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:307	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:10.4878853846059	Loc1Y:15.7839180980202	Loc2X:10.4878853846059	Loc2Y:16.0339180980202	Loc3X:10.2378853846059	Loc3Y:15.7839180980202	Loc4X:10.2378853846059	Loc4Y:15.7839180980202	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:311	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:1	Loc1X:10.2378853846059	Loc1Y:12.2839180980202	Loc2X:10.2378853846059	Loc2Y:9.53391809802019	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:314	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:10.4878853846059	Loc1Y:9.53391809802019	Loc2X:10.2378853846059	Loc2Y:9.53391809802019	Loc3X:10.4878853846059	Loc3Y:9.28391809802019	Loc4X:10.4878853846059	Loc4Y:9.28391809802019	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:321	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:10.4878853846059	Loc1Y:9.28391809802019	Loc2X:11.2378853846059	Loc2Y:9.28391809802019	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:317	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:11.2378853846059	Loc1Y:9.53391809802019	Loc2X:11.2378853846059	Loc2Y:9.28391809802019	Loc3X:11.4878853846059	Loc3Y:9.53391809802019	Loc4X:11.4878853846059	Loc4Y:9.53391809802019	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:320	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:11.4878853846059	Loc1Y:9.53391809802019	Loc2X:11.4878853846059	Loc2Y:12.2839180980202	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:316	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:11.2378853846059	Loc1Y:12.2839180980202	Loc2X:11.4878853846059	Loc2Y:12.2839180980202	Loc3X:11.2378853846059	Loc3Y:12.5339180980202	Loc4X:11.2378853846059	Loc4Y:12.5339180980202	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:318	Break:False	IsChild:False</Row>
+<Row>Type:1	Loc1X:11.2378853846059	Loc1Y:12.5339180980202	Loc2X:10.4878853846059	Loc2Y:12.5339180980202	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Def_Part:0	Radius:0	Angle:0	Bend Num:0	Layer:1	Key:0	Unique:315	Break:False	IsChild:False</Row>
+<Row>Type:2	Loc1X:10.4878853846059	Loc1Y:12.2839180980202	Loc2X:10.4878853846059	Loc2Y:12.5339180980202	Loc3X:10.2378853846059	Loc3Y:12.2839180980202	Loc4X:10.2378853846059	Loc4Y:12.2839180980202	Def_Part:0	Radius:0.25	Angle:90	Bend Num:0	Layer:1	Key:0	Unique:319	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:2	Loc1X:1.59867494186681	Loc1Y:12.0329988780551	Loc2X:2.22367494186681	Loc2Y:12.0329988780551	Loc3X:2.22367494186681	Loc3Y:12.0329988780551	Loc4X:1.59867494186681	Loc4Y:12.6579988780551	Def_Part:0	Radius:0.625	Angle:360	Bend Num:0	Layer:1	Key:0	Unique:322	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:2	Loc1X:3.09867494186681	Loc1Y:12.0329988780551	Loc2X:3.72367494186681	Loc2Y:12.0329988780551	Loc3X:3.72367494186681	Loc3Y:12.0329988780551	Loc4X:3.09867494186681	Loc4Y:12.6579988780551	Def_Part:0	Radius:0.625	Angle:360	Bend Num:0	Layer:1	Key:0	Unique:323	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:2	Loc1X:4.59867494186681	Loc1Y:12.0329988780551	Loc2X:5.22367494186681	Loc2Y:12.0329988780551	Loc3X:5.22367494186681	Loc3Y:12.0329988780551	Loc4X:4.59867494186681	Loc4Y:12.6579988780551	Def_Part:0	Radius:0.625	Angle:360	Bend Num:0	Layer:1	Key:0	Unique:324	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:2	Loc1X:1.59867494186681	Loc1Y:10.5329988780551	Loc2X:2.22367494186681	Loc2Y:10.5329988780551	Loc3X:2.22367494186681	Loc3Y:10.5329988780551	Loc4X:1.59867494186681	Loc4Y:11.1579988780551	Def_Part:0	Radius:0.625	Angle:360	Bend Num:0	Layer:1	Key:0	Unique:325	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:2	Loc1X:3.09867494186681	Loc1Y:10.5329988780551	Loc2X:3.72367494186681	Loc2Y:10.5329988780551	Loc3X:3.72367494186681	Loc3Y:10.5329988780551	Loc4X:3.09867494186681	Loc4Y:11.1579988780551	Def_Part:0	Radius:0.625	Angle:360	Bend Num:0	Layer:1	Key:0	Unique:326	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+<H_Row>
+
+<H_Part>
+<Row>Type:2	Loc1X:4.59867494186681	Loc1Y:10.5329988780551	Loc2X:5.22367494186681	Loc2Y:10.5329988780551	Loc3X:5.22367494186681	Loc3Y:10.5329988780551	Loc4X:4.59867494186681	Loc4Y:11.1579988780551	Def_Part:0	Radius:0.625	Angle:360	Bend Num:0	Layer:1	Key:0	Unique:327	Break:False	IsChild:False</Row>
+
+</H_Part>
+</H_Row>
+</End Def_Holes>
+
+<Start Points>
+</End Points>
+
+<Defined>True</Defined>
+<Flange_Num>1</Flange_Num>
+<Flange_Type>0</Flange_Type>
+
+</Flange>
+
+
+
+<Start Color>
+0
+</End Color>
+
+<Material>16g mild steel</Material>
+<Part Color>10461087</Part Color>
+<Has Title>False</Has Title>
+<Part Notes></Part Notes>
+
+
+
+<Layer Names>Layer 1</Layer Names>
+<Layer ID>1</Layer ID>
+<Start Bend>
+<Bend Row>Radius:	0	InitH:	0	KFactor:	0	Angle:	0	Direction:	0	Side:	0	Conn_P:	0	Conn_C:	0	Bend Num:	1	Name:	Base Flange	Flange_Type:	0	Tool Name:		Flange_P:	0	Flange_C:	0
+
+<Bend Lines>
+
+</Bend Lines>
+
+<Matrices>
+<Matrix-Flat><Matrix Row>1:::0:::0:::0:::0:::1:::0:::0:::0:::0:::1:::0:::0:::0:::0:::1</Matrix Row>
+</Matrix-Flat>
+<Matrix-Form><Matrix Row>1:::0:::0:::0:::0:::1:::0:::0:::0:::0:::1:::0:::0:::0:::0:::1</Matrix Row>
+</Matrix-Form>
+<Matrix-FlatInv><Matrix Row>1:::0:::0:::0:::0:::1:::0:::0:::0:::0:::1:::0:::0:::0:::0:::1</Matrix Row>
+</Matrix-FlatInv>
+<Matrix-FormInv><Matrix Row>1:::0:::0:::0:::0:::1:::0:::0:::0:::0:::1:::0:::0:::0:::0:::1</Matrix Row>
+</Matrix-FormInv>
+
+</Matrices>
+
+<Matrix Pts>
+<Points-Flat1><Row>LocX:0	LocY:0	LocZ:0</Row>
+</Points-Flat1>
+<Points-Flat2><Row>LocX:1	LocY:0	LocZ:0</Row>
+</Points-Flat2>
+<Points-Flat3><Row>LocX:0	LocY:1	LocZ:0</Row>
+</Points-Flat3>
+<Points-Form1><Row>LocX:0	LocY:0	LocZ:0</Row>
+</Points-Form1>
+<Points-Form2><Row>LocX:1	LocY:0	LocZ:0</Row>
+</Points-Form2>
+<Points-Form3><Row>LocX:0	LocY:1	LocZ:0</Row>
+</Points-Form3>
+
+</Matrix Pts>
+</Bend Row></End Bend>
+
+<Start View>
+</End View>
+
+<Start Settings>
+0:::Arial:::0.5:::False:::False:::False:::0:::1:::0:::0:::0.25:::0:::0.25:::None:::0.5:::0.25:::Arial:::0.5:::Fraction n/8:::1.25:::1.0:::3.25:::1.0:::Blank:::1.0:::0:::0:::1.0:::Blank:::Blank:::Blank:::Blank:::Blank:::Arial:::False:::False:::False:::0.5:::False:::False:::False:::1.0:::1.0:::Blank:::0:::.25:::0:::0:::0:::1.25:::1.0:::1:::1:::1
+</End Settings><Start Anchors>
+<Row>LocX:0	LocY:0	LocZ:0</Row>
+<Row>LocX:0	LocY:0	LocZ:0</Row>
+<Row>LocX:0	LocY:0	LocZ:0</Row>
+<Row>LocX:0	LocY:0	LocZ:0</Row>
+<Row>LocX:0	LocY:0	LocZ:0</Row>
+<Row>LocX:0	LocY:0	LocZ:0</Row>
+</End Anchors>

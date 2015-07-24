@@ -1,0 +1,105 @@
+Plate Feature File
+
+5.2.1
+
+<Flange>
+<Start Geom05>
+<Row>Type:0	Loc1X:0	Loc1Y:0	Loc2X:0	Loc2Y:0	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2365	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:0	Loc1X:0	Loc1Y:0	Loc2X:0	Loc2Y:0	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2367	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:0	Loc1X:0	Loc1Y:3.625	Loc2X:0	Loc2Y:0	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2368	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:0	Loc1X:0.375	Loc1Y:0	Loc2X:0	Loc2Y:0	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2371	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:0	Loc1X:1	Loc1Y:3.625	Loc2X:0	Loc2Y:0	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2372	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:0	Loc1X:0.375	Loc1Y:1.125	Loc2X:0	Loc2Y:0	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2373	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:1	Loc1X:0	Loc1Y:3.625	Loc2X:0	Loc2Y:0	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2374	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:1	Loc1X:0.375	Loc1Y:0	Loc2X:0	Loc2Y:0	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2375	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:1	Loc1X:0.375	Loc1Y:0	Loc2X:0.375	Loc2Y:1.125	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2376	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:1	Loc1X:0.375	Loc1Y:1.125	Loc2X:1	Loc2Y:3.625	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2377	Break:False	Width:0	IsChild:False	Length:0</Row>
+<Row>Type:1	Loc1X:1	Loc1Y:3.625	Loc2X:0	Loc2Y:3.625	Loc3X:0	Loc3Y:0	Loc4X:0	Loc4Y:0	Color:0	Def_Part:0	Radius:0	Angle:0	Line_Type:0	Layer:1	Bend Num:0	Key:0	Unique:2378	Break:False	Width:0	IsChild:False	Length:0</Row>
+</End Geom>
+
+<Start Text>
+</End Text>
+
+<Start Dimen>
+</End Dimen>
+
+<Start Parts>
+</End Parts>
+
+<Start Def_Holes>
+
+</End Def_Holes>
+
+<Start Points>
+</End Points>
+
+<Defined>False</Defined>
+<Flange_Num>1</Flange_Num>
+<Flange_Type>0</Flange_Type>
+
+</Flange>
+
+
+
+<Start Color>
+0
+</End Color>
+
+<Material>Default</Material>
+<Part Color>12632256</Part Color>
+<Has Title>False</Has Title>
+<Part Notes></Part Notes>
+
+
+
+<Layer Names>Layer 1</Layer Names>
+<Layer ID>1</Layer ID>
+<Start Bend>
+<Bend Row>Radius:	0	InitH:	0	KFactor:	0	Angle:	0	Direction:	0	Side:	0	Conn_P:	0	Conn_C:	0	Bend Num:	1	Name:	Base Flange	Flange_Type:	0	Tool Name:		Flange_P:	0	Flange_C:	0
+
+<Bend Lines>
+
+</Bend Lines>
+
+<Matrices>
+<Matrix-Flat><Matrix Row>1:::0:::0:::0:::0:::1:::0:::0:::0:::0:::1:::0:::0:::0:::0:::1</Matrix Row>
+</Matrix-Flat>
+<Matrix-Form><Matrix Row>1:::0:::0:::0:::0:::1:::0:::0:::0:::0:::1:::0:::0:::0:::0:::1</Matrix Row>
+</Matrix-Form>
+<Matrix-FlatInv><Matrix Row>1:::0:::0:::0:::0:::1:::0:::0:::0:::0:::1:::0:::0:::0:::0:::1</Matrix Row>
+</Matrix-FlatInv>
+<Matrix-FormInv><Matrix Row>1:::0:::0:::0:::0:::1:::0:::0:::0:::0:::1:::0:::0:::0:::0:::1</Matrix Row>
+</Matrix-FormInv>
+
+</Matrices>
+
+<Matrix Pts>
+<Points-Flat1><Row>LocX:0	LocY:0	LocZ:0</Row>
+</Points-Flat1>
+<Points-Flat2><Row>LocX:1	LocY:0	LocZ:0</Row>
+</Points-Flat2>
+<Points-Flat3><Row>LocX:0	LocY:1	LocZ:0</Row>
+</Points-Flat3>
+<Points-Form1><Row>LocX:0	LocY:0	LocZ:0</Row>
+</Points-Form1>
+<Points-Form2><Row>LocX:1	LocY:0	LocZ:0</Row>
+</Points-Form2>
+<Points-Form3><Row>LocX:0	LocY:1	LocZ:0</Row>
+</Points-Form3>
+
+</Matrix Pts>
+</Bend Row></End Bend>
+
+<Start View>
+</End View>
+
+<Start Settings>
+0:::Arial:::0.5:::False:::False:::False:::0:::1:::0:::0:::0.25:::0:::0.25:::None:::0.5:::0.25:::Arial:::0.5:::Fraction n/8:::1.0:::1.0:::1.0:::1.0:::Blank:::1.0:::0:::0:::1.0:::Blank:::Blank:::Blank:::Blank:::Blank:::Arial:::False:::False:::False:::0.5:::False:::False:::False:::1.0:::1.0:::Blank:::0:::0:::0:::0:::0:::1.0:::1.0:::1:::1:::1
+</End Settings><Start Anchors>
+<Row>LocX:0	LocY:0	LocZ:0</Row>
+<Row>LocX:0	LocY:0	LocZ:0</Row>
+<Row>LocX:0	LocY:0	LocZ:0</Row>
+<Row>LocX:0	LocY:0	LocZ:0</Row>
+<Row>LocX:0	LocY:0	LocZ:0</Row>
+<Row>LocX:0	LocY:0	LocZ:0</Row>
+</End Anchors>
