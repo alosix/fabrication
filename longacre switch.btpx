@@ -1,0 +1,566 @@
+Bend-Tech Plate: DocType:BTF
+Interface: Plate
+Version: 7.08.25.0
+Comma Format: False
+PartName: longacre switch
+Material: 10g
+Units: 0
+PartColor: -4144960
+WorkingColor: -16777216
+Settings; [21]
+  0
+  -1
+  
+  4
+  False
+  False
+  True
+  False
+  True
+  True
+  0
+  0
+  1
+  0.5
+  1
+  Double Head
+  Fraction n/16
+  Decimal n
+  -16777216
+  -16777216
+  -16777216
+Flange; [461]
+ ID: {4}
+ ParentID: {3}
+ Name: Base Flange
+ IsBend: False
+ ConnectP: 0
+ ConnectC: 0
+ Angle: {3}
+ Radius: {3}
+ KFactor: {3}
+ Down: False
+ Defined: False
+ Altered: True
+ ParentLine: {3}
+ ChildLine: {3}
+ Matrix.FromFlat; [4,4]
+ {3#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {3#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {3#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {3#"}
+ Matrix.FromForm; [4,4]
+ {3#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {3#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {3#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {3#"}
+ Matrix.ToFlat; [4,4]
+ {3#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {3#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {3#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {3#"}
+ Matrix.ToForm; [4,4]
+ {3#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {3#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {3#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {3#"}
+ FlangeItem; [8]
+  ID: {4}
+  LayerID: {4}
+  Color: {83388873/}
+  Type: {3}
+  Location; 
+   X: {3}
+   Y: {3}
+   Z: {3}
+ FlangeItem; [8]
+  ID: {5}
+  LayerID: {4}
+  Color: {83388873/}
+  Type: {3}
+  Location; 
+   X: {3}
+   Y: {3}
+   Z: {3}
+ FlangeItem; [8]
+  ID: {6}
+  LayerID: {4}
+  Color: {83388873/}
+  Type: {3}
+  Location; 
+   X: {3}
+   Y: {74705}
+   Z: {3}
+ FlangeItem; [8]
+  ID: {7}
+  LayerID: {4}
+  Color: {83388873/}
+  Type: {3}
+  Location; 
+   X: {71:}
+   Y: {74705}
+   Z: {3}
+ FlangeItem; [8]
+  ID: {8}
+  LayerID: {4}
+  Color: {83388873/}
+  Type: {3}
+  Location; 
+   X: {71:}
+   Y: {3}
+   Z: {3}
+ FlangeItem; [14]
+  ID: {:}
+  LayerID: {4}
+  Color: {83388873/}
+  Type: {4}
+  Start; 
+   X: {71:}
+   Y: {74705}
+   Z: {3}
+  End; 
+   X: {3}
+   Y: {74705}
+   Z: {3}
+  LineType: {3}
+  Definition: {3}
+ FlangeItem; [14]
+  ID: {;}
+  LayerID: {4}
+  Color: {83388873/}
+  Type: {4}
+  Start; 
+   X: {3}
+   Y: {74705}
+   Z: {3}
+  End; 
+   X: {3}
+   Y: {3}
+   Z: {3}
+  LineType: {3}
+  Definition: {3}
+ FlangeItem; [14]
+  ID: {<}
+  LayerID: {4}
+  Color: {83388873/}
+  Type: {4}
+  Start; 
+   X: {3}
+   Y: {3}
+   Z: {3}
+  End; 
+   X: {71:}
+   Y: {3}
+   Z: {3}
+  LineType: {3}
+  Definition: {3}
+ FlangeItem; [14]
+  ID: {34}
+  LayerID: {4}
+  Color: {83388873/}
+  Type: {4}
+  Start; 
+   X: {71:}
+   Y: {3}
+   Z: {3}
+  End; 
+   X: {71:}
+   Y: {74705}
+   Z: {3}
+  LineType: {3}
+  Definition: {3}
+ FlangeItem; [8]
+  ID: {44}
+  LayerID: {4}
+  Color: {83388873/}
+  Type: {3}
+  Location; 
+   X: {742402}
+   Y: {742402}
+   Z: {3}
+ FlangeItem; [8]
+  ID: {54}
+  LayerID: {4}
+  Color: {83388873/}
+  Type: {3}
+  Location; 
+   X: {79920:}
+   Y: {742402}
+   Z: {3}
+ FlangeItem; [8]
+  ID: {64}
+  LayerID: {4}
+  Color: {83388873/}
+  Type: {3}
+  Location; 
+   X: {79920:}
+   Y: {742405}
+   Z: {3}
+ FlangeItem; [8]
+  ID: {74}
+  LayerID: {4}
+  Color: {83388873/}
+  Type: {3}
+  Location; 
+   X: {742402}
+   Y: {742405}
+   Z: {3}
+ FlangeItem; [16]
+  ID: {84}
+  LayerID: {4}
+  Color: {83388873/}
+  Type: {6}
+  Center; 
+   X: {742402}
+   Y: {742405}
+   Z: {3}
+  Direction; 
+   X: {742403}
+   Y: {742405}
+   Z: {3}
+  Angle: {3}
+  Radius: {3}
+  Length: {3}
+  Width: {74202}
+ FlangeItem; [16]
+  ID: {94}
+  LayerID: {4}
+  Color: {83388873/}
+  Type: {6}
+  Center; 
+   X: {79920:}
+   Y: {742405}
+   Z: {3}
+  Direction; 
+   X: {79920;}
+   Y: {742405}
+   Z: {3}
+  Angle: {3}
+  Radius: {3}
+  Length: {3}
+  Width: {74202}
+ FlangeItem; [16]
+  ID: {:4}
+  LayerID: {4}
+  Color: {83388873/}
+  Type: {6}
+  Center; 
+   X: {79920:}
+   Y: {742402}
+   Z: {3}
+  Direction; 
+   X: {79920;}
+   Y: {742402}
+   Z: {3}
+  Angle: {3}
+  Radius: {3}
+  Length: {3}
+  Width: {74202}
+ FlangeItem; [16]
+  ID: {;4}
+  LayerID: {4}
+  Color: {83388873/}
+  Type: {6}
+  Center; 
+   X: {742402}
+   Y: {742402}
+   Z: {3}
+  Direction; 
+   X: {742403}
+   Y: {742402}
+   Z: {3}
+  Angle: {3}
+  Radius: {3}
+  Length: {3}
+  Width: {74202}
+ FlangeItem; [16]
+  ID: {<4}
+  LayerID: {4}
+  Color: {83388873/}
+  Type: {6}
+  Center; 
+   X: {3}
+   Y: {3}
+   Z: {3}
+  Direction; 
+   X: {4}
+   Y: {3}
+   Z: {3}
+  Angle: {3}
+  Radius: {3}
+  Length: {3}
+  Width: {74202}
+ FlangeItem; [8]
+  ID: {35}
+  LayerID: {4}
+  Color: {83388873/}
+  Type: {3}
+  Location; 
+   X: {;}
+   Y: {79402}
+   Z: {3}
+ FlangeItem; [8]
+  ID: {45}
+  LayerID: {4}
+  Color: {83388873/}
+  Type: {3}
+  Location; 
+   X: {;}
+   Y: {79904}
+   Z: {3}
+ FlangeItem; [8]
+  ID: {55}
+  LayerID: {4}
+  Color: {83388873/}
+  Type: {3}
+  Location; 
+   X: {71:}
+   Y: {714}
+   Z: {3}
+ FlangeItem; [8]
+  ID: {65}
+  LayerID: {4}
+  Color: {83388873/}
+  Type: {3}
+  Location; 
+   X: {74702}
+   Y: {7902}
+   Z: {3}
+ FlangeItem; [8]
+  ID: {75}
+  LayerID: {4}
+  Color: {83388873/}
+  Type: {3}
+  Location; 
+   X: {74702}
+   Y: {7405}
+   Z: {3}
+ FlangeItem; [8]
+  ID: {85}
+  LayerID: {4}
+  Color: {83388873/}
+  Type: {3}
+  Location; 
+   X: {7905}
+   Y: {79904}
+   Z: {3}
+ FlangeItem; [8]
+  ID: {95}
+  LayerID: {4}
+  Color: {83388873/}
+  Type: {3}
+  Location; 
+   X: {7905}
+   Y: {79402}
+   Z: {3}
+ FlangeItem; [14]
+  ID: {:5}
+  LayerID: {4}
+  Color: {83388873/}
+  Type: {4}
+  Start; 
+   X: {;}
+   Y: {79904}
+   Z: {3}
+  End; 
+   X: {7905}
+   Y: {79904}
+   Z: {3}
+  LineType: {3}
+  Definition: {3}
+ FlangeItem; [14]
+  ID: {;5}
+  LayerID: {4}
+  Color: {83388873/}
+  Type: {4}
+  Start; 
+   X: {7905}
+   Y: {79904}
+   Z: {3}
+  End; 
+   X: {74702}
+   Y: {7405}
+   Z: {3}
+  LineType: {3}
+  Definition: {3}
+ FlangeItem; [14]
+  ID: {<5}
+  LayerID: {4}
+  Color: {83388873/}
+  Type: {4}
+  Start; 
+   X: {74702}
+   Y: {7405}
+   Z: {3}
+  End; 
+   X: {74702}
+   Y: {7902}
+   Z: {3}
+  LineType: {3}
+  Definition: {3}
+ FlangeItem; [14]
+  ID: {36}
+  LayerID: {4}
+  Color: {83388873/}
+  Type: {4}
+  Start; 
+   X: {74702}
+   Y: {7902}
+   Z: {3}
+  End; 
+   X: {7905}
+   Y: {79402}
+   Z: {3}
+  LineType: {3}
+  Definition: {3}
+ FlangeItem; [14]
+  ID: {46}
+  LayerID: {4}
+  Color: {83388873/}
+  Type: {4}
+  Start; 
+   X: {7905}
+   Y: {79402}
+   Z: {3}
+  End; 
+   X: {;}
+   Y: {79402}
+   Z: {3}
+  LineType: {3}
+  Definition: {3}
+ FlangeItem; [14]
+  ID: {56}
+  LayerID: {4}
+  Color: {83388873/}
+  Type: {4}
+  Start; 
+   X: {;}
+   Y: {79402}
+   Z: {3}
+  End; 
+   X: {;}
+   Y: {79904}
+   Z: {3}
+  LineType: {3}
+  Definition: {3}
+Layer; [2]
+ Name: Layer 1
+ ID: {4}
+Rotation; [35]
+ Name: Default
+ Rotate; [4,4]
+ {3#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {3#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {3#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {3#"}
+ Remove; [4,4]
+ {3#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {3#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {3#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {2#"}
+ {3#"}
+HoleSizes; [32]
+  .125
+  
+  
+  
+  1
+  0
+  0
+  
+  1
+  0
+  0
+  2
+  1
+  
+  0
+  2
+  1
+  
+  0
+  2
+  1
+  1.5
+  
+  0.25
+  
+  
+  
+  
+  
+  
+  
+  
+Notes: 
